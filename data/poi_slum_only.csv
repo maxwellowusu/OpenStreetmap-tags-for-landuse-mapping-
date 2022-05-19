@@ -1,0 +1,3880 @@
+FID,osm_id,code,fclass,name
+82,1212326493,2302,fast_food,Walkers extra large pizza
+114,1270558192,2404,guesthouse,Quenn Victoria's Guest House
+117,1270558809,2120,doctors,Sape Agbo Memorial Hospital
+118,1270558824,2401,hotel,Ebony Hotel
+126,1276372938,2601,bank,Ecobank
+129,1276373016,2601,bank,Societe Generale Ghana
+135,1280783185,2602,atm, 
+414,2041823191,2301,restaurant,Las Palmas
+417,2068210669,2129,veterinary,East Legon Veteinary Centre
+418,2068210674,2601,bank,Ecobank
+618,2711489919,2404,guesthouse,Omega guesthouse
+623,2711610728,2404,guesthouse,DNA Guesthouse
+651,2995452970,2601,bank,FT Global Group
+703,3070233497,2501,supermarket,Night Market
+704,3070233530,2082,school,Golden Mission Int. School
+715,3073600507,2601,bank,Access Bank
+717,3073604579,2601,bank,UBA - Abossey Okai
+718,3073604697,2601,bank,Fidelity Bank
+734,3095446419,2511,convenience, 
+752,3109282498,2016,market_place,Odoornaa Market
+759,3123797173,2601,bank,Fidelity Bank
+778,3154426148,2016,market_place,Lapaz Street Market
+790,3206073307,2601,bank,Absa
+791,3206073309,2601,bank,adb (agricultural development bank)
+802,3260711596,2401,hotel,Grand View Hotel
+812,3415001090,2601,bank,Bank of Africa
+862,3676307200,2082,school,Step-by-Step School
+863,3676307201,2301,restaurant,Mr. Foods
+967,3848970819,2082,school,Mount Zion Basic School Ltd
+968,3896528505,2543,doityourself,More Power Showroom
+970,3903316922,2561,hairdresser, 
+971,3903316924,2301,restaurant, 
+972,3903316932,2001,police, 
+974,3914593750,2601,bank,GCB Bank
+975,3950017300,2082,school,Dannaks Senior High School
+976,3950017301,2601,bank,Ecobank
+977,3950017302,2083,kindergarten,Five Star Preparatory School
+978,3950017303,2083,kindergarten,Frelimart School
+979,3950017304,2120,doctors,King David Hospital
+980,3950017305,2082,school,Neupert School
+982,3961469676,2082,school,Bright Brains Int. Academy
+983,3961469678,2082,school,Dzokson Business College
+984,3961469679,2601,bank,Ecobank
+985,3961469680,2101,pharmacy,Ernest Chemists Ltd.
+986,3961469681,2082,school,Jerusalem Basic School
+987,3961469684,2082,school,Teacher Adam Memorial School
+988,3961469686,2304,pub,Wembley Pub
+993,3974505655,2601,bank,Zenith Bank
+1255,4316803033,2082,school,Emando Memorial Int. School
+1256,4316803036,2120,doctors,Midway Clinic Ltd.
+1325,4378223390,2404,guesthouse,Oldswan Guesthouse
+1395,4400511300,2505,department_store,Hisense Gh. Ltd.
+1403,4411520096,2906,waste_basket, 
+1418,4429993095,2111,clinic,Medical & Dental Council Ghana
+1423,4430018890,2101,pharmacy,Pharmacy Council &National Drug
+1467,4516622590,2101,pharmacy,Lesson Pharmacy
+1475,4530629790,2030,recycling,Agbogbloshie E-waste Recycling Centre(EPA)
+1489,4554919900,2101,pharmacy,Emporium Pharmacy
+1539,4678136996,2601,bank,Energybank accra
+1546,4693635291,2205,playground,Loso Park
+1556,4707781689,2303,cafe, 
+1698,4972894702,2601,bank,Societe General
+1699,4972894703,2601,bank,adb
+1702,4973907021,2522,sports_shop,Jubilee Sports
+1722,4991168452,2501,supermarket,Melcom
+1731,5005175758,2101,pharmacy,Tobinco Pharmaceuticals Limited
+1734,5009999079,2601,bank,Bank of Africa
+1735,5010001665,2601,bank,Prudential Bank
+1736,5010002169,2601,bank,UniCredit Ghana Limited
+1737,5010002691,2601,bank,First Atlantic Bank
+1743,5016194216,2601,bank,UniCredit Ghana Limited
+1791,5031340442,2546,computer_shop,Zidane Mega Systems
+1795,5038666554,2601,bank,Ecobank
+1798,5052248814,2303,cafe,Jamestown Café
+1857,5118998922,2405,hostel,Crystal Hostel
+1858,5119696821,2404,guesthouse,Malaikah Guest House
+1867,5139449739,2601,bank,"Access Bank Ghana, Head Office"
+1872,5139471416,2602,atm,GCB
+1874,5139473656,2528,greengrocer,Who Knows Tomorrow
+1876,5139474491,2529,beauty_shop,Meko
+1877,5139474493,2301,restaurant,De'lish
+1883,5150562245,2602,atm, 
+1893,5199348276,2601,bank,Prudential Bank
+1894,5199708816,2601,bank,GT Bank
+1895,5199710726,2601,bank,Equity Savings and Loans
+1896,5199759903,2111,clinic,Opmann Clinic
+1897,5199760922,2101,pharmacy,Tedolex Pharmacy
+1915,5209797472,2529,beauty_shop, 
+1916,5209797473,2950,tower, 
+1917,5209797474,2301,restaurant,Las Palmas
+1918,5209797475,2601,bank,Societe General Ghana
+1921,5209798043,2304,pub,McKay's Pub
+1930,5209798222,2301,restaurant,McKay's Restaurant
+1931,5209798223,2601,bank,CAL Bank
+1978,5235962351,2302,fast_food,Obaapa Special Food
+1979,5235962352,2564,car_wash, 
+1989,5235963361,2601,bank,GN Bank
+1990,5235963363,2401,hotel,Najinaram Crescent Lodge
+1991,5235963364,2301,restaurant,FT Tawakalatu Allah Lah
+1993,5235963521,2101,pharmacy,Rhamshiv Pharmacy
+2020,5291947251,2016,market_place,Nima Market
+2026,5300408284,2101,pharmacy,Solutions Pharmaceuticals Limited
+2027,5300408285,2543,doityourself,Porcer Ghana Limited
+2089,5468773050,2301,restaurant,Las Palmas - Abeka Branch
+2090,5468773051,2304,pub,Sly Pentagon Spot
+2091,5472288051,2951,comms_tower, 
+2105,5488973722,2543,doityourself,Salome Oppong Ent
+2106,5488985124,2543,doityourself,Kigee Entreprise
+2107,5489021621,2543,doityourself,Chardina Entreprise
+2161,5626517565,2525,mobile_phone_shop, 
+2271,5717931866,2601,bank,Consolidated Bank Ghana
+2295,5727975621,2101,pharmacy,Op Pharmacy
+2352,5735687846,2564,car_wash, 
+2360,5745405253,2601,bank,Consolidated Bank Ghana
+2361,5745406781,2601,bank,Consolidated Bank Ghana
+2362,5745406880,2404,guesthouse,Sue's Royal Cottage
+2390,5751454669,2601,bank,Boston Premier Microfinance
+2391,5751454670,2525,mobile_phone_shop,Godwin Phones
+2394,5751506536,2543,doityourself,Laox Enterprise
+2395,5751506634,2543,doityourself,Guster Ent
+2472,5769830637,2564,car_wash,Kwame Jambo Car Wash
+2474,5770202953,2013,nursing_home, 
+2512,5792792325,2519,optician,The Optical Centre
+2545,5824861235,2601,bank,Ecobank
+2548,5825836356,2305,bar,Osu Beach Club
+2602,5914511493,2304,pub,Splash Pleasure
+2603,5915566164,2541,car_dealership, 
+2605,5915584675,2401,hotel,Expo' 67
+2606,5915587063,2950,tower, 
+2621,5922393579,2511,convenience,Samanti Supermarket
+2622,5922398024,2543,doityourself,Nana K. Gyasi
+2623,5922413302,2401,hotel,Nivasi Hotel
+2624,5922690392,2082,school,UPCO
+2632,5928440065,2082,school,Moriah Development Development School
+2634,5928601689,2561,hairdresser,King Jasper Barbering Salon
+2635,5928601767,2561,hairdresser, 
+2636,5928601768,2511,convenience, 
+2640,5932276113,2082,school,Little Angels School
+2641,5932276114,2302,fast_food,Target Fast Food
+2642,5932581046,2082,school,St. Theresa of Avila School
+2646,5940499694,2561,hairdresser,Atimeinga
+2647,5940499807,2304,pub,King Bright's Pub
+2648,5940499808,2561,hairdresser, 
+2653,5954279788,2302,fast_food,Fufu and Fried Yam
+2663,5955304725,2546,computer_shop,Data Appcom
+2666,5956685479,2101,pharmacy,Septal
+2676,5961158622,2518,beverages,Prinannins Ventures
+2681,5963527663,2082,school,St. Thomas Preparatory School
+2682,5963528280,2101,pharmacy,Nesta
+2688,5965921810,2401,hotel,Eno Mirekua Hotel
+2690,5966273764,2304,pub,Antarpong Spot
+2694,5966273993,2529,beauty_shop,Trinity
+2707,5971357876,2546,computer_shop,Digital Documents Services Limited
+2708,5971360535,2523,stationery,Dorilad Enterprise
+2709,5971361650,2302,fast_food,Dzifa Co. Kenkey
+2712,5971553421,2515,bookshop,Dynamic Books
+2718,5973040029,2304,pub,Kala's Pub
+2724,5984907921,2005,post_office,Abeka Post Office
+2725,5984944379,2568,laundry,Laundry and Dry Cleaners Service
+2730,5988609526,2568,laundry,Credence Laundry
+2741,5994355486,2964,water_works, 
+2743,5995678331,2301,restaurant,Hajia No Size Restaurant
+2745,5995998593,2951,comms_tower, 
+2746,5995998594,2951,comms_tower, 
+2747,5996157734,2951,comms_tower, 
+2748,5996213988,2525,mobile_phone_shop,Agye God
+2759,6007272344,2301,restaurant,Papaye Tesano (Apenkwa)
+2762,6007704740,2503,kiosk, 
+2767,6009358777,2561,hairdresser,US Hair Cut
+2790,6039851298,2561,hairdresser,Zak's Cool Cut
+2791,6039851301,2514,chemist, 
+2823,6087413448,2082,school,Little Saints School
+2835,6100969252,2301,restaurant,Mama Grace Corner
+2839,6100970624,2083,kindergarten,St Gregory World of Kids
+2845,6115657385,2101,pharmacy,1st Champions Pharmacy
+2847,6117818558,2523,stationery,Delcam Books and Stationery
+2848,6117826729,2546,computer_shop,DataPort Ghana Limited
+2851,6125864590,2082,school,ARS Technical Senior High School
+2855,6132175109,2101,pharmacy,Josly Pharmacy Limited
+2888,6179373786,2512,clothes,WunZalgu FabriQs
+2919,6215799885,2101,pharmacy,Hills Pharmacy
+2920,6216253562,2304,pub,Deejewel Pub
+2921,6216267709,2601,bank,Consolidated Bank Ghana
+2922,6216389941,2302,fast_food,Bintu Fast Food
+2927,6218840085,2101,pharmacy,Syrene Health Services
+2928,6220473435,2543,doityourself,Permafix
+2929,6220499200,2082,school,Derby Avenue Roman Catholic School
+2931,6225634612,2568,laundry,Uptown Laundry
+2932,6225641672,2304,pub,Johnny's Spot
+2953,6242101628,2951,comms_tower, 
+2954,6243029642,2304,pub,Varleshia Pub
+2962,6248861886,2301,restaurant,Heletak Food Center
+2963,6248863891,2601,bank,National Investment Bank
+2980,6259341468,2302,fast_food,Lips Foods
+2981,6259342770,2514,chemist,Sarpong
+2983,6259422168,2401,hotel,Yellow City Hotel
+3010,6267875375,2543,doityourself,Anez Plus Enterprise
+3012,6267957986,2543,doityourself,Jasifam Ent
+3013,6267957987,2543,doityourself,Global builders
+3014,6267957988,2543,doityourself,Al-Qayum Entreprie
+3015,6267957993,2543,doityourself,Bontos Trading Entreprise
+3016,6267957995,2543,doityourself,Fred Vic Entreprise
+3017,6267957997,2543,doityourself,F. Quadam Entreprise
+3018,6267957999,2543,doityourself,Esumin Services
+3019,6267958000,2543,doityourself,God Visiting Ent
+3020,6267958001,2543,doityourself,Gillco Entreprise Limited
+3021,6267958002,2543,doityourself,Calberno Entreprise
+3022,6267958004,2543,doityourself,Skyport Trading Entreprise
+3023,6267958005,2543,doityourself,Holy Fields Capital Impex
+3024,6267958006,2543,doityourself,Vicarius Ent
+3025,6267958007,2543,doityourself,Bel Phillis Entreprise
+3026,6267958008,2543,doityourself,Box Park
+3027,6267958010,2543,doityourself,EYA
+3028,6267958011,2543,doityourself,Kyei Mensah
+3029,6267958012,2543,doityourself,K s Mark Entreprise
+3030,6267958013,2543,doityourself,Trinity Plumbing
+3031,6267958014,2543,doityourself,Bontos Trading Entreprise
+3032,6267958015,2543,doityourself,Kwason Entreprise
+3033,6267958019,2543,doityourself,Living Testimony Ent
+3034,6267958020,2543,doityourself,El Adonai Tra
+3035,6267958021,2543,doityourself,Hassanko Trading
+3036,6267958022,2543,doityourself,Hieden Entreprise
+3037,6267958024,2543,doityourself,BX Hardware
+3038,6267958025,2543,doityourself,Plumbing Works Entreprise
+3039,6267958026,2401,hotel,Hotel de Horses
+3040,6267958027,2543,doityourself,Johberti Entreprise
+3041,6268177237,2305,bar,Winners Resort
+3050,6277014881,2906,waste_basket, 
+3051,6277014882,2906,waste_basket, 
+3052,6277014886,2082,school,Mizpa Methodist Preparatory School
+3054,6277014888,2082,school,Ibne Abbas Basic School
+3056,6277014900,2906,waste_basket, 
+3058,6277014902,2906,waste_basket, 
+3059,6277014903,2906,waste_basket, 
+3060,6277014904,2906,waste_basket, 
+3061,6277014905,2906,waste_basket, 
+3062,6277014906,2906,waste_basket, 
+3063,6277014907,2906,waste_basket, 
+3065,6277014909,2906,waste_basket, 
+3066,6277014910,2906,waste_basket, 
+3075,6277014920,2503,kiosk, 
+3082,6277014933,2302,fast_food,Harry's Place
+3085,6277014940,2503,kiosk,The Lord is my Shepherd
+3087,6277014943,2305,bar, 
+3091,6277014948,2503,kiosk, 
+3093,6277014951,2302,fast_food, 
+3094,6277014952,2503,kiosk, 
+3101,6277014964,2302,fast_food,Abiba Tea & Oat
+3102,6277014965,2503,kiosk, 
+3106,6277014969,2302,fast_food, 
+3108,6277014971,2503,kiosk, 
+3109,6277014972,2503,kiosk, 
+3118,6277014983,2503,kiosk, 
+3125,6277015894,2503,kiosk, 
+3126,6277015895,2503,kiosk, 
+3128,6277015897,2503,kiosk, 
+3133,6277015902,2503,kiosk, 
+3136,6277015909,2529,beauty_shop,Dreams Beauty Parlor
+3137,6277015911,2561,hairdresser, 
+3138,6277015912,2512,clothes,Grozo Unisex Fashion
+3140,6277015914,2561,hairdresser, 
+3144,6277015918,2529,beauty_shop,Enso Nyame Ye Beauty Saloon
+3145,6277015920,2503,kiosk, 
+3146,6277015921,2529,beauty_shop, 
+3149,6277015925,2503,kiosk, 
+3150,6277015926,2503,kiosk, 
+3152,6277015929,2503,kiosk,Nyame Tiase
+3155,6277015932,2503,kiosk, 
+3157,6277015934,2503,kiosk, 
+3162,6277015945,2503,kiosk, 
+3163,6277015946,2543,doityourself, 
+3169,6277015956,2503,kiosk, 
+3171,6277015959,2503,kiosk, 
+3172,6277015960,2503,kiosk, 
+3173,6277015961,2512,clothes, 
+3174,6277015962,2503,kiosk, 
+3181,6277015972,2304,pub,Nijash Pub
+3187,6277015979,2503,kiosk, 
+3190,6277015982,2529,beauty_shop, 
+3198,6277016091,2561,hairdresser, 
+3210,6277016107,2561,hairdresser, 
+3211,6277016111,2503,kiosk, 
+3215,6277016115,2561,hairdresser,God's Hands Salon
+3216,6277016116,2305,bar,Don Mi-Yok's Nest
+3222,6277016126,2503,kiosk,Mawu Akpe Nawo
+3227,6277016135,2512,clothes,Ebencom Kids Paradise
+3228,6277016136,2512,clothes, 
+3229,6277016137,2503,kiosk, 
+3230,6277016139,2503,kiosk, 
+3231,6277016140,2503,kiosk, 
+3233,6277016142,2302,fast_food,Peace and Love
+3234,6277016144,2503,kiosk,Yinimalia Trading Enterprise
+3237,6277016148,2516,butcher,Nii Boi Town Fresh Meat Shop
+3241,6277016153,2561,hairdresser,Mag's Beauty Palace
+3243,6277016156,2517,shoe_shop, 
+3247,6277016160,2503,kiosk, 
+3248,6277016162,2503,kiosk, 
+3251,6277016165,2511,convenience,Broadway Provisions Store
+3255,6277016171,2503,kiosk, 
+3266,6277980231,2561,hairdresser,After Shave Barbering Saloon
+3267,6277983948,2503,kiosk,Yesu Adom
+3269,6278008610,2503,kiosk,Glory to Jesus
+3270,6278008685,2503,kiosk,Helysiss Enterprise
+3272,6278581282,2082,school, 
+3274,6279110330,2082,school,Rama School
+3279,6279110335,2082,school, 
+3281,6279110346,2111,clinic,Edward Attah Asare
+3285,6279110352,2906,waste_basket, 
+3286,6279110354,2903,drinking_water, 
+3287,6279110356,2503,kiosk, 
+3288,6279110357,2529,beauty_shop,Yesu Mogya Beauty Saloon
+3289,6279110358,2513,florist,Joy Floral & Catering Service
+3291,6279110361,2561,hairdresser, 
+3292,6279110363,2305,bar, 
+3293,6279110364,2503,kiosk, 
+3295,6279110367,2503,kiosk, 
+3297,6279110369,2503,kiosk, 
+3298,6279110371,2503,kiosk, 
+3299,6279110372,2503,kiosk,To God Be The Glory
+3300,6279110373,2305,bar, 
+3301,6279110374,2503,kiosk, 
+3302,6279110376,2302,fast_food, 
+3303,6279110377,2302,fast_food, 
+3304,6279110378,2503,kiosk,Let Love Lead Enterprise
+3305,6279110380,2503,kiosk, 
+3306,6279110381,2503,kiosk, 
+3307,6279110382,2302,fast_food, 
+3308,6279110383,2503,kiosk, 
+3311,6279110687,2561,hairdresser,God's Time Beauty salon
+3312,6279110688,2503,kiosk, 
+3313,6279110689,2561,hairdresser, 
+3315,6279110692,2561,hairdresser,Jehovah Beauty Salon
+3316,6279110694,2305,bar,Bar
+3318,6279110696,2503,kiosk, 
+3319,6279110697,2503,kiosk,Efiekesim
+3321,6279110699,2503,kiosk, 
+3323,6279110701,2302,fast_food, 
+3324,6279110702,2561,hairdresser,Enso Nyame Yɛ
+3325,6279110703,2561,hairdresser, 
+3326,6279110704,2503,kiosk, 
+3327,6279110705,2511,convenience,Jesus Never fails
+3328,6279110707,2561,hairdresser,Clean Cut Barbering
+3329,6279110709,2303,cafe,Big Apple cafe
+3330,6279110711,2503,kiosk, 
+3331,6279110712,2503,kiosk, 
+3332,6279110713,2503,kiosk, 
+3333,6279110714,2561,hairdresser, 
+3334,6279110715,2503,kiosk,Everything by God
+3335,6279110716,2516,butcher,God's Power Coldstore & Provision
+3337,6279110718,2302,fast_food, 
+3338,6279110719,2305,bar,A One Spot
+3339,6279110720,2503,kiosk, 
+3341,6279110723,2561,hairdresser,Shawn's Beauty Parlour
+3342,6279110725,2544,furniture_shop, 
+3343,6279110726,2302,fast_food, 
+3344,6279110727,2561,hairdresser,Pamela's Nails Shop
+3347,6279110731,2304,pub,Lovers' Corner
+3349,6279110734,2528,greengrocer, 
+3350,6279110738,2503,kiosk, 
+3352,6279110742,2304,pub,Daddy Pub
+3353,6279110743,2503,kiosk, 
+3354,6279110744,2503,kiosk, 
+3355,6279110747,2561,hairdresser,Queens Beauty Salon
+3356,6279110748,2301,restaurant,KD Catering Services
+3357,6279110749,2561,hairdresser, 
+3358,6279110750,2517,shoe_shop,Progress Collections
+3359,6279110751,2503,kiosk, 
+3360,6279110752,2529,beauty_shop,My Redeemer is Alive
+3361,6279110753,2503,kiosk, 
+3362,6279110754,2503,kiosk, 
+3363,6279110755,2503,kiosk, 
+3364,6279110757,2561,hairdresser,The Lord is My Shepherd
+3365,6279110758,2561,hairdresser,Tees Int Barbering Shop
+3366,6279110759,2503,kiosk, 
+3367,6279110760,2305,bar, 
+3369,6279110762,2503,kiosk, 
+3371,6279110766,2305,bar,Point 5
+3372,6279110767,2529,beauty_shop,Eazy's Beauty Parlour
+3373,6279110768,2503,kiosk, 
+3374,6279110770,2503,kiosk, 
+3375,6279110771,2503,kiosk, 
+3376,6279110772,2561,hairdresser, 
+3377,6279110774,2561,hairdresser,Menash Salon
+3378,6279110776,2503,kiosk, 
+3379,6279110777,2302,fast_food, 
+3380,6279110780,2528,greengrocer, 
+3381,6279110781,2302,fast_food,Lizy Special Food Joint
+3382,6279110782,2503,kiosk, 
+3383,6279110783,2561,hairdresser,Golden Queens Hair Clinic
+3385,6279111287,2082,school,All 's' & Ralphs Academy
+3386,6279111288,2503,kiosk,Inn Llama Maa As-Is Swabirin
+3387,6279111290,2503,kiosk, 
+3388,6279111291,2305,bar, 
+3389,6279111292,2302,fast_food, 
+3390,6279111293,2503,kiosk, 
+3391,6279111295,2503,kiosk, 
+3392,6279111296,2503,kiosk, 
+3393,6279111297,2302,fast_food, 
+3394,6279111298,2503,kiosk, 
+3395,6279111299,2561,hairdresser,Vee-Crown Beauty Salon
+3396,6279111300,2561,hairdresser, 
+3397,6279111301,2512,clothes, 
+3398,6279111302,2512,clothes, 
+3400,6279111304,2305,bar, 
+3401,6279111305,2503,kiosk, 
+3402,6279111306,2302,fast_food,Blessed Hands
+3403,6279111307,2503,kiosk, 
+3404,6279111308,2503,kiosk, 
+3405,6279111310,2503,kiosk,Fufu Pounding Machine
+3406,6279111311,2503,kiosk, 
+3407,6279111313,2503,kiosk,Edna Ventures
+3408,6279111314,2503,kiosk,God Raised Enterprise
+3410,6279111319,2503,kiosk, 
+3411,6279111321,2503,kiosk, 
+3412,6279111324,2561,hairdresser,Aba's Perfect Braids
+3413,6279111326,2503,kiosk, 
+3415,6279111329,2528,greengrocer, 
+3416,6279111330,2511,convenience, 
+3417,6279111331,2302,fast_food, 
+3418,6279111332,2503,kiosk, 
+3419,6279111333,2305,bar, 
+3420,6279111336,2528,greengrocer, 
+3421,6279111340,2503,kiosk, 
+3423,6279111342,2516,butcher,Life Goes On Cold Store
+3424,6279111346,2561,hairdresser, 
+3425,6279111347,2503,kiosk,No Shaking
+3426,6279111348,2516,butcher,Home Style Cold Store
+3427,6279111350,2302,fast_food, 
+3430,6279111354,2503,kiosk, 
+3431,6279111356,2528,greengrocer, 
+3432,6279111357,2561,hairdresser, 
+3433,6279111359,2528,greengrocer, 
+3434,6279111360,2203,cinema,In Go We Trust Multimedia
+3435,6279111361,2503,kiosk, 
+3436,6279111363,2302,fast_food, 
+3437,6279111365,2503,kiosk, 
+3438,6279111366,2561,hairdresser, 
+3439,6279111368,2503,kiosk, 
+3442,6279111371,2514,chemist,With Allah All Things Are Possible
+3443,6279111373,2503,kiosk, 
+3458,6283465041,2084,college,Vaad Teacher Training Center
+3459,6283465042,2082,school,Kingsclass Senior High School
+3460,6283465043,2082,school,Sammy Bass Gospel Music School
+3461,6283465045,2083,kindergarten,Emelda Educational Complex
+3462,6283465046,2082,school,Zenith School
+3463,6283465047,2082,school,DMM Training center
+3464,6283465048,2082,school,Sunset School
+3465,6283465049,2083,kindergarten,BF Kids School
+3466,6283465054,2601,bank,GN Savings
+3467,6283465056,2602,atm,Ecobank
+3468,6283465058,2101,pharmacy,Esther's Pharmacy Shop
+3469,6283465059,2101,pharmacy,Luckies Pharmacy
+3470,6283465060,2906,waste_basket, 
+3471,6283465063,2906,waste_basket, 
+3472,6283465064,2903,drinking_water, 
+3473,6283465066,2903,drinking_water, 
+3474,6283465067,2903,drinking_water, 
+3475,6283465071,2561,hairdresser,Everything by God Construction and Barbering
+3476,6283465073,2511,convenience,Sister Baby Store
+3477,6283465074,2561,hairdresser, 
+3478,6283465075,2512,clothes, 
+3479,6283465079,2561,hairdresser, 
+3480,6283465080,2568,laundry,Kleenlook Laundry and Dry Cleaning
+3481,6283465081,2561,hairdresser, 
+3482,6283465083,2561,hairdresser,Megyefo Tease Salon
+3483,6283465084,2302,fast_food, 
+3484,6283471286,2561,hairdresser, 
+3485,6283471287,2302,fast_food,Asana Waakye
+3486,6283471288,2541,car_dealership,Awurade Kasa Motors
+3487,6283471289,2561,hairdresser,Rigina Hair Salon
+3488,6283471291,2517,shoe_shop, 
+3489,6283471292,2503,kiosk,Good Old Days
+3490,6283471293,2511,convenience,Holy Ghost Fire Supermarket
+3491,6283471294,2528,greengrocer, 
+3492,6283471296,2503,kiosk, 
+3493,6283471297,2503,kiosk,Agya Nkansah Enterprise
+3494,6283471298,2503,kiosk, 
+3495,6283471299,2512,clothes, 
+3496,6283471303,2503,kiosk, 
+3497,6283471304,2503,kiosk, 
+3498,6283471305,2503,kiosk, 
+3499,6283471306,2528,greengrocer, 
+3500,6283471307,2503,kiosk,God's Way
+3501,6283471308,2544,furniture_shop, 
+3502,6283471309,2503,kiosk,Georgina Shop
+3503,6283471310,2503,kiosk, 
+3504,6283471314,2304,pub,Sweetie Pub
+3505,6283471315,2305,bar,Suncity Night club
+3506,6283471317,2503,kiosk, 
+3507,6283471318,2544,furniture_shop,Kaslee Company Limited
+3508,6283471319,2302,fast_food, 
+3509,6283471322,2543,doityourself, 
+3510,6283471323,2561,hairdresser, 
+3511,6283471324,2503,kiosk, 
+3512,6283471325,2503,kiosk, 
+3513,6283471326,2305,bar,Peace and Love Spot
+3514,6283471327,2516,butcher, 
+3515,6283471333,2561,hairdresser, 
+3516,6283471334,2302,fast_food, 
+3517,6283471336,2503,kiosk,My Redeemer Lives Provision Shop
+3518,6283471337,2503,kiosk, 
+3519,6283471338,2305,bar,Mamewei Spot
+3520,6283471339,2503,kiosk, 
+3521,6283471340,2511,convenience,Felicia Mini Mart
+3522,6283471341,2302,fast_food, 
+3523,6283471342,2561,hairdresser,Samira Fashion
+3524,6283471343,2503,kiosk,Jehovah Jireh
+3525,6283471347,2541,car_dealership,YAD Car Rentals Limited
+3526,6283471348,2503,kiosk, 
+3527,6283471349,2543,doityourself,B.Y.A Limited
+3528,6283471351,2503,kiosk, 
+3529,6283471352,2304,pub, 
+3530,6283471353,2543,doityourself, 
+3531,6283471354,2561,hairdresser, 
+3532,6283471355,2503,kiosk, 
+3533,6283471356,2503,kiosk, 
+3534,6283471357,2305,bar,African Special
+3535,6283471359,2503,kiosk,Holy Crown of Thorns Trading Enterprise
+3536,6283471360,2561,hairdresser,The Blood of Jesus Beauty Salon
+3537,6283471362,2503,kiosk,Edikilia Ventures
+3538,6283471363,2529,beauty_shop, 
+3539,6283471364,2302,fast_food,God is Good Special Food
+3540,6283471365,2302,fast_food, 
+3541,6283471366,2503,kiosk, 
+3542,6283471367,2302,fast_food,Manicure Catering Services
+3543,6283471369,2302,fast_food,Next Level
+3544,6283471371,2529,beauty_shop,Comfort Salon
+3545,6283471372,2503,kiosk, 
+3546,6283471373,2302,fast_food, 
+3547,6283471374,2503,kiosk, 
+3548,6283471378,2503,kiosk, 
+3549,6283471381,2561,hairdresser,Anointed Hand
+3550,6283471383,2561,hairdresser,Happy Hair Cut
+3551,6283471384,2305,bar, 
+3552,6283472785,2503,kiosk, 
+3553,6283472786,2503,kiosk, 
+3554,6283472787,2512,clothes,God First Clothes Shop
+3555,6283472788,2503,kiosk,Yesu-Mo Enterprise
+3556,6283472789,2511,convenience, 
+3557,6283472790,2503,kiosk, 
+3558,6283472791,2503,kiosk, 
+3559,6283472792,2561,hairdresser,Classic Barbering Salon
+3560,6283472795,2503,kiosk, 
+3561,6283472796,2301,restaurant,Mama Adizaa Chop Bar
+3562,6283472798,2401,hotel,San Giorgio Hotel
+3563,6283472799,2561,hairdresser,God is King Haircut
+3564,6283472801,2561,hairdresser, 
+3565,6283472802,2542,bicycle_shop,Original Ako
+3566,6283472804,2561,hairdresser,Rabbi's Beauty Parlour
+3567,6283472806,2568,laundry,Chrisla Sparkle Ventures
+3568,6283472807,2561,hairdresser,Linda's Perfect Touch
+3569,6283472809,2503,kiosk, 
+3570,6283472810,2544,furniture_shop,El's Love Enterprise
+3571,6283472811,2544,furniture_shop, 
+3572,6283472812,2302,fast_food,Zainab Tuo Zaafi
+3573,6283472815,2502,bakery, 
+3574,6283472816,2503,kiosk, 
+3575,6283472817,2543,doityourself,Purple Company
+3576,6283472822,2503,kiosk, 
+3577,6283472823,2561,hairdresser,Maa Lizzy Beauty Parlor
+3578,6283472826,2516,butcher, 
+3579,6283472830,2305,bar,Nkwa Na Ehia Heineken Drinking Spot
+3580,6283472833,2516,butcher,Cooks Choice
+3581,6283472839,2503,kiosk, 
+3582,6283472840,2305,bar, 
+3583,6283472842,2568,laundry,Glory Laundry Services
+3584,6283472843,2503,kiosk, 
+3585,6283472845,2503,kiosk, 
+3586,6283472846,2561,hairdresser,Mary Forever
+3587,6283472848,2503,kiosk, 
+3588,6283472849,2305,bar,AD
+3589,6283472852,2561,hairdresser,KingKate
+3590,6283472856,2543,doityourself, 
+3591,6283472857,2561,hairdresser,The Blood of Jesus Beauty salon
+3592,6283472859,2305,bar, 
+3593,6283472859,2503,kiosk, 
+3594,6283472860,2543,doityourself,Zachip Enterprise
+3595,6283472863,2512,clothes, 
+3596,6283472864,2503,kiosk, 
+3597,6283472865,2517,shoe_shop, 
+3598,6283472867,2503,kiosk, 
+3599,6283472868,2511,convenience, 
+3600,6283472869,2544,furniture_shop, 
+3601,6283472871,2503,kiosk, 
+3602,6283472872,2525,mobile_phone_shop,Shallom Phones
+3603,6283472873,2514,chemist,EddyPerp Chemical Store
+3604,6283472874,2543,doityourself,Philip Parts
+3605,6283472876,2503,kiosk, 
+3606,6283472879,2517,shoe_shop, 
+3607,6283472880,2302,fast_food, 
+3608,6283472881,2302,fast_food,Aunty Lizys joint
+3609,6283472882,2517,shoe_shop,Y-Free Body
+3610,6283472883,2512,clothes,Klassic Ventures
+3611,6283473085,2503,kiosk, 
+3612,6283473086,2561,hairdresser,A & C Beauty Salon
+3613,6283473087,2302,fast_food, 
+3614,6283473088,2511,convenience,Nyame Adom
+3615,6283473089,2302,fast_food, 
+3616,6283473090,2543,doityourself,Chimex Aluminium
+3621,6285113072,2082,school,Lotty Star School
+3622,6285113075,2503,kiosk, 
+3623,6285113078,2503,kiosk, 
+3624,6285113079,2302,fast_food,Insha Allah Special Food
+3625,6285113081,2503,kiosk, 
+3626,6285113082,2561,hairdresser,Mosmers Beauty Salon
+3627,6285113084,2302,fast_food,Insha Allahu
+3628,6285113285,2514,chemist,AB Mills Retail
+3629,6285113288,2516,butcher,Freshland Coldstore
+3630,6285113289,2503,kiosk, 
+3631,6285113290,2561,hairdresser,Nat-Weaving
+3632,6285113291,2503,kiosk, 
+3633,6285113292,2503,kiosk, 
+3634,6285113293,2561,hairdresser,Blessing Barbering Shop
+3635,6285113294,2543,doityourself, 
+3636,6285113296,2120,doctors,Lifeview Medical Laboratory
+3637,6285113296,2514,chemist,Lifeview Medical Laboratory
+3638,6285113298,2561,hairdresser,Lucky Boy Barbering Shop
+3639,6285113299,2503,kiosk, 
+3640,6285113300,2525,mobile_phone_shop, 
+3641,6285113302,2503,kiosk, 
+3642,6285113305,2503,kiosk, 
+3643,6285113306,2511,convenience,Nyame Aron Enterprise
+3644,6285113308,2302,fast_food,Kenkey House
+3645,6285113309,2503,kiosk,El-Shaddai Shop
+3646,6285113311,2503,kiosk,Dependable God
+3647,6285113312,2503,kiosk, 
+3648,6285113313,2503,kiosk,Christ Asore Wasore Ampa Enterprise
+3649,6285113314,2561,hairdresser,Christ the King Beauty Salon
+3650,6285113315,2302,fast_food, 
+3651,6285113317,2503,kiosk, 
+3652,6285113320,2503,kiosk, 
+3653,6285113321,2561,hairdresser, 
+3654,6285113322,2543,doityourself,Believe in God Store
+3655,6285113324,2503,kiosk, 
+3656,6285113326,2302,fast_food,De-Royal Fast Food
+3657,6285113327,2503,kiosk, 
+3658,6285113330,2503,kiosk, 
+3659,6285113331,2520,jeweller,PJ Pinks Jewellery
+3660,6285113332,2503,kiosk, 
+3661,6285113333,2561,hairdresser,Rosedark Beauty Salon
+3662,6285113336,2503,kiosk,Dependable God
+3663,6285113338,2302,fast_food,Kofi Maame Food Joint
+3664,6285113339,2529,beauty_shop,Agye Nyame Beauty Salon
+3665,6285113340,2514,chemist, 
+3666,6285113341,2503,kiosk,"Hwe, Onyankopon ne me Boafoo"
+3667,6285113342,2503,kiosk, 
+3668,6285113344,2503,kiosk,Anita Enterprise
+3669,6285113345,2503,kiosk,Osofo Maame Adom
+3670,6285113347,2512,clothes,Angel Clothing
+3671,6285774027,2082,school,Living God Preparatory School
+3672,6285774028,2083,kindergarten,Asiamah Memorial School
+3673,6285774029,2082,school,Extra Classes Tuition
+3674,6285774037,2903,drinking_water, 
+3675,6285774038,2903,drinking_water, 
+3676,6285774038,2962,water_well, 
+3677,6285774039,2903,drinking_water, 
+3678,6285774041,2962,water_well, 
+3679,6285774042,2903,drinking_water, 
+3680,6285774044,2903,drinking_water, 
+3681,6285774045,2962,water_well, 
+3682,6285774046,2962,water_well, 
+3683,6285774047,2903,drinking_water, 
+3684,6285774049,2903,drinking_water, 
+3685,6285774050,2503,kiosk, 
+3686,6285774052,2561,hairdresser,Vee Action (Unisex Salon)
+3687,6285774053,2503,kiosk,Hajia Humu Enterprise
+3688,6285774057,2503,kiosk, 
+3690,6285774059,2304,pub,De Upssy Spot
+3691,6285774061,2503,kiosk, 
+3692,6285774062,2561,hairdresser, 
+3693,6285774063,2503,kiosk,Divine Favor
+3694,6285774064,2503,kiosk, 
+3695,6285774065,2503,kiosk, 
+3696,6285774066,2503,kiosk, 
+3697,6285774067,2302,fast_food, 
+3698,6285774068,2516,butcher,Adom Cold Store
+3699,6285774069,2503,kiosk, 
+3700,6285774070,2543,doityourself, 
+3701,6285774071,2503,kiosk, 
+3702,6285774072,2561,hairdresser,By His Grace Beauty Salon
+3703,6285774073,2503,kiosk,Kwansah Enterprise
+3704,6285774074,2512,clothes,Ladies Choice
+3705,6285774075,2517,shoe_shop,Juliana's Shop
+3706,6285774077,2304,pub,Leisure Spot
+3707,6285774078,2503,kiosk,Edmonton Green Enterprise
+3708,6285774079,2503,kiosk, 
+3709,6285774080,2512,clothes, 
+3710,6285774081,2503,kiosk,With God All Things Are Possible
+3711,6285774084,2516,butcher,Good Shepard
+3712,6285774185,2302,fast_food,Anidaso Ne Nyame Delicious Food
+3713,6285774188,2561,hairdresser,Grace Beauty Salon
+3714,6285774189,2503,kiosk, 
+3715,6285774191,2561,hairdresser,Elizabeth Shop
+3716,6285774193,2305,bar,Paradise spot
+3717,6285774194,2561,hairdresser,Minnash Beauty Piraty
+3718,6285774197,2503,kiosk, 
+3719,6285774198,2503,kiosk, 
+3720,6285774200,2503,kiosk, 
+3721,6285774203,2503,kiosk, 
+3722,6285774204,2561,hairdresser,Nyira Barbering Salon
+3723,6285774205,2503,kiosk, 
+3724,6285774206,2517,shoe_shop, 
+3725,6285774209,2511,convenience,Gye Nyame
+3726,6285774213,2518,beverages,Pepsi
+3727,6285774214,2503,kiosk,God Will Make a Way
+3728,6285774215,2528,greengrocer, 
+3729,6285774216,2561,hairdresser,A-Cuzy Barbering Shop
+3730,6285774217,2305,bar,Obaa Yaa Spot
+3731,6285774218,2561,hairdresser, 
+3732,6285774219,2561,hairdresser,Madoggy Hair
+3733,6285774220,2516,butcher,Nyame Be Ye
+3734,6285774221,2561,hairdresser,Peace and Love Beauty Salon
+3735,6285774222,2503,kiosk, 
+3736,6285774224,2561,hairdresser,Happy Seauty Salon
+3737,6285774225,2305,bar,The Joint
+3738,6285774226,2503,kiosk,Aisha Shop
+3739,6285774227,2561,hairdresser,Adez Beauty Palace
+3740,6285774228,2514,chemist,Cristo Nti
+3741,6285774229,2561,hairdresser, 
+3742,6285774231,2302,fast_food,Kpakpo Maami Food Joint
+3743,6285774232,2503,kiosk, 
+3744,6285774233,2302,fast_food, 
+3745,6285774235,2304,pub,Baileys Inn & Tiny Sounds
+3746,6285774238,2503,kiosk, 
+3747,6285774240,2302,fast_food, 
+3748,6285774241,2503,kiosk, 
+3749,6285774242,2561,hairdresser, 
+3750,6285774243,2302,fast_food,Sister Jessica Food Joint
+3751,6285774244,2503,kiosk,Nafisa Shop
+3752,6285774245,2305,bar,Tina's spot
+3754,6285774249,2503,kiosk,Divine Grace Enterprise
+3755,6285774251,2561,hairdresser,Flawless Touch Services
+3756,6285774252,2512,clothes,Soseiba Clothing
+3757,6285774254,2528,greengrocer,Yehowa Ne Me Nana Kese
+3758,6285774255,2503,kiosk,Home Folk
+3759,6285774256,2561,hairdresser,Angi K Beauty Salon
+3760,6285774258,2305,bar, 
+3762,6285774261,2543,doityourself, 
+3763,6285774262,2523,stationery,AOD Stationery Bookshop and Merchant
+3764,6285774263,2503,kiosk, 
+3765,6285774264,2512,clothes, 
+3766,6285774265,2561,hairdresser,Modern Beauty Talk Salon
+3767,6285774267,2302,fast_food, 
+3768,6285774269,2503,kiosk,More and More Strength
+3769,6285774271,2503,kiosk,Okyeso Nyame
+3770,6285774273,2564,car_wash,Suraj Car Wash
+3771,6285774275,2512,clothes, 
+3772,6285774276,2305,bar,Small Bar
+3773,6285774277,2503,kiosk, 
+3774,6285774278,2503,kiosk,Maames shop
+3775,6285774279,2514,chemist,Agrartha Ehuren
+3776,6285774280,2561,hairdresser,Annoiting Beauty Salon
+3777,6285774281,2503,kiosk, 
+3778,6285774282,2503,kiosk, 
+3779,6285774284,2503,kiosk, 
+3780,6285774487,2561,hairdresser,Saapof Touch Of Class
+3781,6285774488,2561,hairdresser,Dikiss Beauty Parlour
+3782,6285774489,2512,clothes, 
+3783,6285774490,2302,fast_food, 
+3784,6285774491,2561,hairdresser,Gina Beauty Parlor
+3785,6285774492,2503,kiosk, 
+3786,6285774495,2512,clothes, 
+3787,6285774496,2503,kiosk, 
+3788,6285774498,2503,kiosk, 
+3789,6285774499,2503,kiosk,Kopevi
+3791,6285774503,2503,kiosk,Jehovah is Jireh Tew And Snack
+3792,6285774504,2502,bakery,By Faith Home Bakery
+3793,6285774505,2561,hairdresser,Cute Cuts
+3794,6285774506,2503,kiosk,God Time is Best
+3795,6285774507,2512,clothes, 
+3796,6285774510,2503,kiosk, 
+3797,6285774511,2503,kiosk,Nyame Bekyere
+3798,6285774512,2503,kiosk,Mallam Maame Shop
+3799,6285774513,2561,hairdresser,The Lord Is My Shepherd Beauty Salon
+3800,6285774514,2082,school,Lam International School
+3801,6285774516,2305,bar, 
+3802,6285774517,2528,greengrocer, 
+3803,6285774518,2503,kiosk,Nyame Akwan
+3804,6285774521,2305,bar,Ebenezer Enterprise
+3805,6285774522,2514,chemist,Dennis Mensah
+3806,6285774523,2561,hairdresser,Richgest Beauty Parlour
+3807,6285774526,2528,greengrocer, 
+3808,6285774527,2503,kiosk,Behold I Make All Things New
+3809,6285774528,2503,kiosk, 
+3810,6285774529,2302,fast_food,Adom Beans joint
+3811,6285774530,2544,furniture_shop, 
+3812,6285774531,2561,hairdresser, 
+3813,6285774532,2503,kiosk,Ayonya
+3814,6285774533,2544,furniture_shop,St. Paul Furniture Shop
+3816,6285774535,2503,kiosk, 
+3817,6285774536,2503,kiosk, 
+3818,6285774537,2503,kiosk, 
+3819,6285774538,2503,kiosk,Boafoo Ye Na
+3820,6285774539,2503,kiosk,Nyame Ne Me Boafo
+3821,6285774540,2503,kiosk, 
+3822,6285774541,2503,kiosk,Nobel Enterprise
+3823,6285774542,2301,restaurant,Margjud Kitchen
+3824,6285774543,2503,kiosk, 
+3825,6285774544,2561,hairdresser,My Redemeer is Alive
+3826,6285774545,2503,kiosk,Noko Ni Oley
+3827,6285774546,2517,shoe_shop, 
+3828,6285774547,2503,kiosk,Seven star
+3829,6285774548,2561,hairdresser,Glory Hair Cut
+3830,6285774550,2503,kiosk, 
+3831,6285774552,2561,hairdresser,Diana Hair and Beauty Salon
+3832,6285774553,2503,kiosk,Insha Allahu
+3833,6285774554,2520,jeweller,Faizy Beauty Beads
+3834,6285774555,2561,hairdresser,Queensbit Beauty Salon
+3835,6285774556,2302,fast_food,Gari and Beans Seller
+3836,6285774558,2528,greengrocer,Me Mmoa Fi Yehowa Hor
+3837,6285774559,2305,bar,The Bull
+3838,6285774561,2503,kiosk,Bob Enterprise
+3839,6285774562,2305,bar,Lizzy Spot
+3840,6285774563,2561,hairdresser,Queens Model Beauty Salon
+3841,6285774564,2305,bar,One Nation Spot
+3842,6285774566,2303,cafe,God's Time The Best Tea Canteen
+3843,6285774568,2561,hairdresser,Dora Beauty Salon
+3844,6285774570,2528,greengrocer, 
+3845,6285774571,2503,kiosk,Akoko Saa Kyeee
+3846,6285774572,2302,fast_food,Annette Catering
+3847,6285774574,2512,clothes, 
+3848,6285774575,2302,fast_food,3 Sisters Food Joint
+3849,6285774576,2561,hairdresser,Old School Haircut
+3850,6285774577,2561,hairdresser,One Glee
+3851,6285774578,2302,fast_food,Fried Fish and Kenkey Joint
+3852,6285774579,2303,cafe, 
+3853,6285774581,2503,kiosk,Koffgavie Rentals
+3854,6285774582,2302,fast_food,All Shall Pass Joint
+3860,6285986681,2030,recycling,Coliba Collection Point
+3892,6290813191,2083,kindergarten,Deware's School
+3894,6290813195,2601,bank,Global Access Savings and Loans
+3915,6290813238,2512,clothes,The Lord is My Shepherd Fashion
+3918,6290813244,2561,hairdresser,Esfrimps Beauty Salon
+3927,6290813260,2304,pub,Lense Pub
+3939,6290813279,2543,doityourself,Zinamers Aluminum
+3952,6290813398,2529,beauty_shop,Mourin Shop
+3954,6290813400,2503,kiosk, 
+3961,6290813410,2304,pub,Lalas Tavern
+3986,6290813462,2305,bar,Owoahene Spot
+3987,6290813465,2544,furniture_shop,Ericus shop
+4005,6290813496,2514,chemist,Helen M. Narh
+4036,6290813560,2503,kiosk,Insha Allah Shop
+4045,6290813578,2546,computer_shop,Ali-Tech Computer Services
+4047,6290813581,2561,hairdresser,Royalty Hair Salon
+4053,6290813688,2503,kiosk, 
+4057,6290813706,2518,beverages, 
+4063,6290813715,2543,doityourself, 
+4064,6290813719,2302,fast_food,Beman Kenkey Joint
+4072,6290813731,2512,clothes,Adom Ara Kwa Shop
+4081,6290813751,2516,butcher,Alpha & Omega Cold Store
+4088,6290813760,2503,kiosk, 
+4094,6290813772,2302,fast_food,Mama Lee Special
+4106,6290813791,2561,hairdresser,Minash Beauty Salon
+4108,6290813795,2503,kiosk,Madav Enterprise
+4112,6290813801,2561,hairdresser,View Style Barbering Salon
+4113,6290813802,2529,beauty_shop,Christ Win Beauty Parlour
+4115,6290813807,2305,bar, 
+4141,6299272301,2005,post_office,Jamestown Post Office
+4142,6299274948,2515,bookshop,Bible House
+4164,6303788136,2511,convenience,Shell Select
+4207,6315211225,2305,bar,Gallebarli Spot
+4248,6338373200,2302,fast_food, 
+4252,6345545806,2515,bookshop,Sprechen Deutsche
+4267,6350806274,2502,bakery,ABC Bakery
+4285,6356043885,2302,fast_food,Hajia Koko
+4288,6356771466,2518,beverages,Golden Touch
+4289,6356778208,2101,pharmacy,Jak Pharmacy
+4290,6356800801,2516,butcher,Dromo Naa Cold Store
+4298,6365981836,2302,fast_food,Hot Mama's
+4329,6393350085,2543,doityourself,Bontos Trading Enterprise
+4330,6393350785,2543,doityourself,Bontos Trading Enterprise
+4340,6402820041,2561,hairdresser,Nhyira Nka Nyame
+4346,6408898030,2005,post_office,DHL Retail Outlet
+4363,6417645450,2401,hotel,Hotel Zeus
+4380,6422726603,2568,laundry,Professional Cleaning Services
+4381,6422730993,2561,hairdresser,Mr. Black Barbering Salon
+4409,6435419885,2901,toilet,Gye Nyame
+4427,6442309464,2602,atm,Societe General
+4458,6456098655,2404,guesthouse,Ridge Over Suites
+4574,6486447928,2082,school,Fountain School
+4575,6486447937,2082,school,Fountain School
+4577,6489252119,2543,doityourself, 
+4578,6489255978,2529,beauty_shop,MisNeat
+4579,6489258742,2101,pharmacy, 
+4580,6489300115,2520,jeweller,Dalpat Jewelry
+4637,6505710637,2082,school,Talents Resto Academy
+4641,6514705477,2503,kiosk,Margaret Enterprise
+4685,6564975812,2602,atm,Barclay's
+4738,6594159249,2101,pharmacy,Magic Mitch
+4769,6643122864,2561,hairdresser,Area Code Barbering Saloon
+4770,6643148917,2602,atm,Prudential Bank
+4783,6662812498,2951,comms_tower, 
+4798,6688413103,2950,tower, 
+4859,6721041513,2951,comms_tower, 
+4871,6735905391,2951,comms_tower, 
+4987,6819805685,2601,bank,NIB Bank
+4988,6819805785,2543,doityourself,Vacama enterprise
+4993,6820875924,2543,doityourself,Petrodec Enterprise
+5040,6841385278,2906,waste_basket, 
+5041,6841397592,2906,waste_basket, 
+5091,6869999140,2902,bench, 
+5092,6870516572,2902,bench, 
+5102,6878141702,2561,hairdresser,Michigan Barber Shop
+5103,6878201897,2503,kiosk,Raais Ventures
+5104,6878210805,2302,fast_food,Ballas Special
+5105,6878612144,2564,car_wash, 
+5123,6890944207,2401,hotel,Shiva Hotel
+5128,6895584585,2546,computer_shop,KWARTTECH
+5198,6926885031,2503,kiosk, 
+5199,6926885043,2561,hairdresser,Powerful Hair Cut
+5200,6926885044,2503,kiosk, 
+5201,6926885045,2503,kiosk, 
+5202,6926885046,2503,kiosk, 
+5203,6926885047,2503,kiosk, 
+5204,6926885049,2302,fast_food,Adom Special Food
+5205,6926885051,2503,kiosk, 
+5206,6926885056,2514,chemist,Jacob L. Chemical Shop
+5207,6926885063,2561,hairdresser,Creative Touch Beauty Parlour
+5208,6926885064,2503,kiosk,IKE Deco Shop
+5209,6926885065,2503,kiosk, 
+5210,6926885066,2503,kiosk, 
+5211,6926885067,2503,kiosk, 
+5212,6926885070,2503,kiosk, 
+5213,6926885071,2503,kiosk, 
+5214,6926885072,2503,kiosk, 
+5215,6926885073,2305,bar,Down Town Spot
+5216,6926885075,2511,convenience, 
+5217,6926885076,2503,kiosk, 
+5218,6926885077,2503,kiosk, 
+5219,6926885079,2503,kiosk, 
+5220,6926885081,2503,kiosk, 
+5221,6926885082,2302,fast_food, 
+5222,6926885083,2503,kiosk, 
+5223,6926885084,2503,kiosk,Katadowei
+5224,6926903285,2302,fast_food,Tawakaltu Ala Allah Special Food
+5225,6926903287,2503,kiosk, 
+5226,6926903288,2529,beauty_shop, 
+5227,6926903289,2561,hairdresser, 
+5228,6926903290,2503,kiosk, 
+5229,6926903291,2503,kiosk, 
+5230,6926903293,2503,kiosk, 
+5231,6926903294,2528,greengrocer, 
+5232,6926903300,2529,beauty_shop,Baameyi Shei Allah Salon
+5233,6926903301,2503,kiosk, 
+5234,6926903302,2561,hairdresser, 
+5235,6926903303,2503,kiosk, 
+5236,6926903304,2503,kiosk, 
+5237,6926903305,2503,kiosk, 
+5238,6926903306,2503,kiosk, 
+5239,6926903307,2503,kiosk, 
+5240,6926903308,2514,chemist, 
+5241,6926903309,2503,kiosk, 
+5242,6926903310,2503,kiosk, 
+5243,6926903311,2503,kiosk, 
+5244,6926903312,2503,kiosk, 
+5245,6926903316,2503,kiosk,Hasbunallah Wanimal Wakeel
+5246,6926903318,2503,kiosk,Rock Enterprise
+5247,6926903319,2529,beauty_shop,Moriash Makeups and Beauty Shop
+5248,6926903320,2302,fast_food, 
+5249,6926903321,2518,beverages, 
+5250,6926903322,2503,kiosk, 
+5251,6926903323,2503,kiosk, 
+5252,6926903324,2503,kiosk, 
+5253,6926903325,2525,mobile_phone_shop, 
+5254,6926903326,2503,kiosk, 
+5257,6927332778,2503,kiosk, 
+5259,6927353988,2082,school,Anani Memorial International School
+5260,6927353989,2529,beauty_shop,Niinah's Parlor
+5261,6927353990,2082,school,Sanusiya Islamic Institute
+5262,6927353991,2503,kiosk, 
+5263,6927353993,2302,fast_food, 
+5264,6927353994,2503,kiosk, 
+5265,6927353995,2503,kiosk,No God Except Allah
+5266,6927353996,2529,beauty_shop,The Beauty Hub
+5267,6927353997,2529,beauty_shop,Deva's Corner Beauty Salon
+5268,6927353998,2503,kiosk, 
+5269,6927354000,2514,chemist,Joshua herbal licensed shop
+5270,6927354001,2503,kiosk,Adom Arakwa Enterprise
+5271,6927354005,2304,pub,Sea Never Dry Spot
+5272,6927354006,2503,kiosk, 
+5273,6927354007,2503,kiosk, 
+5351,6943151817,2564,car_wash,Washing bay
+5360,6950331615,2951,comms_tower, 
+5361,6950331630,2082,school,St. Kizito Catholic School
+5362,6950331640,2503,kiosk,Hawesa Enterprise
+5363,6950331642,2529,beauty_shop,Rina Home of Beauty
+5364,6950331644,2511,convenience, 
+5365,6950331645,2512,clothes,High Vision Lace Shop
+5366,6950331646,2523,stationery,Emma Rubber Stamp
+5367,6950331647,2302,fast_food,Adama Special Tea And Bread Shop
+5368,6950331648,2529,beauty_shop,Glams by Hawat
+5369,6950331649,2529,beauty_shop,Fatash Beauty Salon
+5370,6950331650,2525,mobile_phone_shop, 
+5371,6950331652,2503,kiosk, 
+5372,6950331653,2528,greengrocer, 
+5373,6950331654,2503,kiosk, 
+5374,6950331656,2528,greengrocer, 
+5375,6950331657,2503,kiosk,God is my Saviour
+5376,6950331658,2525,mobile_phone_shop, 
+5377,6950331659,2503,kiosk, 
+5378,6950331663,2305,bar,Club Luxembourg Inn
+5379,6950331664,2561,hairdresser,Camera Hair Cut
+5380,6950331666,2302,fast_food, 
+5381,6950331668,2302,fast_food, 
+5382,6950331669,2512,clothes, 
+5383,6950331675,2529,beauty_shop, 
+5384,6950331676,2523,stationery,Victory Books and Stationery
+5385,6950331677,2302,fast_food, 
+5386,6950331678,2561,hairdresser,Sakzon
+5387,6950331680,2101,pharmacy,Nima Highway Pharmacy
+5388,6950331681,2012,community_centre, 
+5389,6950331683,2503,kiosk, 
+5390,6950334886,2903,drinking_water, 
+5407,6958422878,2951,comms_tower, 
+5408,6958422879,2529,beauty_shop,The Pounds Barber Shop
+5409,6958422880,2512,clothes,Banifandou Venture
+5410,6958422881,2503,kiosk, 
+5411,6958422885,2512,clothes,Baa Mer Yin Shai Allah Collection
+5412,6958422886,2503,kiosk, 
+5413,6958422887,2512,clothes, 
+5414,6958422888,2901,toilet, 
+5415,6958422889,2503,kiosk,Rahma Allah
+5416,6958422891,2503,kiosk,Allah is Able
+5417,6958422892,2503,kiosk,Ice joy
+5418,6958422894,2503,kiosk, 
+5419,6958422895,2302,fast_food,Town rice
+5420,6958422896,2906,waste_basket, 
+5421,6958422897,2543,doityourself, 
+5422,6958422898,2503,kiosk, 
+5423,6958422900,2503,kiosk, 
+5424,6958422901,2503,kiosk, 
+5425,6958422902,2503,kiosk, 
+5426,6958422903,2503,kiosk, 
+5427,6958422905,2906,waste_basket, 
+5428,6958422907,2503,kiosk, 
+5429,6958422909,2503,kiosk, 
+5430,6958422910,2503,kiosk, 
+5431,6958422911,2111,clinic,Dons Medical Services
+5432,6958422912,2561,hairdresser,Rams Ultra Modern Salon
+5433,6958422914,2529,beauty_shop,Kass Glamour
+5434,6958422915,2903,drinking_water, 
+5435,6958422916,2906,waste_basket, 
+5436,6958422917,2503,kiosk, 
+5437,6958422918,2511,convenience, 
+5438,6958422919,2511,convenience, 
+5439,6958422921,2601,bank,Access
+5440,6958422922,2601,bank,Unicredit GH Limited
+5441,6958422923,2511,convenience, 
+5442,6958422926,2906,waste_basket, 
+5443,6958422927,2511,convenience, 
+5444,6958422928,2906,waste_basket, 
+5445,6958422930,2906,waste_basket, 
+5446,6958422932,2512,clothes,Fiazction collection
+5447,6958422933,2514,chemist,Gaskia Herbal
+5448,6958422934,2503,kiosk, 
+5449,6958422935,2503,kiosk,Baa Mei Shiei Allah
+5450,6958422936,2503,kiosk,Godiya Naga Allah
+5451,6958422937,2906,waste_basket, 
+5452,6958422938,2512,clothes, 
+5453,6958422940,2302,fast_food,Mman koowa
+5454,6958422941,2503,kiosk, 
+5455,6958422942,2906,waste_basket, 
+5456,6958422944,2512,clothes, 
+5457,6958422945,2503,kiosk,Hajia Ruki Shop
+5458,6958422948,2511,convenience, 
+5459,6958422949,2906,waste_basket, 
+5460,6958422950,2503,kiosk, 
+5461,6958422951,2561,hairdresser,Big Willie Barbering Saloon
+5462,6958422952,2543,doityourself, 
+5463,6958422953,2503,kiosk, 
+5464,6958422954,2511,convenience, 
+5465,6958422955,2503,kiosk, 
+5466,6958422956,2529,beauty_shop,Psalms Nails Studio
+5467,6958422957,2529,beauty_shop,Ibrahim's Barbering Saloon
+5468,6958422958,2503,kiosk, 
+5469,6958422959,2503,kiosk, 
+5470,6958422962,2503,kiosk,Laa elaa ha ella lah Store
+5471,6958422963,2906,waste_basket, 
+5472,6958422964,2503,kiosk, 
+5473,6958422965,2511,convenience, 
+5474,6958422966,2543,doityourself, 
+5475,6958422967,2901,toilet, 
+5476,6958422968,2503,kiosk, 
+5477,6958422969,2111,clinic,New Cross Clinic and Medical
+5478,6958422970,2906,waste_basket, 
+5479,6958422971,2906,waste_basket, 
+5480,6958422972,2528,greengrocer, 
+5481,6958422974,2561,hairdresser, 
+5482,6958422975,2302,fast_food,Auntie Ramatu
+5483,6958422976,2503,kiosk, 
+5484,6958422977,2503,kiosk, 
+5485,6958422978,2503,kiosk,Hajia Adiza Tawakaltu Provision Shop
+5486,6958422979,2516,butcher, 
+5487,6958422980,2529,beauty_shop, 
+5488,6958422982,2511,convenience, 
+5489,6958422984,2512,clothes, 
+5490,6958422986,2529,beauty_shop,Mavis Unique Nails and Make up
+5491,6958422989,2528,greengrocer,Huda Enterprise
+5492,6958422990,2511,convenience, 
+5493,6958422991,2529,beauty_shop,Victory Beauty Salon
+5494,6958422993,2906,waste_basket, 
+5495,6958422994,2525,mobile_phone_shop,Diamond Commercial Brookers Ltd
+5496,6958422995,2561,hairdresser,Allah Ne Babba
+5497,6958422996,2528,greengrocer,Sarago Mall 4
+5498,6958422997,2503,kiosk, 
+5499,6958422999,2512,clothes, 
+5500,6958423001,2561,hairdresser,West Style Beauty Salon
+5501,6958423002,2503,kiosk, 
+5502,6958423003,2906,waste_basket, 
+5503,6958423004,2302,fast_food, 
+5504,6958423005,2101,pharmacy,Lesson Pharmacy
+5505,6958423006,2511,convenience, 
+5506,6958423007,2906,waste_basket, 
+5507,6958423008,2511,convenience, 
+5508,6958423009,2512,clothes,Little Angel Mother Care Shop
+5509,6958423010,2906,waste_basket, 
+5510,6958423011,2517,shoe_shop,Mariah Shop
+5511,6958423012,2906,waste_basket, 
+5512,6958423014,2525,mobile_phone_shop,Pounds & Euros Phone Sale and Repairs
+5513,6958423016,2503,kiosk,Pressure Free Ventures
+5514,6958423017,2503,kiosk, 
+5515,6958423019,2525,mobile_phone_shop,Easy Life Phones & Accessories
+5517,6960812092,2302,fast_food,Rukaya Special Maasah and Kosei
+5518,6960812094,2503,kiosk, 
+5519,6960812095,2503,kiosk, 
+5520,6960812103,2082,school,An-Najaah Islamic School
+5521,6960812104,2005,post_office, 
+5522,6960812124,2520,jeweller, 
+5523,6960812126,2503,kiosk, 
+5524,6960812127,2906,waste_basket, 
+5525,6960812128,2503,kiosk, 
+5526,6960812129,2503,kiosk, 
+5527,6960812131,2529,beauty_shop,Maria Beauty Palour
+5528,6960812132,2503,kiosk,Welcome to Belgium City
+5529,6960812134,2503,kiosk,God Is One
+5530,6960812136,2503,kiosk, 
+5531,6960812137,2503,kiosk,J And N Shop
+5532,6960812138,2514,chemist,Obuoba Chemicals
+5533,6960812139,2503,kiosk, 
+5534,6960812140,2503,kiosk, 
+5535,6960812144,2512,clothes, 
+5536,6960812145,2503,kiosk, 
+5537,6960812146,2561,hairdresser,Ankara Hair Cut
+5538,6960812147,2512,clothes,Abubakar Ibrahim Ent.
+5539,6960812149,2503,kiosk,Home of Diapers
+5540,6960812152,2503,kiosk, 
+5541,6960812153,2503,kiosk, 
+5542,6960812154,2503,kiosk, 
+5543,6960812158,2529,beauty_shop,Hidi's Make Over
+5544,6960812161,2561,hairdresser, 
+5545,6960812163,2305,bar, 
+5546,6960812164,2503,kiosk,Insha Allahu Store
+5547,6960812165,2561,hairdresser, 
+5548,6960812169,2503,kiosk,Sulenass Enterprise
+5549,6960812170,2305,bar, 
+5550,6960812171,2503,kiosk, 
+5551,6960812172,2503,kiosk, 
+5552,6960812173,2512,clothes, 
+5553,6960812174,2111,clinic,Vision Clinic
+5554,6960812175,2503,kiosk, 
+5555,6960812176,2503,kiosk, 
+5556,6960812177,2512,clothes, 
+5557,6960812182,2511,convenience, 
+5558,6960812183,2503,kiosk, 
+5559,6960812184,2512,clothes, 
+5560,6960841485,2906,waste_basket, 
+5561,6960841486,2512,clothes, 
+5562,6960841487,2302,fast_food,Aquaita Fast Food
+5563,6960841488,2515,bookshop,Goodnews Bookshop
+5564,6960841489,2503,kiosk,Nasurone Minllahi Wafatihu Coreebu
+5565,6960841490,2906,waste_basket, 
+5566,6960841493,2906,waste_basket, 
+5567,6960841502,2561,hairdresser, 
+5568,6960841505,2512,clothes, 
+5569,6960841510,2503,kiosk, 
+5570,6960841512,2503,kiosk,Star East All Occasion
+5571,6960841514,2906,waste_basket, 
+5572,6960841516,2515,bookshop,Sammy's Bookshop
+5573,6960841517,2503,kiosk, 
+5574,6960841518,2503,kiosk, 
+5575,6960841521,2503,kiosk, 
+5576,6960841525,2514,chemist,Lucky Herbal Centre
+5577,6960841527,2503,kiosk,Sidi Ventures
+5578,6960841528,2906,waste_basket, 
+5579,6960841530,2906,waste_basket, 
+5580,6960841531,2906,waste_basket, 
+5581,6960841533,2502,bakery, 
+5582,6960841538,2305,bar, 
+5583,6960841539,2561,hairdresser,Judah Beauty Parlour
+5584,6960841540,2561,hairdresser,African Queen Beauty Salon
+5585,6960841541,2512,clothes, 
+5586,6960841542,2503,kiosk, 
+5587,6961452275,2906,waste_basket, 
+5596,6967538800,2601,bank,NDK
+5601,6970174081,2304,pub,Happy Day Pub
+5602,6970174082,2511,convenience,No Shaking
+5603,6970174084,2561,hairdresser,Fausty's Unique Salon
+5604,6970189685,2561,hairdresser, 
+5605,6970189686,2511,convenience,Hasbunalla Wanimal Wakeel
+5606,6970189687,2511,convenience, 
+5607,6970189688,2518,beverages, 
+5608,6970189691,2511,convenience, 
+5609,6970189693,2503,kiosk, 
+5610,6970189695,2901,toilet, 
+5611,6970189696,2951,comms_tower, 
+5612,6970189700,2305,bar,Lizzies Drinking Spot
+5613,6970189701,2503,kiosk, 
+5614,6970189704,2511,convenience, 
+5615,6970189705,2301,restaurant,Risotto Foods
+5616,6970189706,2111,clinic,Royal Star Clinic and Diagnostic Center
+5617,6970189707,2302,fast_food, 
+5618,6970189708,2511,convenience, 
+5619,6970189709,2511,convenience, 
+5620,6970189711,2511,convenience,Iko Sei Allah
+5621,6970189742,2302,fast_food, 
+5622,6970189743,2901,toilet, 
+5623,6970189748,2503,kiosk, 
+5624,6970189752,2503,kiosk, 
+5625,6970189753,2302,fast_food, 
+5626,6970189761,2503,kiosk, 
+5627,6970189766,2511,convenience, 
+5628,6970189767,2511,convenience,Ghana Shop
+5629,6970189768,2903,drinking_water, 
+5630,6970189769,2511,convenience, 
+5631,6970189772,2906,waste_basket, 
+5632,6970189774,2567,travel_agent,Jabs Travel
+5633,6970189775,2511,convenience,God is Love
+5634,6970189776,2511,convenience,Nyame Na Aye Provision Store
+5635,6970189777,2511,convenience, 
+5636,6970189779,2517,shoe_shop,Ahuofe Fiee
+5637,6970189781,2305,bar, 
+5638,6970189782,2511,convenience, 
+5639,6970189784,2511,convenience, 
+5640,6970189788,2301,restaurant, 
+5641,6970189789,2903,drinking_water, 
+5642,6970189791,2511,convenience, 
+5643,6970189792,2561,hairdresser,My Redeemer Lives
+5644,6970189793,2903,drinking_water, 
+5645,6970189795,2561,hairdresser,Vision 44 Communication and Barbering Shop
+5646,6970189796,2511,convenience, 
+5647,6970189797,2082,school,Bethel Nursery Kindergarten School
+5648,6970189798,2511,convenience, 
+5649,6970189799,2512,clothes, 
+5650,6970189801,2529,beauty_shop,Cyntash Beauty Parlour
+5651,6970189802,2503,kiosk, 
+5652,6970189805,2906,waste_basket, 
+5658,6975048641,2016,market_place, 
+5659,6975048642,2903,drinking_water, 
+5660,6975048643,2505,department_store,Fawzi Ham Entreprise
+5661,6975048644,2515,bookshop,Kay Sammy Bookshop
+5665,6975155482,2516,butcher, 
+5666,6975166245,2111,clinic,Layfa Clinic
+5667,6975166246,2512,clothes, 
+5668,6975166248,2503,kiosk, 
+5669,6975166249,2503,kiosk,M'Kiss Entreprise
+5670,6975166250,2503,kiosk,Gil Add Ventures
+5671,6975166251,2543,doityourself,Amapaa Venture
+5672,6975166252,2512,clothes,Bah Entreprise
+5673,6975166254,2503,kiosk, 
+5674,6975166255,2503,kiosk, 
+5675,6975166256,2503,kiosk,Yasmira Tradings
+5676,6975166257,2518,beverages, 
+5677,6975166258,2503,kiosk,Morla Enterprise
+5678,6975166259,2512,clothes,Abaati Fashion Center
+5679,6975166260,2503,kiosk, 
+5680,6975166261,2503,kiosk,G.G Entreprise
+5681,6975166262,2512,clothes, 
+5682,6975166264,2561,hairdresser,Cezer Haircut
+5683,6975166265,2501,supermarket, 
+5684,6975166266,2503,kiosk, 
+5685,6975166267,2516,butcher, 
+5686,6975166268,2512,clothes,Hajia Maame Enterprise
+5687,6975166269,2544,furniture_shop, 
+5688,6975166270,2302,fast_food,Alfaresto Fast Food and Coffee Shop
+5689,6975166271,2503,kiosk,Enyomat Company Limited
+5690,6975166273,2503,kiosk,Aisha Ventures
+5691,6975166275,2503,kiosk, 
+5692,6975166276,2516,butcher, 
+5693,6975166280,2303,cafe,Frozen Fantasies
+5694,6975166281,2512,clothes, 
+5695,6975166282,2503,kiosk, 
+5696,6975166283,2503,kiosk,Fofana Ventures
+5697,6975166285,2503,kiosk,Hajia Halima Black
+5698,6975166287,2503,kiosk,God's Time is the Best
+5699,6975166288,2512,clothes,RM Stylish Entreprise
+5700,6975166289,2512,clothes, 
+5701,6975166290,2512,clothes,Sali's Shop
+5702,6975166291,2511,convenience,BJ's Wholesale and Retail of General Goods
+5703,6975166292,2561,hairdresser, 
+5704,6975166294,2503,kiosk, 
+5705,6975166295,2503,kiosk, 
+5706,6975166296,2503,kiosk,Rak-Abdul Mako
+5707,6975166297,2512,clothes, 
+5708,6975166298,2503,kiosk,Bush Med Entreprise
+5709,6975166301,2543,doityourself, 
+5710,6975166302,2512,clothes,Waama Be Niimati Rabika
+5711,6975166303,2528,greengrocer, 
+5712,6975166304,2503,kiosk, 
+5713,6975166306,2518,beverages, 
+5714,6975166307,2503,kiosk,M-mat Ghana Limited
+5715,6975166308,2503,kiosk,FA-ISBA Enterprise
+5716,6975166309,2503,kiosk,Sheik Mass Idiya Business Center
+5717,6975166311,2561,hairdresser,Mawulolo Nam Salon
+5718,6975166312,2503,kiosk, 
+5719,6975166313,2503,kiosk, 
+5720,6975166315,2512,clothes, 
+5721,6975166316,2514,chemist,UB Pharma Incorporated
+5722,6975166318,2503,kiosk, 
+5723,6975166319,2503,kiosk,Aisha Venture
+5724,6975166320,2302,fast_food,Hillway
+5725,6975166321,2503,kiosk,Kakra Enterprise
+5726,6975166323,2503,kiosk, 
+5727,6975166324,2511,convenience, 
+5728,6975166325,2503,kiosk, 
+5729,6975166327,2516,butcher,Praise Good Cold Store
+5730,6975166328,2516,butcher,Awurade Adom Cold Store
+5731,6975166329,2512,clothes, 
+5732,6975166331,2501,supermarket, 
+5733,6975166332,2503,kiosk, 
+5734,6975166333,2503,kiosk, 
+5735,6975166334,2503,kiosk, 
+5736,6975166336,2518,beverages, 
+5737,6975166337,2544,furniture_shop, 
+5738,6975166338,2517,shoe_shop, 
+5739,6975166339,2503,kiosk, 
+5740,6975166341,2302,fast_food, 
+5741,6975166342,2512,clothes,C Connie Fabrics
+5742,6975166343,2512,clothes,Mallam Musah Mai Hula Sardaunan Hausa
+5743,6975236464,2503,kiosk, 
+5744,6975236465,2512,clothes,Iko Shel Allah Fashion Shop
+5745,6975236466,2901,toilet, 
+5746,6975236467,2901,toilet, 
+5747,6975236469,2503,kiosk, 
+5748,6975236473,2503,kiosk,Akosombo Shop
+5749,6975236474,2561,hairdresser,All Stars Barbering Shop
+5750,6975237587,2082,school,Hill Side Complex
+5751,6975237589,2503,kiosk, 
+5752,6975237592,2302,fast_food, 
+5753,6975237595,2503,kiosk, 
+5754,6975237596,2302,fast_food,Allah is Able Tea Shop
+5755,6975237597,2561,hairdresser,Big Time Barbering Shop
+5756,6975237598,2503,kiosk, 
+5757,6975237600,2503,kiosk, 
+5758,6975237604,2503,kiosk, 
+5759,6975237607,2503,kiosk, 
+5760,6975237609,2514,chemist,Emmanuel Kwabena Over The Counter Medicine Practitioner
+5761,6975237611,2302,fast_food, 
+5762,6975237613,2503,kiosk, 
+5763,6975237614,2503,kiosk, 
+5764,6975237615,2520,jeweller, 
+5765,6975237616,2503,kiosk, 
+5766,6975237617,2503,kiosk, 
+5767,6975237620,2561,hairdresser, 
+5768,6975237623,2503,kiosk, 
+5769,6975237624,2101,pharmacy,Nyala Phamacy
+5770,6975237627,2503,kiosk,Hasbun Allah
+5771,6975237628,2503,kiosk, 
+5772,6975237629,2528,greengrocer, 
+5773,6975237630,2512,clothes, 
+5774,6975237631,2503,kiosk, 
+5775,6975237632,2517,shoe_shop, 
+5776,6975237633,2503,kiosk, 
+5777,6975237635,2503,kiosk, 
+5778,6975237636,2302,fast_food, 
+5779,6975237638,2561,hairdresser,Hawa's Hair
+5780,6975237640,2503,kiosk, 
+5781,6975237641,2561,hairdresser,Girls World Salon
+5782,6975237642,2503,kiosk, 
+5783,6975237643,2561,hairdresser, 
+5784,6975237645,2503,kiosk, 
+5785,6975237646,2503,kiosk, 
+5786,6975237648,2503,kiosk,By the Power
+5787,6975237650,2503,kiosk, 
+5788,6975237651,2503,kiosk,The Finger of God
+5789,6975237653,2503,kiosk,De Dove Entreprise
+5790,6975237654,2503,kiosk,Aunty Rose
+5791,6975237656,2512,clothes, 
+5792,6975237658,2561,hairdresser,God is Great Beauty Salon
+5793,6975283673,2305,bar, 
+5794,6975283674,2503,kiosk, 
+5795,6975283675,2503,kiosk, 
+5796,6975283676,2503,kiosk, 
+5797,6975283678,2503,kiosk, 
+5798,6975283679,2503,kiosk, 
+5799,6975283680,2503,kiosk, 
+5800,6975283681,2503,kiosk, 
+5801,6975283682,2503,kiosk, 
+5802,6975283683,2901,toilet, 
+5803,6975283684,2503,kiosk, 
+5804,6975311985,2503,kiosk, 
+5805,6975311986,2503,kiosk, 
+5806,6975311987,2503,kiosk, 
+5807,6975311988,2503,kiosk, 
+5808,6975311990,2503,kiosk, 
+5809,6975311991,2503,kiosk, 
+5810,6975311993,2503,kiosk,The Lord is My Shepherd
+5811,6975311994,2901,toilet, 
+5812,6975311995,2903,drinking_water, 
+5813,6975311997,2503,kiosk, 
+5814,6975311999,2503,kiosk, 
+5815,6975312001,2301,restaurant,Mama J Special TZ and Omo Tuo
+5816,6975312002,2561,hairdresser, 
+5817,6975312004,2512,clothes, 
+5818,6975312006,2503,kiosk, 
+5819,6975312007,2503,kiosk, 
+5820,6975312008,2529,beauty_shop, 
+5821,6975312009,2503,kiosk, 
+5822,6975312010,2516,butcher,Almighty Cold Store
+5823,6975312011,2503,kiosk, 
+5824,6975312012,2503,kiosk, 
+5825,6975312016,2516,butcher,Almighty Cold Store (Wholesale and Retail)
+5826,6975312042,2503,kiosk, 
+5827,6975312089,2503,kiosk,Awurade Adom
+5828,6975312156,2503,kiosk,Wodomea Bra
+5829,6975312157,2529,beauty_shop,Fatash Beauty Salon
+5830,6975312158,2561,hairdresser, 
+5831,6975312161,2903,drinking_water, 
+5832,6975312162,2903,drinking_water, 
+5833,6975312163,2503,kiosk, 
+5834,6975312164,2528,greengrocer, 
+5835,6975312165,2302,fast_food, 
+5836,6975312166,2528,greengrocer, 
+5837,6975312167,2529,beauty_shop,Victory Beauty Salon
+5838,6975312168,2903,drinking_water, 
+5839,6975312169,2302,fast_food, 
+5840,6975312170,2518,beverages, 
+5841,6975312172,2903,drinking_water, 
+5842,6975312173,2503,kiosk,Lamious Enterprise
+5843,6975312174,2561,hairdresser,Paa Kwasi Haircut
+5844,6975312175,2561,hairdresser, 
+5845,6975312176,2903,drinking_water, 
+5846,6975312177,2561,hairdresser, 
+5847,6975312179,2903,drinking_water, 
+5848,6975312180,2503,kiosk, 
+5849,6975312181,2901,toilet, 
+5850,6975312182,2903,drinking_water, 
+5851,6975312184,2503,kiosk, 
+5852,6975312186,2903,drinking_water, 
+5853,6975312187,2503,kiosk, 
+5854,6975312189,2906,waste_basket, 
+5855,6975312190,2512,clothes, 
+5856,6975312192,2503,kiosk,Mama Efe Enterprise
+5857,6975312193,2302,fast_food,Lamious Special Salad
+5858,6975312194,2512,clothes, 
+5859,6975312195,2561,hairdresser,Clean Cut
+5860,6975312200,2906,waste_basket, 
+5861,6975312201,2503,kiosk, 
+5862,6975312204,2561,hairdresser, 
+5863,6975312205,2503,kiosk, 
+5864,6975312207,2906,waste_basket, 
+5865,6975312210,2503,kiosk, 
+5866,6975312211,2503,kiosk, 
+5867,6975312212,2901,toilet, 
+5868,6975312213,2302,fast_food,Eny3 Mahoden 3y3 Ewurade
+5869,6975312213,2503,kiosk,Eny3 Mahoden 3y3 Ewurade
+5870,6975312214,2503,kiosk, 
+5871,6975312215,2503,kiosk, 
+5872,6975312216,2503,kiosk, 
+5873,6975312217,2503,kiosk, 
+5874,6975312218,2503,kiosk, 
+5875,6975312219,2561,hairdresser,Monash Golden Comb
+5876,6975312220,2503,kiosk, 
+5877,6975312221,2503,kiosk, 
+5878,6975312222,2503,kiosk, 
+5879,6975312223,2503,kiosk, 
+5880,6975312224,2503,kiosk, 
+5886,6975713528,2503,kiosk, 
+5887,6975713529,2503,kiosk, 
+5888,6975713530,2561,hairdresser,Free Heart Salon
+5889,6975713535,2561,hairdresser, 
+5890,6975713542,2503,kiosk, 
+5891,6975713543,2503,kiosk,Okyeso Nyame
+5892,6975713544,2512,clothes, 
+5893,6975713545,2529,beauty_shop,FT Bridal and Makeup
+5894,6975713546,2503,kiosk, 
+5895,6975713547,2903,drinking_water, 
+5896,6975713553,2528,greengrocer, 
+5897,6975713554,2302,fast_food,Royals Fast Food
+5898,6975713558,2903,drinking_water, 
+5899,6975713559,2503,kiosk, 
+5900,6975713560,2503,kiosk, 
+5901,6975713562,2544,furniture_shop, 
+5902,6975713565,2906,waste_basket, 
+5903,6975713566,2503,kiosk,Jadabia Shedar
+5904,6975713567,2251,sports_centre,Game Centre
+5905,6975713569,2503,kiosk,Issakaman Merchant Enterprise
+5906,6975713572,2544,furniture_shop, 
+5907,6975713574,2503,kiosk, 
+5908,6975713575,2503,kiosk, 
+5909,6975713576,2906,waste_basket, 
+5910,6975713577,2514,chemist,Bright O.A Chemical Seller
+5911,6975713580,2561,hairdresser,Bebe Beauty Salon
+5912,6975713581,2301,restaurant,Ensu Nyame Ye Chop Bar
+5913,6975713582,2302,fast_food, 
+5914,6975713584,2503,kiosk,Psalm One Supermaket
+5915,6975725685,2503,kiosk, 
+5916,6975725686,2906,waste_basket, 
+5918,6976555947,2503,kiosk, 
+5919,6976555948,2503,kiosk,Ayilove Enterprise Merchant
+5920,6976555953,2901,toilet, 
+5921,6976555954,2529,beauty_shop,Cecilia Beauty Salon
+5922,6976555955,2503,kiosk, 
+5923,6976555964,2901,toilet, 
+5924,6976555965,2503,kiosk, 
+5925,6976555967,2529,beauty_shop, 
+5926,6976555975,2503,kiosk, 
+5927,6976555983,2511,convenience,What Is Written Is Written Enterprise
+5928,6976555984,2503,kiosk, 
+5929,6976560786,2302,fast_food, 
+5930,6976560787,2302,fast_food,Hajia Fast Food
+5931,6976560791,2906,waste_basket, 
+5932,6976560793,2906,waste_basket, 
+5933,6976560795,2503,kiosk, 
+5934,6976560797,2503,kiosk, 
+5935,6976560798,2511,convenience, 
+5936,6976560800,2543,doityourself,Ramzy Ent.
+5937,6976560801,2511,convenience, 
+5938,6976560802,2511,convenience, 
+5939,6976560803,2302,fast_food,Food Is Ready
+5940,6976560804,2101,pharmacy,Paul Opoku
+5941,6976560805,2906,waste_basket, 
+5942,6976560807,2906,waste_basket, 
+5943,6976560809,2511,convenience, 
+5944,6976560810,2561,hairdresser, 
+5945,6976560811,2906,waste_basket, 
+5946,6976560812,2906,waste_basket, 
+5947,6976560814,2906,waste_basket, 
+5948,6976560815,2561,hairdresser, 
+5949,6976560817,2561,hairdresser,Bandifo Hair Cut
+5950,6976560821,2512,clothes,Mozlina Barbe
+5951,6976560824,2101,pharmacy,Z. A Herbal Home
+5952,6976560825,2906,waste_basket, 
+5953,6976560826,2503,kiosk, 
+5954,6976560827,2561,hairdresser, 
+5955,6976560828,2511,convenience, 
+5956,6976560829,2503,kiosk, 
+5957,6976560830,2906,waste_basket, 
+5958,6976560831,2906,waste_basket, 
+5959,6976560834,2503,kiosk, 
+5960,6976560837,2906,waste_basket, 
+5961,6976560838,2503,kiosk, 
+5962,6976710800,2503,kiosk, 
+5963,6976710801,2503,kiosk,Obaa Saki's Rice
+5964,6976710802,2516,butcher,Eye Adom Coldstore
+5965,6976710803,2503,kiosk, 
+5966,6976710805,2503,kiosk, 
+5967,6976710806,2561,hairdresser, 
+5968,6976710807,2503,kiosk, 
+5969,6976710808,2529,beauty_shop,Sadly Baby's Beauty Salon
+5970,6976710809,2503,kiosk,HasbunAllah Wanimal Wakeel
+5971,6976710810,2305,bar,Vilawoe Lover's Inn Spot
+5972,6976710811,2503,kiosk, 
+5973,6976710812,2503,kiosk, 
+5974,6976710813,2512,clothes, 
+5975,6976710818,2503,kiosk,Respect To The Work
+5976,6976710819,2529,beauty_shop, 
+5977,6976710820,2503,kiosk, 
+5978,6976710821,2503,kiosk, 
+5979,6976710822,2543,doityourself,Honesty Wooden Enterprise
+5980,6976710824,2503,kiosk, 
+5981,6976710825,2503,kiosk, 
+5982,6976710827,2529,beauty_shop,Tinash Beauty Bank
+5983,6976710829,2302,fast_food,Wasiri Special Rice
+5984,6976710830,2503,kiosk, 
+5985,6976710831,2503,kiosk, 
+5986,6976710832,2503,kiosk, 
+5987,6976710834,2503,kiosk, 
+5988,6976710835,2525,mobile_phone_shop,Quality Phones
+5989,6976820612,2901,toilet, 
+5990,6976820630,2082,school,Charlina Complex School
+5991,6976820663,2503,kiosk, 
+5992,6976820664,2503,kiosk,Masha Allah
+5993,6976820665,2525,mobile_phone_shop,Easy Life Phone & Accessories
+5994,6976820667,2503,kiosk, 
+5995,6976820668,2561,hairdresser,Westside Barbering Salon
+5996,6976820669,2906,waste_basket, 
+5997,6976820671,2503,kiosk, 
+5998,6976820673,2503,kiosk, 
+5999,6976820674,2543,doityourself, 
+6000,6976820676,2514,chemist,Maama Vida Herbal Shop
+6001,6976820677,2906,waste_basket, 
+6002,6976820678,2906,waste_basket, 
+6003,6976820679,2503,kiosk, 
+6004,6976820680,2511,convenience,Wazawaza MiniMart
+6005,6976820681,2503,kiosk, 
+6006,6976820683,2503,kiosk, 
+6007,6976820684,2503,kiosk, 
+6008,6976854386,2302,fast_food, 
+6009,6976854387,2503,kiosk, 
+6010,6976854389,2906,waste_basket, 
+6011,6976854392,2503,kiosk, 
+6012,6976854394,2503,kiosk, 
+6013,6976854395,2503,kiosk,Thy Will Be Done
+6014,6976854396,2302,fast_food, 
+6015,6976854397,2503,kiosk,Marian I.B
+6016,6976854398,2503,kiosk, 
+6017,6976854399,2503,kiosk, 
+6018,6976854400,2305,bar, 
+6019,6976854402,2503,kiosk, 
+6020,6976854403,2503,kiosk, 
+6021,6976854405,2302,fast_food,One Corner Kenkey Joint
+6022,6976854407,2305,bar, 
+6023,6976854408,2503,kiosk, 
+6024,6976854409,2503,kiosk,Yesu Mo
+6025,6976854411,2503,kiosk, 
+6026,6976854412,2512,clothes, 
+6027,6976854413,2517,shoe_shop, 
+6028,6976854414,2906,waste_basket, 
+6029,6976854415,2503,kiosk, 
+6030,6976854416,2503,kiosk, 
+6031,6976854417,2503,kiosk, 
+6032,6976854418,2906,waste_basket, 
+6033,6976854419,2101,pharmacy,Nana Panin Herbal And Research Centre
+6035,6976958378,2906,waste_basket, 
+6036,6976958379,2901,toilet,Araba Okukuseku Toilet
+6037,6976958380,2503,kiosk,Hasbunallah
+6038,6976961586,2906,waste_basket, 
+6039,6976961587,2529,beauty_shop, 
+6040,6976961594,2906,waste_basket, 
+6041,6976961599,2901,toilet, 
+6042,6976961603,2601,bank,CBG
+6043,6976961604,2503,kiosk, 
+6044,6976961605,2511,convenience,Faith Over Fear Enterprise
+6045,6976961606,2544,furniture_shop,Jeff Furniture
+6046,6976961608,2503,kiosk, 
+6047,6976961610,2302,fast_food,Duu Ghana Hot Coffee Fast Food
+6048,6976961612,2503,kiosk, 
+6049,6976961613,2512,clothes, 
+6050,6976961614,2529,beauty_shop, 
+6051,6976961615,2561,hairdresser,Kecheson Champion Hair Cut
+6052,6976961616,2511,convenience,S. A. Sherifa Enterprise
+6053,6976961619,2518,beverages, 
+6054,6976961621,2503,kiosk, 
+6055,6976961622,2561,hairdresser, 
+6056,6976961626,2503,kiosk,Boasam Enterprise
+6057,6976961627,2511,convenience,Zaitifa Enterprise
+6058,6976961628,2503,kiosk, 
+6059,6976961630,2503,kiosk, 
+6060,6976961631,2511,convenience,Chamba Store
+6061,6976961633,2503,kiosk,Hasbiya Llaahu Waniemal Wakeel
+6062,6976961635,2512,clothes, 
+6063,6976961636,2503,kiosk, 
+6064,6976961638,2512,clothes, 
+6065,6976961639,2503,kiosk,Aunty Awaaye's Ventures
+6066,6976961642,2561,hairdresser,Wazz Beauty Clinic
+6067,6976961643,2503,kiosk, 
+6068,6976961645,2503,kiosk, 
+6069,6976961646,2561,hairdresser,Queen's Beauty Salon
+6070,6976961647,2503,kiosk,Culubali Enterprise
+6071,6976961649,2503,kiosk, 
+6072,6976961653,2302,fast_food,Kuchi-Kusha Special
+6073,6976961654,2511,convenience,Buy and Save
+6074,6976961655,2512,clothes,The Litpomi Enterprise
+6075,6976961656,2503,kiosk,Choose Morning Star
+6076,6976961657,2503,kiosk,New Shop Enterprise
+6077,6976961658,2503,kiosk,Gambo
+6078,6976961659,2544,furniture_shop,Majesty Art & Furniture Services
+6079,6976961661,2511,convenience,Many Means
+6080,6976961668,2503,kiosk,Twin Star
+6081,6976961669,2503,kiosk,The Lord Is My Shepherd
+6082,6976961672,2503,kiosk, 
+6083,6976961673,2543,doityourself,Mukarrama Trading Enterprise
+6084,6976961676,2503,kiosk, 
+6085,6976961678,2515,bookshop,Marhabah Bookshop
+6086,6976961679,2503,kiosk, 
+6087,6976961680,2503,kiosk,Step Ahead
+6088,6976961681,2503,kiosk,Ashia Jibril
+6089,6976961682,2503,kiosk,Magand Enterprise
+6090,6976961683,2503,kiosk,Munawara
+6091,6976961684,2903,drinking_water, 
+6094,6979518032,2503,kiosk, 
+6095,6979518041,2503,kiosk, 
+6096,6979518042,2082,school,God's Will Special Preparatory School
+6097,6979528999,2529,beauty_shop,Sasha Braidal
+6098,6979529000,2517,shoe_shop, 
+6099,6979529001,2561,hairdresser,Nyame Mre Ne Mre Pa
+6100,6979529002,2503,kiosk, 
+6101,6979529003,2503,kiosk, 
+6102,6979529004,2561,hairdresser,Chicago Barbering Salon
+6103,6979529012,2503,kiosk, 
+6104,6979529013,2514,chemist,A.N. Mukhtar Licensed Chemical Shop
+6105,6979529014,2503,kiosk, 
+6106,6979529015,2529,beauty_shop,Esther's Makeup Salon
+6107,6979529016,2503,kiosk,Brown's Family
+6108,6979529017,2503,kiosk, 
+6109,6979529018,2503,kiosk, 
+6110,6979529019,2302,fast_food, 
+6111,6979529020,2561,hairdresser, 
+6112,6979529021,2302,fast_food,Mercy's Food Joint
+6113,6979529022,2561,hairdresser, 
+6114,6979529024,2511,convenience, 
+6115,6979529026,2523,stationery,2D Books Shop
+6116,6979529027,2503,kiosk, 
+6117,6979529028,2503,kiosk, 
+6118,6979529029,2511,convenience, 
+6119,6979529030,2503,kiosk, 
+6120,6979529031,2503,kiosk, 
+6121,6979529032,2523,stationery,Ever Parah Stationeries
+6122,6979529033,2518,beverages, 
+6124,6979983086,2511,convenience, 
+6125,6979983090,2901,toilet, 
+6126,6979983091,2302,fast_food, 
+6127,6979983092,2511,convenience, 
+6128,6979983098,2503,kiosk, 
+6129,6979983099,2511,convenience, 
+6130,6979983100,2901,toilet, 
+6131,6979983101,2528,greengrocer, 
+6132,6979983102,2511,convenience, 
+6133,6979983104,2544,furniture_shop, 
+6134,6979983105,2503,kiosk, 
+6135,6979983129,2503,kiosk, 
+6136,6979983131,2503,kiosk, 
+6137,6979983132,2511,convenience, 
+6138,6979983133,2503,kiosk,Iko Shaiy Allah
+6139,6979983136,2503,kiosk, 
+6140,6979983137,2514,chemist,Alima Herbal Medicine
+6141,6979983138,2503,kiosk, 
+6142,6979983139,2561,hairdresser, 
+6143,6979983140,2511,convenience, 
+6144,6979983141,2511,convenience,Rahima Enterprise
+6145,6979983142,2514,chemist,Voice of the Needy's Natural Health Consult
+6146,6979983144,2503,kiosk, 
+6147,6979983145,2561,hairdresser,Allah Venture
+6148,6979983146,2302,fast_food, 
+6149,6979983147,2511,convenience,The Hour of Restoration Mini Mart
+6150,6979983148,2511,convenience, 
+6151,6979983149,2511,convenience, 
+6152,6979983150,2503,kiosk, 
+6153,6979983152,2511,convenience,Mayima Enterprise
+6154,6979983153,2528,greengrocer, 
+6155,6979983154,2511,convenience, 
+6156,6979983155,2528,greengrocer,God Is Great
+6157,6979983156,2511,convenience, 
+6158,6979983157,2503,kiosk, 
+6159,6979983158,2503,kiosk, 
+6160,6979983159,2511,convenience, 
+6161,6979983160,2503,kiosk,Allah Gatan Koowa
+6162,6979983163,2503,kiosk, 
+6163,6979983164,2503,kiosk, 
+6164,6979983165,2511,convenience, 
+6165,6979983166,2511,convenience, 
+6166,6979983167,2529,beauty_shop,It Is The Lord's Beauty Hair Clinic
+6167,6979983168,2302,fast_food, 
+6168,6979983169,2503,kiosk, 
+6169,6979983171,2511,convenience, 
+6170,6979983172,2528,greengrocer, 
+6171,6979983173,2529,beauty_shop,King Marozo Pedicure Service
+6172,6979983175,2302,fast_food,Chef Daniel Special Friedrice
+6173,6979983176,2511,convenience, 
+6174,6979983177,2503,kiosk, 
+6175,6979983178,2511,convenience, 
+6176,6979983179,2503,kiosk, 
+6177,6979983180,2503,kiosk, 
+6178,6979983181,2561,hairdresser, 
+6179,6979983182,2561,hairdresser,Monica's Saloon
+6180,6979983183,2511,convenience, 
+6181,6979983184,2302,fast_food, 
+6182,6979983185,2511,convenience, 
+6183,6981127526,2503,kiosk,convenience store
+6184,6981127536,2561,hairdresser, 
+6185,6981127538,2561,hairdresser, 
+6186,6981127539,2511,convenience, 
+6187,6981127541,2511,convenience, 
+6188,6981127544,2529,beauty_shop, 
+6189,6981127545,2906,waste_basket, 
+6190,6981127546,2561,hairdresser,Janash Beauty Salon
+6191,6981127548,2302,fast_food,Daavi Chop Bar
+6192,6981127552,2511,convenience, 
+6193,6981127553,2906,waste_basket, 
+6194,6981127554,2512,clothes, 
+6195,6981127555,2503,kiosk,Agie's Ventures
+6196,6981127558,2305,bar, 
+6197,6981127559,2302,fast_food,Special Rice
+6198,6981127561,2302,fast_food, 
+6199,6981127562,2512,clothes, 
+6200,6981127563,2529,beauty_shop,Diya's Creation
+6201,6981127564,2906,waste_basket, 
+6202,6981127565,2515,bookshop, 
+6203,6981127566,2503,kiosk, 
+6204,6981127568,2515,bookshop, 
+6205,6981127570,2305,bar, 
+6206,6981127571,2906,waste_basket, 
+6207,6981127572,2511,convenience, 
+6208,6981127575,2512,clothes, 
+6209,6981127576,2511,convenience, 
+6214,6983257687,2503,kiosk, 
+6215,6983257688,2503,kiosk, 
+6216,6983257689,2503,kiosk, 
+6217,6983257690,2561,hairdresser,Rabiot Cut
+6218,6983257693,2082,school,Ilmun Naafi
+6219,6983257694,2503,kiosk, 
+6220,6983257696,2503,kiosk, 
+6221,6983257698,2503,kiosk, 
+6222,6983257699,2503,kiosk, 
+6223,6983257700,2529,beauty_shop,Mariam Beauty Salon
+6224,6983257701,2302,fast_food, 
+6225,6983257703,2503,kiosk, 
+6226,6983257704,2503,kiosk, 
+6227,6983257705,2503,kiosk, 
+6228,6983257707,2561,hairdresser,Good Wife Ventures
+6229,6983257708,2302,fast_food,Tikus Fast Food
+6230,6983257715,2503,kiosk, 
+6231,6983257716,2305,bar, 
+6232,6983257717,2502,bakery,Golden House Bakery
+6233,6983257718,2503,kiosk, 
+6234,6983257720,2302,fast_food,Sapter Food
+6235,6983257722,2302,fast_food, 
+6236,6983257726,2561,hairdresser,Vida Beauty Salon
+6237,6983257727,2503,kiosk, 
+6238,6983257729,2529,beauty_shop,Merash Bridal
+6239,6983257731,2512,clothes, 
+6240,6983257733,2503,kiosk, 
+6241,6983257735,2503,kiosk, 
+6242,6983257737,2561,hairdresser,Penny's Haircut
+6243,6983257738,2503,kiosk, 
+6244,6983257740,2503,kiosk, 
+6245,6983257741,2302,fast_food,Marsha Allah Special Food
+6246,6983257742,2305,bar,Lizzborn
+6247,6983257743,2561,hairdresser,Gifty's Beauty Parlour
+6248,6983477465,2901,toilet, 
+6249,6983477468,2901,toilet, 
+6250,6983477470,2503,kiosk, 
+6251,6983477471,2401,hotel,Silence Hotel
+6252,6983477475,2503,kiosk, 
+6253,6983477481,2561,hairdresser, 
+6254,6983610050,2512,clothes, 
+6255,6983610053,2082,school,Ghana National Academy
+6256,6983610054,2305,bar, 
+6257,6983610059,2503,kiosk, 
+6258,6983610060,2305,bar, 
+6259,6983610061,2503,kiosk, 
+6260,6983610062,2511,convenience, 
+6261,6983610063,2901,toilet, 
+6262,6983620486,2503,kiosk, 
+6263,6983620487,2503,kiosk, 
+6264,6983620488,2903,drinking_water, 
+6265,6983620491,2511,convenience, 
+6266,6983620496,2561,hairdresser, 
+6267,6983620500,2503,kiosk, 
+6268,6983620501,2302,fast_food,Nasurumia Allah
+6269,6983620502,2503,kiosk, 
+6270,6983620504,2906,waste_basket, 
+6271,6983620506,2906,waste_basket, 
+6272,6983620509,2503,kiosk, 
+6273,6983620510,2302,fast_food, 
+6274,6983620511,2503,kiosk, 
+6275,6983620513,2517,shoe_shop, 
+6276,6983620514,2503,kiosk, 
+6277,6983620519,2561,hairdresser,Class of Beauty Salon
+6278,6983620520,2906,waste_basket, 
+6279,6983620521,2302,fast_food,Abi's Special Food
+6280,6983620522,2543,doityourself,Bileya Company
+6281,6983620523,2503,kiosk, 
+6282,6983620524,2512,clothes, 
+6283,6983620525,2503,kiosk, 
+6284,6983620527,2561,hairdresser, 
+6285,6983620530,2906,waste_basket, 
+6286,6983620533,2906,waste_basket, 
+6287,6983620535,2512,clothes, 
+6288,6983620538,2512,clothes, 
+6289,6983620541,2503,kiosk, 
+6290,6983620542,2906,waste_basket, 
+6291,6983620543,2503,kiosk, 
+6292,6983620545,2906,waste_basket, 
+6293,6983620547,2512,clothes, 
+6294,6983620548,2503,kiosk, 
+6295,6983620549,2906,waste_basket, 
+6296,6983620550,2906,waste_basket, 
+6297,6983620552,2906,waste_basket, 
+6298,6983620553,2503,kiosk, 
+6299,6983620556,2503,kiosk, 
+6300,6983620558,2906,waste_basket, 
+6301,6983620559,2503,kiosk,Allah is the Provider
+6302,6983620562,2503,kiosk, 
+6303,6983620563,2503,kiosk, 
+6304,6983620564,2515,bookshop,Mama's Book Shop
+6305,6983620652,2528,greengrocer, 
+6306,6983620667,2529,beauty_shop,Sister Martha's Beauty Salon
+6307,6983620670,2503,kiosk, 
+6308,6983620671,2901,toilet, 
+6309,6983620672,2503,kiosk, 
+6310,6983620673,2503,kiosk, 
+6311,6983620674,2503,kiosk, 
+6312,6983620675,2503,kiosk, 
+6313,6983620676,2503,kiosk, 
+6314,6983620677,2503,kiosk, 
+6315,6983620678,2503,kiosk, 
+6316,6983620679,2082,school,Ghana National Prep & JSS
+6317,6983622965,2082,school,Rashad Islamic School
+6318,6983622966,2511,convenience, 
+6319,6983622967,2511,convenience, 
+6320,6983622974,2503,kiosk, 
+6321,6983622975,2528,greengrocer, 
+6322,6983622977,2514,chemist,Anthony Agyeman Licensed Chemical Seller
+6323,6983622978,2503,kiosk, 
+6324,6983622981,2503,kiosk,All Praise be to Allah
+6325,6983622982,2512,clothes,2 Pillars Ventures
+6326,6983622983,2503,kiosk, 
+6327,6983622984,2561,hairdresser,God's Favour Beauty Salon
+6328,6983626586,2082,school,Answaru-Deen Islamic School
+6329,6983626617,2512,clothes, 
+6330,6983626619,2503,kiosk, 
+6331,6983626620,2302,fast_food,Happy Tilapia Joint
+6332,6983626628,2561,hairdresser, 
+6333,6983626634,2901,toilet, 
+6334,6983626636,2503,kiosk, 
+6335,6983626639,2503,kiosk, 
+6336,6983626641,2901,toilet, 
+6337,6983626642,2503,kiosk, 
+6338,6983626643,2084,college,African Institute of Professional Education
+6339,6983626648,2503,kiosk, 
+6340,6983626649,2520,jeweller, 
+6341,6983626652,2901,toilet, 
+6342,6983626658,2503,kiosk,Psalm 27
+6343,6983626659,2503,kiosk, 
+6344,6983626661,2084,college,Aipe College
+6345,6983626664,2503,kiosk, 
+6346,6983626665,2546,computer_shop,Global IT Service
+6347,6983626670,2520,jeweller,Steve's Jewellery
+6348,6983626671,2302,fast_food, 
+6349,6983626673,2601,bank,SME Loans
+6350,6983626676,2514,chemist,Anas Comfortly
+6351,6983626681,2503,kiosk, 
+6352,6983626682,2901,toilet, 
+6353,6983626685,2503,kiosk, 
+6354,6983626688,2503,kiosk, 
+6355,6983626689,2543,doityourself,Shalky Ventures
+6356,6983626692,2561,hairdresser, 
+6357,6983626693,2503,kiosk, 
+6358,6983626695,2523,stationery,New Top Rubber Stamp Works
+6359,6983626697,2544,furniture_shop, 
+6360,6983626698,2544,furniture_shop,Double A Innobest Enterprise
+6361,6983626699,2515,bookshop,Challenge Bookshop
+6362,6983626700,2503,kiosk, 
+6363,6983626701,2901,toilet, 
+6364,6983626703,2906,waste_basket, 
+6365,6983626704,2503,kiosk, 
+6366,6983626707,2515,bookshop, 
+6367,6983626712,2503,kiosk, 
+6368,6983626714,2511,convenience,Kamp G. Limited
+6369,6983626715,2503,kiosk, 
+6370,6983626716,2503,kiosk, 
+6371,6983629685,2503,kiosk, 
+6372,6983629687,2503,kiosk, 
+6373,6983629688,2561,hairdresser,Still Salon De Saf
+6374,6983629689,2503,kiosk, 
+6375,6983629691,2503,kiosk, 
+6376,6983629700,2503,kiosk,In the name of Allah
+6377,6983629701,2503,kiosk, 
+6378,6983629718,2503,kiosk, 
+6379,6983629745,2503,kiosk,Nai Nasara
+6380,6983629771,2503,kiosk, 
+6381,6983629772,2503,kiosk, 
+6382,6983629775,2503,kiosk, 
+6383,6983629780,2503,kiosk, 
+6384,6983629781,2529,beauty_shop,Humble's Signature
+6385,6983629785,2503,kiosk, 
+6386,6983629787,2503,kiosk, 
+6387,6983629789,2503,kiosk, 
+6388,6983629791,2503,kiosk, 
+6389,6983629792,2503,kiosk, 
+6390,6983629793,2529,beauty_shop,Samish P Golden Salon
+6391,6983629794,2542,bicycle_shop,Gaobuna Enterprise
+6392,6983629795,2901,toilet,Bobo Toilet
+6393,6983629797,2503,kiosk, 
+6394,6983629799,2906,waste_basket, 
+6395,6983629800,2561,hairdresser, 
+6396,6983629802,2906,waste_basket, 
+6397,6983629804,2503,kiosk, 
+6398,6983629805,2512,clothes,Lace Shop
+6399,6983629806,2503,kiosk,Haji Fatima's Enterprise
+6400,6983629807,2503,kiosk, 
+6401,6983629811,2302,fast_food,Mari Special
+6402,6983629813,2302,fast_food,Asira Heikon Allah
+6403,6983629814,2503,kiosk, 
+6404,6983629815,2503,kiosk,All shall Pass
+6405,6983629816,2528,greengrocer, 
+6406,6983629817,2503,kiosk, 
+6407,6983629818,2512,clothes,Lace Shop
+6408,6983629819,2561,hairdresser, 
+6409,6983629822,2503,kiosk, 
+6410,6983629824,2501,supermarket,Lairms
+6411,6983629825,2302,fast_food, 
+6412,6983629829,2503,kiosk, 
+6413,6983629832,2503,kiosk, 
+6414,6983629834,2901,toilet, 
+6415,6983629835,2503,kiosk, 
+6416,6983660385,2528,greengrocer, 
+6417,6983660386,2503,kiosk,Allah Gives Allah Takes
+6418,6983660387,2528,greengrocer, 
+6419,6983660388,2561,hairdresser,My God is Able Beauty Salon
+6420,6983660389,2516,butcher, 
+6421,6983660390,2529,beauty_shop,Lami Hair Braiding
+6422,6983660391,2561,hairdresser,Best in Town Barbering Shop
+6423,6983660392,2512,clothes, 
+6424,6983660393,2561,hairdresser, 
+6425,6983660395,2503,kiosk, 
+6426,6983660397,2503,kiosk, 
+6427,6983660398,2503,kiosk, 
+6428,6983660402,2561,hairdresser, 
+6429,6983660403,2544,furniture_shop, 
+6430,6983660404,2503,kiosk,Stop Over & Dukkan
+6431,6983660405,2512,clothes,Anita's Collection
+6432,6983692280,2503,kiosk, 
+6433,6983692281,2503,kiosk, 
+6434,6983692282,2901,toilet, 
+6435,6983692283,2503,kiosk, 
+6439,6983704703,2514,chemist,E A Hammond
+6440,6983704704,2503,kiosk, 
+6441,6983704706,2503,kiosk, 
+6442,6983704707,2302,fast_food, 
+6443,6983704708,2511,convenience,Gods Time Is The Best
+6444,6983704709,2529,beauty_shop, 
+6445,6983704710,2561,hairdresser, 
+6446,6983704711,2525,mobile_phone_shop,Rasta Phones
+6447,6983704713,2503,kiosk, 
+6449,6983704716,2503,kiosk, 
+6450,6983704717,2525,mobile_phone_shop,Kobby Jones Phone Repairs
+6451,6983704719,2511,convenience, 
+6452,6983704720,2511,convenience,Faithful is the Lord
+6453,6983704721,2511,convenience, 
+6454,6983704723,2561,hairdresser,Michigan Barber Shop
+6455,6983704724,2302,fast_food,Mola Kitchen
+6456,6983704725,2302,fast_food, 
+6457,6983704726,2503,kiosk, 
+6458,6983704729,2523,stationery, 
+6459,6983704730,2511,convenience,5 Sisters Enterprise
+6460,6983704731,2511,convenience,God is Good All the Time
+6461,6983704732,2561,hairdresser, 
+6462,6983704733,2302,fast_food,Ohuinye Special Chop Bar
+6463,6983704734,2543,doityourself, 
+6464,6983704736,2903,drinking_water, 
+6465,6983705185,2503,kiosk, 
+6466,6983705186,2503,kiosk, 
+6467,6983705189,2503,kiosk, 
+6468,6983705190,2503,kiosk, 
+6469,6983705191,2503,kiosk, 
+6470,6983705192,2503,kiosk, 
+6471,6983705193,2302,fast_food,Marsha Allah Food Joint
+6472,6983705194,2503,kiosk, 
+6473,6983705214,2503,kiosk, 
+6474,6983705215,2517,shoe_shop, 
+6475,6983705216,2502,bakery,Fresh Bakery and Pasteries
+6476,6983705217,2503,kiosk,Nothing But Allah
+6477,6983705220,2561,hairdresser, 
+6478,6983705221,2561,hairdresser,Doris Beauty Salon
+6479,6983705224,2561,hairdresser,Faith Beauty Salon
+6480,6983705229,2302,fast_food,Providence Enterprise
+6481,6983705231,2529,beauty_shop, 
+6482,6983705232,2503,kiosk,Heaven Is Free But Do The Right Thing
+6483,6983705234,2503,kiosk, 
+6484,6983705236,2302,fast_food,Teenash Modern Cake & Catering Enterprise
+6485,6983705236,2502,bakery,Teenash Modern Cake & Catering Enterprise
+6486,6983705237,2503,kiosk,C. D Ventures
+6487,6983705239,2503,kiosk,Ami Solar Enterprise
+6488,6983705241,2303,cafe,Delicacy Crescent
+6489,6983705245,2503,kiosk, 
+6490,6983705249,2561,hairdresser,1 Before 2 Barbering Shop
+6491,6983705250,2906,waste_basket, 
+6492,6983705251,2503,kiosk, 
+6493,6983705252,2529,beauty_shop,Lucy beauty Salon
+6494,6983705253,2503,kiosk,Godia Enterprise
+6495,6983705254,2503,kiosk,Sadia's Collections
+6496,6983705255,2906,waste_basket, 
+6497,6983705256,2503,kiosk,Step in Communication Centre
+6498,6983705257,2512,clothes, 
+6499,6983705258,2530,video_shop,Alaska Video Center
+6500,6983705261,2514,chemist,J K Chemical Shop
+6501,6983705263,2518,beverages, 
+6502,6983705265,2512,clothes, 
+6503,6983705270,2512,clothes,Innalaha Maa Swabirum
+6504,6983705272,2305,bar,Stomach Clinic Drinking Bar
+6505,6983736118,2901,toilet, 
+6506,6983736119,2561,hairdresser,Hasbunalla Wanimal Wakeel Beauty Saloon
+6507,6983736120,2503,kiosk,Alhaji Allah Yabamu Saa
+6508,6983736121,2525,mobile_phone_shop,Success Phones
+6509,6983736141,2302,fast_food,Eat and Shit
+6510,6983736142,2901,toilet, 
+6511,6983736147,2901,toilet, 
+6512,6983736157,2601,bank,Afro-Arab Microfinance Co. Ltd
+6513,6983737306,2503,kiosk, 
+6514,6983737308,2503,kiosk, 
+6515,6983737309,2512,clothes, 
+6516,6983737310,2542,bicycle_shop, 
+6517,6983737312,2503,kiosk, 
+6518,6983737314,2517,shoe_shop, 
+6519,6983737315,2302,fast_food,Haza Min Fadli Rabi
+6520,6983737317,2503,kiosk, 
+6521,6983737318,2541,car_dealership, 
+6522,6983737320,2517,shoe_shop, 
+6523,6983737321,2512,clothes, 
+6524,6983737322,2512,clothes, 
+6525,6983737325,2561,hairdresser,Liverpool Barbering and Business Centre
+6526,6983737326,2517,shoe_shop, 
+6527,6983737327,2511,convenience,Hajia Wasila Enterprise
+6528,6983737328,2514,chemist,Rahma Herbal Center
+6529,6983737329,2512,clothes, 
+6530,6983737330,2512,clothes, 
+6531,6983737331,2514,chemist,Alexander Kissi
+6532,6983737332,2512,clothes, 
+6533,6983737334,2503,kiosk, 
+6534,6983737335,2503,kiosk, 
+6535,6983737340,2503,kiosk, 
+6536,6983737343,2528,greengrocer, 
+6537,6983737346,2503,kiosk, 
+6538,6983737347,2529,beauty_shop, 
+6539,6983737348,2561,hairdresser,Royal Victory Beauty Salon
+6540,6983737349,2516,butcher,Elecafetelero Ghana Limited
+6541,6983737355,2512,clothes, 
+6542,6983737356,2528,greengrocer, 
+6543,6983737357,2503,kiosk, 
+6544,6983737359,2525,mobile_phone_shop,Cell Phone Shop
+6545,6983737360,2503,kiosk, 
+6546,6983737363,2512,clothes, 
+6547,6983737368,2503,kiosk, 
+6548,6983737373,2901,toilet, 
+6549,6983737375,2901,toilet, 
+6550,6983737378,2906,waste_basket, 
+6551,6983737384,2903,drinking_water, 
+6552,6984353977,2901,toilet, 
+6553,6984353978,2503,kiosk, 
+6554,6984353979,2082,school,Kanda High Way School
+6555,6984353981,2082,school, 
+6556,6984353982,2901,toilet, 
+6557,6984353983,2082,school, 
+6558,6984356693,2503,kiosk, 
+6559,6984356695,2529,beauty_shop,A.Rahman Still Do Good Enterprise
+6560,6984356701,2906,waste_basket, 
+6561,6984356702,2906,waste_basket, 
+6562,6984356703,2561,hairdresser,Onyame na Aye Beauty salon
+6563,6984356704,2503,kiosk, 
+6564,6984356706,2903,drinking_water, 
+6565,6984356707,2082,school,Hghway Nursery And Primary School
+6566,6984356709,2305,bar,To Err is Human Inn
+6567,6984356710,2906,waste_basket, 
+6568,6984356714,2503,kiosk, 
+6569,6984356715,2302,fast_food, 
+6570,6984356718,2503,kiosk, 
+6571,6984356720,2503,kiosk, 
+6572,6984356723,2543,doityourself, 
+6573,6984356725,2503,kiosk, 
+6574,6984356726,2903,drinking_water, 
+6575,6984356729,2503,kiosk,The Lord is my Sherperd
+6576,6984356730,2529,beauty_shop, 
+6577,6984356733,2302,fast_food, 
+6578,6984356735,2503,kiosk, 
+6579,6984356739,2561,hairdresser,Emen Business Centre
+6580,6984356740,2903,drinking_water, 
+6581,6984356742,2030,recycling, 
+6582,6984356743,2906,waste_basket, 
+6583,6984356744,2305,bar,Peace and Love Bar
+6584,6984356747,2302,fast_food,Maggie's Kitchen
+6585,6984356748,2030,recycling, 
+6586,6984356750,2503,kiosk, 
+6587,6984356754,2561,hairdresser, 
+6588,6984356755,2302,fast_food, 
+6589,6984356756,2906,waste_basket, 
+6590,6984356757,2503,kiosk, 
+6591,6984356758,2302,fast_food,God Has Done It Fast Food
+6592,6984356759,2030,recycling, 
+6593,6984356760,2901,toilet, 
+6594,6984507166,2503,kiosk, 
+6595,6984507167,2901,toilet, 
+6596,6984507169,2901,toilet, 
+6597,6984507174,2511,convenience, 
+6598,6984507184,2502,bakery,Osheen's Creation
+6599,6984515145,2543,doityourself, 
+6600,6984515146,2515,bookshop, 
+6601,6984515147,2302,fast_food,Daavi Beans
+6602,6984515155,2520,jeweller, 
+6603,6984515157,2543,doityourself, 
+6604,6984515160,2561,hairdresser,Madam Say Yours Salon
+6605,6984515163,2305,bar, 
+6606,6984515164,2517,shoe_shop, 
+6607,6984515165,2520,jeweller, 
+6608,6984515167,2544,furniture_shop,Cherog Ventures Ltd
+6609,6984515169,2903,drinking_water, 
+6610,6984515171,2503,kiosk, 
+6611,6984515174,2302,fast_food, 
+6612,6984515177,2903,drinking_water, 
+6613,6984515179,2529,beauty_shop,Baby J Beauty Zone & Cosmetics
+6614,6984515182,2901,toilet, 
+6615,6984515183,2561,hairdresser, 
+6616,6984515184,2518,beverages, 
+6617,6984515187,2543,doityourself, 
+6618,6984515189,2302,fast_food,Odo Foods
+6619,6984515191,2512,clothes, 
+6620,6984515192,2302,fast_food,Perry Place
+6621,6984515196,2302,fast_food, 
+6622,6984515197,2903,drinking_water, 
+6623,6984515203,2543,doityourself, 
+6624,6984515205,2511,convenience, 
+6625,6984515208,2305,bar, 
+6626,6984515211,2544,furniture_shop, 
+6627,6984515215,2302,fast_food,Patmorson
+6628,6984515216,2511,convenience,Splendid Queen Mother
+6629,6984515217,2529,beauty_shop,Professional Beauty Salon
+6630,6984515223,2512,clothes,Lang Tara
+6631,6984515226,2503,kiosk, 
+6632,6984515227,2561,hairdresser,Crystal Unisex Salon
+6633,6984515228,2529,beauty_shop,Brown Beauty Klinic
+6634,6984515229,2302,fast_food,TV3 Special
+6635,6984515230,2512,clothes, 
+6636,6984515231,2512,clothes,Splendid Queen Mother
+6637,6984515232,2511,convenience, 
+6638,6984515233,2503,kiosk, 
+6639,6984515236,2561,hairdresser, 
+6640,6984515242,2302,fast_food, 
+6641,6984515243,2302,fast_food,Kan Gbanga Ent.
+6642,6984515246,2561,hairdresser,Swanzy Beauty Salon
+6643,6984515251,2511,convenience, 
+6644,6984515254,2544,furniture_shop, 
+6645,6984515258,2561,hairdresser,Big Joe Barbering Shop
+6646,6984515261,2561,hairdresser, 
+6647,6984515262,2511,convenience, 
+6648,6984515263,2511,convenience,Hajia Lucky Enterprise
+6649,6984515264,2302,fast_food, 
+6650,6984515265,2512,clothes, 
+6651,6984515266,2503,kiosk, 
+6652,6984515267,2515,bookshop, 
+6653,6984618002,2305,bar, 
+6654,6984618019,2906,waste_basket, 
+6655,6984618025,2544,furniture_shop, 
+6656,6984618027,2520,jeweller,Agnes Ablade No.1 Woman Gold and Diamond Smith
+6657,6984618030,2529,beauty_shop,Golden Touch Beauty Salon
+6658,6984618031,2511,convenience,ChrisGlad Ventures
+6659,6984618032,2511,convenience, 
+6660,6984618034,2302,fast_food, 
+6661,6984618035,2517,shoe_shop, 
+6662,6984618036,2511,convenience, 
+6663,6984618037,2082,school,Adab Islamic Mission School
+6664,6984618038,2514,chemist,Hope Anointing Shop
+6665,6984618039,2529,beauty_shop,One Step At A Time Beauty Parlour
+6666,6984618043,2561,hairdresser,No Weapon Beauty Salon
+6667,6984618044,2503,kiosk, 
+6668,6984618046,2503,kiosk,Baa Meyi Shei Allah
+6669,6984618047,2511,convenience, 
+6670,6984618048,2511,convenience, 
+6671,6984618051,2561,hairdresser, 
+6672,6984618052,2561,hairdresser,Allah Is Faithful
+6673,6984618053,2561,hairdresser,Down Side Hair Cut
+6674,6984618054,2511,convenience, 
+6675,6984618055,2515,bookshop,Khadis Books and Stationary
+6676,6984618058,2529,beauty_shop,Another Look Beauty Salon
+6677,6984618060,2561,hairdresser,Lorinda Beauty Salon
+6678,6984618061,2561,hairdresser, 
+6679,6984618062,2511,convenience,Bameiyi Shei Allah
+6680,6984618064,2511,convenience, 
+6681,6984618065,2302,fast_food, 
+6682,6984618066,2511,convenience, 
+6683,6984618070,2903,drinking_water, 
+6684,6984618072,2511,convenience,Ba Iko Allah
+6685,6984618074,2503,kiosk,Spaka Empire
+6686,6984618075,2511,convenience, 
+6687,6984618077,2111,clinic,Sina Zuwina Herbal Center
+6688,6984618080,2301,restaurant,Farash Professional Catering Service
+6689,6984618082,2511,convenience, 
+6690,6984618083,2302,fast_food, 
+6691,6984618084,2906,waste_basket, 
+6692,6984620585,2517,shoe_shop, 
+6693,6984620586,2529,beauty_shop,Akuvi Beauty Parlour
+6694,6984620587,2305,bar, 
+6695,6984620588,2561,hairdresser, 
+6696,6984620590,2511,convenience,My God Is Able
+6697,6984620591,2305,bar, 
+6698,6984620594,2511,convenience,Sister's Catering Services
+6699,6984620597,2903,drinking_water, 
+6700,6984620601,2511,convenience, 
+6701,6984620602,2511,convenience, 
+6702,6984620603,2305,bar,Dadia's Drinking Spot
+6703,6984620604,2503,kiosk, 
+6704,6984620606,2529,beauty_shop, 
+6705,6984620608,2511,convenience, 
+6706,6984620609,2561,hairdresser,Lucy Beauty Salon
+6707,6984620611,2305,bar, 
+6708,6984620614,2903,drinking_water, 
+6709,6984620615,2503,kiosk, 
+6710,6984620617,2511,convenience, 
+6711,6984620618,2503,kiosk, 
+6712,6984620621,2302,fast_food, 
+6713,6984620624,2561,hairdresser,Area Champions Center
+6714,6984620625,2302,fast_food,Allahu Wahid
+6715,6984620626,2503,kiosk, 
+6716,6984620627,2903,drinking_water, 
+6717,6984620628,2082,school,Sideeqiya Women's Islamic School
+6718,6984620629,2503,kiosk,Mamus Dagher
+6719,6984620630,2511,convenience, 
+6720,6984620632,2511,convenience, 
+6721,6984620634,2511,convenience, 
+6722,6984620636,2561,hairdresser,Baby G Touch Beauty Salon
+6723,6984620637,2529,beauty_shop,Maruq Bridals
+6724,6984620639,2511,convenience, 
+6725,6984620641,2503,kiosk, 
+6726,6984620642,2511,convenience, 
+6727,6984620645,2511,convenience, 
+6728,6985230132,2503,kiosk,Egg Boutique
+6729,6985230137,2503,kiosk, 
+6730,6985230138,2503,kiosk, 
+6731,6985230140,2503,kiosk, 
+6732,6985230142,2511,convenience,Sun Set Shopping Center
+6733,6985230143,2512,clothes,Pat Lace Clothing
+6734,6985230145,2302,fast_food, 
+6735,6985230148,2302,fast_food,Oba Ku Fuo Special Food
+6736,6985230149,2503,kiosk, 
+6737,6985230150,2906,waste_basket, 
+6738,6985230151,2561,hairdresser,Black Beauty
+6739,6985230152,2906,waste_basket, 
+6740,6985230154,2503,kiosk, 
+6741,6985230155,2503,kiosk, 
+6742,6985230157,2906,waste_basket, 
+6743,6985230159,2906,waste_basket, 
+6744,6985230160,2518,beverages,Bentil's Waterland
+6745,6985230161,2503,kiosk,Adom Disposable Products
+6746,6985230162,2561,hairdresser,Unique Beauty Salon
+6747,6985230165,2503,kiosk, 
+6748,6985230166,2511,convenience, 
+6749,6985230168,2901,toilet,El Public Toilet
+6750,6985230169,2503,kiosk, 
+6751,6985230170,2503,kiosk,Nyame Adom
+6752,6985230171,2503,kiosk, 
+6753,6985230173,2512,clothes, 
+6754,6985230175,2529,beauty_shop,Full Service Salon
+6755,6985230177,2503,kiosk, 
+6756,6985230178,2514,chemist, 
+6757,6985230179,2529,beauty_shop,Ayisha Makes Beauty Parlour
+6758,6985230180,2503,kiosk, 
+6759,6985230181,2503,kiosk,Al Murak
+6760,6985230183,2101,pharmacy,Zagus Chemicals
+6761,6985230184,2503,kiosk, 
+6762,6985230185,2503,kiosk,Auimande Ventures
+6763,6985230186,2503,kiosk, 
+6764,6985230187,2514,chemist,Emmanuel Spiritual & Herbal Shop
+6765,6985230189,2305,bar, 
+6766,6985230190,2303,cafe,City Bread
+6767,6985230191,2906,waste_basket, 
+6768,6985230196,2503,kiosk, 
+6769,6985230197,2503,kiosk, 
+6770,6985230199,2302,fast_food,Peace & Love (Two Brothers) Fast Food
+6771,6985230201,2503,kiosk,Sabidd Ventures
+6772,6985230204,2564,car_wash, 
+6773,6985230205,2503,kiosk, 
+6774,6985230208,2503,kiosk, 
+6775,6985230210,2302,fast_food, 
+6776,6985230211,2503,kiosk, 
+6777,6985230212,2302,fast_food,Rams Special
+6778,6985230213,2503,kiosk, 
+6779,6985350566,2101,pharmacy,Magmitch Pharmacy
+6780,6985350568,2906,waste_basket, 
+6781,6985350575,2901,toilet, 
+6782,6985492481,2906,waste_basket, 
+6783,6985774546,2503,kiosk,Hasbunallah Wanimah Wakiel
+6784,6985774547,2503,kiosk, 
+6785,6985774548,2515,bookshop,M.H Nurul Islamic Bookshop
+6786,6985774549,2503,kiosk, 
+6787,6985774550,2512,clothes, 
+6788,6985774551,2544,furniture_shop,Baban Aunty Furniture
+6789,6985774554,2503,kiosk, 
+6790,6985774555,2503,kiosk, 
+6791,6985774556,2906,waste_basket, 
+6792,6985774560,2503,kiosk, 
+6793,6985774561,2503,kiosk,PZY Enterprise
+6794,6985774562,2503,kiosk, 
+6795,6985774564,2503,kiosk,Elohim Enterprise
+6796,6985774566,2302,fast_food, 
+6797,6985774567,2906,waste_basket, 
+6798,6985774569,2503,kiosk, 
+6799,6985774571,2561,hairdresser, 
+6800,6985774574,2503,kiosk, 
+6801,6985774575,2503,kiosk, 
+6802,6985774576,2503,kiosk, 
+6803,6985774577,2503,kiosk,By His Grace Enterprise
+6804,6985774578,2906,waste_basket, 
+6805,6985774581,2512,clothes, 
+6806,6985774584,2528,greengrocer, 
+6807,6985794385,2561,hairdresser, 
+6808,6985794389,2561,hairdresser, 
+6809,6985794390,2906,waste_basket, 
+6810,6985794395,2561,hairdresser,Gabangies Hair Designing
+6811,6985794396,2503,kiosk, 
+6812,6985794397,2503,kiosk, 
+6813,6985794399,2503,kiosk, 
+6814,6985794402,2903,drinking_water, 
+6815,6985794405,2503,kiosk, 
+6816,6985794406,2561,hairdresser,M. Y. Hair Style
+6817,6985794407,2503,kiosk, 
+6818,6985794409,2503,kiosk, 
+6819,6985794410,2503,kiosk, 
+6820,6985794411,2503,kiosk, 
+6821,6985971166,2503,kiosk, 
+6822,6985971171,2503,kiosk, 
+6823,6985971172,2503,kiosk, 
+6824,6985971173,2503,kiosk, 
+6825,6985971182,2302,fast_food, 
+6826,6985971387,2518,beverages, 
+6827,6985971388,2503,kiosk, 
+6828,6985971389,2503,kiosk, 
+6829,6985971391,2511,convenience, 
+6830,6985971392,2503,kiosk, 
+6831,6985971395,2503,kiosk, 
+6832,6985971400,2561,hairdresser, 
+6833,6985971405,2901,toilet, 
+6834,6985971406,2503,kiosk, 
+6835,6985971424,2083,kindergarten,Precious Stone Early Childhood Development Centre
+6836,6985971436,2401,hotel,Los Angel
+6837,6985971437,2301,restaurant,Frankies Chop Bar
+6838,6985971438,2901,toilet, 
+6839,6985971440,2302,fast_food,God's Way Redo Special Food
+6840,6985971441,2503,kiosk, 
+6841,6985971442,2561,hairdresser, 
+6842,6985971443,2503,kiosk, 
+6843,6985971444,2512,clothes, 
+6844,6985971446,2503,kiosk, 
+6845,6985971448,2302,fast_food, 
+6846,6985971450,2561,hairdresser,Gye NYame
+6847,6985982785,2305,bar, 
+6848,6985982786,2561,hairdresser,Stonezy Barbering Salon
+6849,6985982794,2543,doityourself, 
+6850,6985982796,2503,kiosk, 
+6851,6985982797,2901,toilet, 
+6852,6985982803,2523,stationery, 
+6853,6985982805,2901,toilet, 
+6854,6985982807,2302,fast_food, 
+6855,6985982813,2302,fast_food, 
+6856,6985982814,2503,kiosk, 
+6857,6985982816,2906,waste_basket, 
+6858,6985982828,2302,fast_food, 
+6859,6985982829,2529,beauty_shop,Mr. Romantic Glam
+6860,6985982832,2517,shoe_shop,Eye Adom
+6861,6985982840,2302,fast_food,Blessed Home Food Joint
+6862,6985982841,2901,toilet, 
+6863,6985982845,2302,fast_food,Ecomog Sport
+6864,6985982847,2512,clothes,Fabric Worm
+6865,6985982848,2515,bookshop, 
+6866,6985982849,2305,bar, 
+6867,6985982852,2302,fast_food, 
+6868,6985982852,2503,kiosk, 
+6869,6985982853,2561,hairdresser, 
+6870,6985982855,2503,kiosk, 
+6871,6985982856,2561,hairdresser,Hair Doctor Anointed Salon
+6872,6985982857,2503,kiosk, 
+6873,6985982858,2503,kiosk, 
+6874,6985982859,2903,drinking_water, 
+6875,6985982860,2901,toilet, 
+6876,6985982863,2601,bank,Ocean Capital Microfinance
+6877,6985982864,2906,waste_basket, 
+6878,6985982866,2601,bank,National Investment Bank
+6879,6985982870,2503,kiosk, 
+6880,6985982871,2901,toilet, 
+6881,6985982872,2512,clothes, 
+6882,6985982874,2305,bar, 
+6883,6985982875,2503,kiosk, 
+6884,6985982876,2511,convenience, 
+6885,6985982877,2503,kiosk, 
+6886,6985982878,2901,toilet, 
+6887,6985982881,2601,bank,Republic Bank
+6888,6985982883,2503,kiosk,Theo's Enterprise
+6889,6985982884,2601,bank,The Seed Funds
+6890,6986817268,2901,toilet, 
+6891,6986817269,2503,kiosk, 
+6892,6986817270,2503,kiosk, 
+6893,6986817280,2503,kiosk, 
+6894,6986817281,2503,kiosk, 
+6895,6986817282,2511,convenience, 
+6896,6986817283,2511,convenience, 
+6897,6986824792,2528,greengrocer,Balzam Enterprise Limited
+6898,6986824800,2503,kiosk, 
+6899,6986824801,2512,clothes, 
+6900,6986824802,2503,kiosk, 
+6901,6986824803,2511,convenience, 
+6902,6986824804,2503,kiosk, 
+6903,6986824805,2511,convenience, 
+6904,6986824806,2511,convenience, 
+6905,6986824808,2503,kiosk, 
+6906,6986824809,2511,convenience, 
+6907,6986824810,2511,convenience, 
+6908,6986824812,2511,convenience, 
+6909,6986824814,2511,convenience, 
+6910,6986824815,2512,clothes, 
+6911,6987284851,2567,travel_agent,Muza Express Travel & Tours
+6912,6987284852,2546,computer_shop,Hass Tech IT Solution
+6913,6987284853,2601,bank,Mama Grace Susu Entreprise
+6914,6987284854,2543,doityourself,Obuoba Entreprise
+6915,6987284856,2503,kiosk,Narawerie Ventures
+6916,6987284857,2503,kiosk, 
+6917,6987284858,2511,convenience,Chamba Store
+6918,6987284859,2512,clothes,Trendy Lux
+6919,6987284861,2512,clothes,RM Stylish Enterprise
+6920,6987284862,2511,convenience,Pickmix
+6921,6987284863,2511,convenience,Shadow Enterprise
+6922,6987284864,2503,kiosk, 
+6923,6987284865,2512,clothes, 
+6924,6987284868,2543,doityourself,Danlad Ariki
+6925,6987284871,2514,chemist, 
+6926,6987284872,2518,beverages, 
+6927,6987284876,2503,kiosk, 
+6928,6987284878,2512,clothes, 
+6929,6987284880,2305,bar, 
+6930,6987284882,2561,hairdresser,Staff Degongon
+6931,6987284883,2503,kiosk, 
+6932,6987287986,2512,clothes, 
+6933,6987287987,2512,clothes,Nuhaab
+6934,6987287988,2525,mobile_phone_shop,Apple Life
+6935,6987287989,2503,kiosk, 
+6936,6987287990,2543,doityourself, 
+6937,6987287991,2503,kiosk, 
+6938,6987287993,2512,clothes,God is Great
+6939,6987287995,2903,drinking_water, 
+6940,6987287997,2511,convenience,Batuacami Entreprise
+6941,6987287998,2503,kiosk, 
+6942,6987288000,2568,laundry,Keep Me Clean
+6943,6987288002,2567,travel_agent,Makah Traveling Agency
+6944,6987288003,2503,kiosk, 
+6945,6987288004,2518,beverages, 
+6946,6987288005,2503,kiosk, 
+6947,6987288006,2543,doityourself, 
+6948,6987288007,2503,kiosk, 
+6949,6987288010,2518,beverages, 
+6950,6987288011,2512,clothes,Al-Ihasans Enterprise
+6951,6987288012,2503,kiosk, 
+6952,6987288013,2503,kiosk, 
+6953,6987288014,2512,clothes,Hasbunel
+6954,6987288015,2512,clothes, 
+6955,6987288016,2503,kiosk, 
+6956,6987288017,2561,hairdresser,With God Beauty Salon
+6957,6987288018,2520,jeweller,God Heart Jewelleries
+6958,6987288019,2512,clothes,Dandaraja Design
+6959,6987288020,2516,butcher,Almighty Cold Store
+6960,6987288021,2512,clothes, 
+6961,6987288022,2543,doityourself, 
+6962,6987288023,2503,kiosk, 
+6963,6987288025,2503,kiosk, 
+6964,6987288027,2503,kiosk, 
+6965,6987288028,2516,butcher,Cold Store
+6966,6987288030,2525,mobile_phone_shop,Big Dreams Mobile Phones & Accessories
+6967,6987288031,2517,shoe_shop, 
+6968,6987288032,2520,jeweller,Dubai Gold
+6969,6987288033,2302,fast_food,Tantalize Fast Food
+6970,6987288034,2518,beverages, 
+6971,6987288036,2503,kiosk, 
+6972,6987288037,2503,kiosk, 
+6973,6987288038,2525,mobile_phone_shop,Easy Life Phones and Accessories
+6974,6987288039,2561,hairdresser,Mr. White Baber Shop
+6975,6987288041,2512,clothes, 
+6976,6987288043,2503,kiosk, 
+6977,6987288044,2503,kiosk, 
+6978,6987288045,2512,clothes, 
+6979,6987288046,2515,bookshop, 
+6980,6987742101,2901,toilet, 
+6981,6987742102,2523,stationery,Tina Stationery
+6982,6987742129,2561,hairdresser,God's Grace Beauty Salon
+6983,6987742131,2503,kiosk, 
+6984,6987742134,2302,fast_food, 
+6985,6987742135,2529,beauty_shop, 
+6986,6987742136,2906,waste_basket, 
+6987,6987742137,2906,waste_basket, 
+6988,6987742139,2503,kiosk, 
+6989,6987742141,2514,chemist, 
+6990,6987742144,2302,fast_food,Jullie Fast Food
+6991,6987742145,2528,greengrocer, 
+6992,6987742146,2511,convenience, 
+6993,6987742147,2544,furniture_shop, 
+6994,6987742151,2601,bank,Aim-Support Financial Services
+6995,6987742152,2906,waste_basket, 
+6996,6987742154,2903,drinking_water,no
+6997,6987742156,2903,drinking_water, 
+6998,6987742157,2511,convenience, 
+6999,6987742158,2030,recycling, 
+7000,6987742162,2529,beauty_shop,By His Grace Saloon
+7001,6987742163,2561,hairdresser, 
+7002,6987742165,2030,recycling, 
+7003,6987742166,2561,hairdresser,Kiss Hair
+7004,6987742167,2302,fast_food, 
+7005,6987742168,2082,school,The Lincoln Montessori School
+7006,6987742171,2542,bicycle_shop, 
+7007,6987742172,2503,kiosk, 
+7008,6987742173,2503,kiosk, 
+7009,6987742176,2511,convenience,Bata Awurade Ho
+7010,6987742177,2561,hairdresser,Colombo's Barbering Shop
+7011,6987742181,2561,hairdresser, 
+7012,6987742182,2305,bar,There is Time for Everything Spot
+7013,6987742184,2903,drinking_water, 
+7014,6987753285,2511,convenience,Wacy Baby Wholesale & Retail
+7015,6987753287,2503,kiosk, 
+7016,6987753290,2503,kiosk, 
+7017,6987753291,2503,kiosk, 
+7018,6987753293,2503,kiosk, 
+7019,6987753294,2511,convenience, 
+7020,6987753296,2005,post_office,DHL
+7021,6987753297,2529,beauty_shop, 
+7022,6987753302,2511,convenience,Adom Store
+7023,6987753303,2503,kiosk, 
+7024,6987753304,2503,kiosk, 
+7025,6987753308,2503,kiosk, 
+7026,6987753309,2525,mobile_phone_shop, 
+7027,6987753314,2082,school,EP Bethel International
+7028,6987753315,2503,kiosk, 
+7029,6987753317,2511,convenience,Jah Bless
+7030,6987753318,2903,drinking_water, 
+7031,6987753320,2511,convenience,Hasbunallah Wanimal Wakeel
+7032,6987753323,2305,bar,Remember ""DE"" Base Spot
+7033,6987753326,2503,kiosk, 
+7034,6987753327,2903,drinking_water, 
+7035,6987753329,2512,clothes,Golden Rays Boutique
+7036,6987753330,2503,kiosk, 
+7037,6987753331,2561,hairdresser, 
+7038,6987753333,2503,kiosk, 
+7039,6987753334,2305,bar,Atukpalagba Chop Bar
+7040,6987753335,2511,convenience,Mawulawue Mini Mart
+7041,6987799499,2601,bank,Agricultural Development Bank
+7046,6989848687,2901,toilet, 
+7047,6989978134,2601,bank,Jireh Microfinance Limited
+7048,6989978135,2601,bank,Ketewa Biara Nsua
+7049,6989978136,2101,pharmacy,Interbrain Pharmacy Limited
+7050,6989978137,2512,clothes, 
+7051,6989978140,2512,clothes,Fatash Ventures
+7052,6989978141,2529,beauty_shop,Bee's Beauty Parlor
+7053,6989978143,2512,clothes, 
+7054,6989978148,2503,kiosk, 
+7055,6989978149,2503,kiosk, 
+7056,6989978151,2561,hairdresser, 
+7057,6989978152,2302,fast_food,Azurju 1
+7058,6989978153,2544,furniture_shop, 
+7059,6989978154,2568,laundry,Zalssan Laundry Service
+7060,6989978155,2511,convenience,Haseid Enterprise
+7061,6989978157,2511,convenience, 
+7062,6989978158,2503,kiosk, 
+7063,6989978159,2512,clothes,Fatash Ventures
+7064,6989978160,2516,butcher,El Shadai Cold Store
+7065,6989978162,2512,clothes,Naf-Sadaf Collections
+7066,6989978164,2529,beauty_shop,Tawakaltu Alalahi
+7067,6989978165,2503,kiosk, 
+7068,6989978166,2511,convenience, 
+7069,6989978168,2503,kiosk, 
+7070,6989978169,2568,laundry,Tarnagda Laundry and Business Ventures
+7071,6989978171,2503,kiosk, 
+7072,6989978172,2561,hairdresser, 
+7073,6989978173,2503,kiosk, 
+7074,6989978174,2503,kiosk, 
+7075,6989978175,2302,fast_food, 
+7076,6989978176,2511,convenience, 
+7077,6989978177,2511,convenience, 
+7078,6989978178,2512,clothes,Cry Your Cry
+7079,6989978179,2503,kiosk,Mohammadu Rasulilah
+7080,6989978180,2512,clothes,Showers of Blessing
+7081,6989978182,2503,kiosk, 
+7082,6989978183,2503,kiosk, 
+7083,6989978184,2511,convenience, 
+7084,6989978787,2503,kiosk, 
+7085,6989978789,2302,fast_food, 
+7086,6989978791,2561,hairdresser, 
+7087,6989978792,2512,clothes,Naf-Sadaf Collection
+7088,6989978793,2511,convenience,MacCoffee Barack Enterprise
+7089,6989978794,2512,clothes, 
+7090,6989978795,2503,kiosk, 
+7091,6989978796,2302,fast_food,Liberty Food Joint
+7092,6989978797,2503,kiosk,Yeah Dia
+7093,6989978798,2529,beauty_shop,Libash Beauty Salon and Makeup
+7094,6989978800,2525,mobile_phone_shop,Kesseth Ventures Phone Repairs
+7095,6989978801,2512,clothes, 
+7096,6989978802,2511,convenience, 
+7097,6989978803,2503,kiosk, 
+7098,6989978805,2561,hairdresser,Powerful Hair Cut
+7099,6989978806,2529,beauty_shop,Gloria Beauty Salon
+7100,6989978808,2511,convenience,God is Great
+7101,6989978809,2503,kiosk, 
+7102,6989978811,2514,chemist,Set Time Natural Health Consult
+7103,6989978813,2512,clothes, 
+7104,6989978816,2305,bar,Aduro Spot
+7105,6989978818,2511,convenience, 
+7106,6989978819,2503,kiosk, 
+7107,6989978820,2503,kiosk, 
+7108,6989978821,2528,greengrocer, 
+7109,6989978824,2503,kiosk, 
+7110,6989978825,2512,clothes, 
+7111,6989978828,2503,kiosk, 
+7112,6989978829,2503,kiosk, 
+7113,6989978830,2302,fast_food, 
+7114,6989978831,2503,kiosk, 
+7115,6989978833,2543,doityourself,Mohammadu Rashulilah Ninchee
+7116,6989978834,2561,hairdresser, 
+7117,6989978835,2503,kiosk, 
+7118,6990163011,2512,clothes, 
+7119,6990163013,2512,clothes, 
+7120,6990163014,2503,kiosk, 
+7121,6990163015,2503,kiosk, 
+7122,6990163016,2561,hairdresser,God Time is the Best Beauty
+7123,6990163017,2503,kiosk, 
+7124,6990163018,2511,convenience, 
+7125,6990163020,2503,kiosk, 
+7126,6990163021,2561,hairdresser, 
+7127,6990163023,2512,clothes, 
+7128,6990163024,2511,convenience,Faride Enterprise
+7129,6990163026,2503,kiosk, 
+7130,6990163027,2512,clothes, 
+7131,6990163028,2503,kiosk, 
+7132,6990163030,2503,kiosk, 
+7133,6991143519,2512,clothes,MBK Collection
+7134,6991143521,2561,hairdresser,Last2 Haircut
+7135,6991143522,2503,kiosk, 
+7136,6991143523,2503,kiosk,Sudubaba
+7137,6991143524,2512,clothes,Hajia Maami Enterprise
+7138,6991143525,2518,beverages,Al-Afa-Jua Fanmilk Agent
+7139,6991143526,2503,kiosk,Baa Mei Yi Shei Allah
+7140,6991143527,2512,clothes,First Level
+7141,6991143528,2511,convenience,Jehovah Covenant
+7142,6991143529,2503,kiosk,Peace and Love Limited
+7143,6991143530,2503,kiosk, 
+7144,6991143532,2503,kiosk, 
+7145,6991143533,2503,kiosk, 
+7146,6991143534,2512,clothes,Ya Raheemu Collections
+7147,6991143535,2512,clothes, 
+7148,6991143536,2503,kiosk, 
+7149,6991143537,2503,kiosk,Value Zone
+7150,6991143539,2503,kiosk, 
+7151,6991143540,2503,kiosk, 
+7152,6991143541,2503,kiosk, 
+7153,6991143543,2503,kiosk, 
+7154,6991143544,2511,convenience,Toboase Trading Enterprise
+7155,6991143545,2512,clothes,Rabin Bawa Enterprises
+7156,6991143546,2512,clothes, 
+7157,6991143548,2512,clothes,Collection R U K Classy
+7158,6991143549,2503,kiosk, 
+7159,6991143550,2503,kiosk, 
+7160,6991143551,2503,kiosk, 
+7161,6991143552,2302,fast_food,Tasty Treats You The Best
+7162,6991143553,2503,kiosk, 
+7163,6991143554,2503,kiosk,Barakallah
+7164,6991143555,2512,clothes, 
+7165,6991143557,2512,clothes, 
+7166,6991143558,2544,furniture_shop, 
+7167,6991143559,2503,kiosk, 
+7168,6991143561,2503,kiosk, 
+7169,6991143562,2512,clothes,Hawa Tanko Collections
+7170,6991143563,2503,kiosk,Jordin Company Limited
+7171,6991143564,2503,kiosk, 
+7172,6991143565,2503,kiosk,Oasis Two Enterprise
+7173,6991143566,2503,kiosk, 
+7174,6991143567,2503,kiosk, 
+7175,6991143568,2543,doityourself, 
+7176,6991143572,2503,kiosk,Lots of Love Enterprise
+7177,6991143573,2305,bar, 
+7178,6991143574,2512,clothes,Bsbunal Laha Lua Nimal Luakil
+7179,6991143575,2302,fast_food, 
+7180,6991143576,2503,kiosk, 
+7181,6991143577,2544,furniture_shop, 
+7182,6991143578,2503,kiosk, 
+7183,6991143580,2516,butcher,Ginaz Cold Store
+7184,6991143581,2512,clothes,Hajia Maawa-Maashallah Collection
+7185,6991143582,2511,convenience,Jarakotoku Enterprise
+7186,6991143584,2503,kiosk, 
+7187,6991147486,2503,kiosk, 
+7188,6991147487,2511,convenience,Seidu Yakubu Enterprise
+7189,6991147488,2503,kiosk, 
+7190,6991147490,2503,kiosk, 
+7191,6991147491,2503,kiosk,Mantazian
+7192,6991147492,2544,furniture_shop, 
+7193,6991147493,2503,kiosk,Idd Kama Gate Ventures
+7194,6991147494,2303,cafe, 
+7195,6991147495,2514,chemist,The Hash Telecom
+7197,6992328518,2305,bar,Vibes Pub
+7198,6992328519,2901,toilet, 
+7199,6992328520,2901,toilet, 
+7200,6992328526,2512,clothes,James Collections
+7201,6992328528,2503,kiosk, 
+7202,6992328538,2950,tower, 
+7203,6992328546,2903,drinking_water, 
+7204,6992328548,2529,beauty_shop, 
+7205,6992328549,2503,kiosk,Al-Iman Collection
+7206,6992328551,2561,hairdresser,Big Apple Haircut
+7207,6992328553,2503,kiosk, 
+7208,6992328555,2503,kiosk, 
+7209,6992328556,2561,hairdresser, 
+7210,6992328557,2906,waste_basket, 
+7211,6992328558,2302,fast_food,Indomie Shop
+7212,6992328560,2503,kiosk, 
+7213,6992328564,2503,kiosk, 
+7214,6992328566,2906,waste_basket, 
+7215,6992328567,2302,fast_food, 
+7216,6992328573,2305,bar, 
+7217,6992328574,2529,beauty_shop,Sharifa De Reformer
+7218,6992328576,2302,fast_food, 
+7219,6992328577,2503,kiosk, 
+7220,6992328581,2503,kiosk, 
+7221,6992328582,2529,beauty_shop,Zuras Beauty Blend
+7222,6992328584,2901,toilet, 
+7223,6992328685,2561,hairdresser, 
+7224,6992328686,2302,fast_food, 
+7225,6992328687,2305,bar, 
+7226,6992328689,2901,toilet, 
+7227,6992328692,2503,kiosk, 
+7228,6992328693,2503,kiosk, 
+7229,6992328694,2503,kiosk, 
+7230,6992328698,2543,doityourself,K. Agyapong Electrical and Building Materials
+7231,6992328699,2561,hairdresser,West Coast Barbering Center
+7232,6992328700,2503,kiosk, 
+7233,6992328703,2302,fast_food,Special Talia
+7234,6992328704,2503,kiosk, 
+7235,6992328705,2503,kiosk, 
+7236,6992328709,2561,hairdresser,Adiza Braids
+7237,6992328710,2503,kiosk, 
+7238,6992328711,2503,kiosk, 
+7239,6992328712,2529,beauty_shop,Liyya and Skin and Beauty Lodge
+7240,6992328713,2503,kiosk,Bandawu Solutions
+7241,6992328714,2503,kiosk, 
+7242,6992328715,2503,kiosk,Forgive Your Enemies But Don't Forget Their Names
+7243,6992328717,2516,butcher,Too Ice Cold Store
+7244,6992328718,2503,kiosk,Koomi Naga Allah
+7245,6992328719,2503,kiosk, 
+7246,6992328720,2302,fast_food,Royal French
+7247,6992328721,2503,kiosk, 
+7248,6992328722,2561,hairdresser,Mawu Hair Beauty Salon
+7249,6992328723,2503,kiosk, 
+7250,6992328724,2516,butcher,G. Almighty Cold Store
+7251,6992328725,2561,hairdresser, 
+7252,6992328728,2906,waste_basket, 
+7253,6992328729,2511,convenience,Hajia Fati Respect Ventures
+7254,6992328730,2906,waste_basket, 
+7255,6992328734,2503,kiosk, 
+7256,6992328735,2561,hairdresser, 
+7257,6992328737,2503,kiosk, 
+7258,6992328738,2561,hairdresser, 
+7259,6992328739,2903,drinking_water, 
+7260,6992328740,2518,beverages,Bawaasa Special Kooko
+7261,6992328741,2503,kiosk, 
+7262,6992328742,2903,drinking_water, 
+7263,6992328744,2525,mobile_phone_shop,Chairman Mobile Shop
+7264,6992328746,2906,waste_basket, 
+7265,6992328747,2529,beauty_shop,Mama Cream
+7266,6992328748,2503,kiosk, 
+7267,6992328751,2906,waste_basket, 
+7268,6992328752,2503,kiosk, 
+7269,6992328753,2503,kiosk, 
+7270,6992328756,2302,fast_food, 
+7271,6992328757,2906,waste_basket, 
+7272,6992328758,2503,kiosk, 
+7273,6992328759,2302,fast_food,Inallaha-Maha-Swabiroon
+7274,6992328762,2906,waste_basket, 
+7275,6992328763,2512,clothes,Kelvin Business Centre
+7276,6992328764,2503,kiosk, 
+7277,6992328765,2503,kiosk,Muna Ga Allah Super Market
+7278,6992328766,2305,bar, 
+7279,6992328769,2901,toilet, 
+7280,6992679644,2901,toilet, 
+7281,6992679646,2515,bookshop, 
+7282,6992679647,2530,video_shop,Mass Lara Video production
+7283,6992679651,2901,toilet, 
+7284,6992679654,2901,toilet, 
+7285,6992679660,2503,kiosk, 
+7286,6992679661,2906,waste_basket, 
+7287,6992679662,2528,greengrocer, 
+7288,6992679664,2561,hairdresser, 
+7289,6992679668,2561,hairdresser, 
+7290,6992679669,2906,waste_basket, 
+7291,6992679670,2511,convenience, 
+7292,6992679671,2511,convenience, 
+7293,6992679672,2906,waste_basket, 
+7294,6992679673,2302,fast_food,Agartha Fast Food
+7295,6992679674,2305,bar, 
+7296,6992679675,2906,waste_basket, 
+7297,6992679678,2511,convenience, 
+7298,6992679679,2302,fast_food, 
+7299,6992679680,2903,drinking_water, 
+7300,6992679681,2543,doityourself, 
+7301,6992679682,2561,hairdresser,God is King
+7302,6992679684,2903,drinking_water, 
+7303,6992704985,2529,beauty_shop,Compasion Beauty Salon
+7304,6992704987,2503,kiosk, 
+7305,6992704988,2906,waste_basket, 
+7306,6992704989,2561,hairdresser, 
+7307,6992704990,2906,waste_basket, 
+7308,6992704992,2561,hairdresser, 
+7309,6992704993,2517,shoe_shop, 
+7310,6992704995,2503,kiosk, 
+7311,6992704996,2302,fast_food, 
+7312,6992704997,2517,shoe_shop, 
+7313,6992704998,2511,convenience, 
+7314,6992704999,2529,beauty_shop, 
+7315,6992705001,2503,kiosk, 
+7316,6992705002,2906,waste_basket, 
+7317,6992705004,2906,waste_basket, 
+7318,6992705006,2906,waste_basket, 
+7319,6992705007,2906,waste_basket, 
+7320,6992705008,2906,waste_basket, 
+7321,6992705009,2305,bar, 
+7322,6992705013,2561,hairdresser, 
+7323,6992705014,2516,butcher,Attaqbir Coldstore
+7324,6992705015,2512,clothes, 
+7325,6992705016,2518,beverages, 
+7326,6992705018,2301,restaurant, 
+7327,6992705019,2520,jeweller,B's Jewellery
+7328,6992705022,2511,convenience, 
+7329,6992705023,2511,convenience, 
+7330,6992705025,2906,waste_basket, 
+7331,6992705026,2530,video_shop, 
+7332,6992705027,2512,clothes,All Sports Design
+7333,6992705028,2511,convenience,Emmanuel
+7334,6992705029,2511,convenience, 
+7335,6992705031,2906,waste_basket, 
+7336,6992705032,2503,kiosk,Pako's Fufu pounding
+7337,6992705034,2906,waste_basket, 
+7338,6992705036,2906,waste_basket, 
+7339,6993704771,2522,sports_shop,S&N Sporting Goods
+7340,6993704772,2528,greengrocer,Auntie Ajala
+7341,6993704774,2503,kiosk, 
+7342,6993704775,2503,kiosk, 
+7343,6993704776,2561,hairdresser,Big Tym Barber Shop
+7344,6993704778,2305,bar, 
+7345,6993704779,2503,kiosk, 
+7346,6993704782,2302,fast_food, 
+7347,6993704783,2302,fast_food, 
+7348,6993704784,2503,kiosk, 
+7349,6993719785,2503,kiosk, 
+7350,6993719786,2302,fast_food,Ladisco Chop Bar
+7351,6993719787,2503,kiosk, 
+7352,6993719788,2503,kiosk, 
+7353,6993719789,2503,kiosk, 
+7354,6993719790,2561,hairdresser, 
+7355,6993719792,2503,kiosk, 
+7356,6993719794,2503,kiosk, 
+7357,6993719795,2561,hairdresser,Lajeh
+7358,6993719796,2561,hairdresser,Millenium Key Cutting and Haircut
+7359,6993719798,2520,jeweller,Ibrahim Seku Jewellery
+7360,6993719799,2302,fast_food, 
+7361,6993719800,2561,hairdresser, 
+7362,6993719801,2301,restaurant,Eye Ewurade Adom Ara Kwa Chop Bar
+7363,6993719802,2503,kiosk, 
+7364,6993719803,2302,fast_food, 
+7365,6993719804,2503,kiosk, 
+7366,6993719807,2503,kiosk, 
+7367,6993719809,2544,furniture_shop, 
+7368,6993719810,2503,kiosk, 
+7369,6993719812,2302,fast_food, 
+7370,6993719813,2512,clothes, 
+7371,6993719816,2503,kiosk, 
+7372,6993719817,2305,bar, 
+7373,6993719819,2906,waste_basket, 
+7374,6993719821,2906,waste_basket, 
+7375,6993719822,2906,waste_basket, 
+7376,6993719823,2906,waste_basket, 
+7377,6993719824,2906,waste_basket, 
+7378,7002879206,2901,toilet, 
+7379,7002879213,2561,hairdresser,Nelly Barbering shop
+7380,7002879218,2561,hairdresser, 
+7381,7002879233,2561,hairdresser,Auntie's
+7382,7002879270,2561,hairdresser,Up Town Barbering Salon
+7383,7002879271,2901,toilet, 
+7384,7002879501,2517,shoe_shop, 
+7385,7002879513,2503,kiosk, 
+7386,7002879515,2503,kiosk, 
+7387,7002879516,2530,video_shop,D.A Media Production
+7388,7002879517,2561,hairdresser,Haji Lado Hair Cut
+7389,7002879518,2503,kiosk,God is Great
+7390,7002879519,2546,computer_shop,Abuka's GSM Computer Repairs
+7391,7002879520,2302,fast_food, 
+7392,7002879521,2503,kiosk, 
+7393,7002879522,2561,hairdresser, 
+7394,7002879523,2503,kiosk, 
+7395,7002879525,2901,toilet, 
+7396,7002879526,2503,kiosk, 
+7397,7002879528,2518,beverages, 
+7398,7002879531,2903,drinking_water, 
+7399,7002879533,2901,toilet, 
+7400,7002879534,2503,kiosk, 
+7401,7002879536,2503,kiosk, 
+7402,7002879537,2962,water_well, 
+7403,7002879538,2503,kiosk, 
+7404,7002879540,2903,drinking_water, 
+7405,7002879541,2503,kiosk,Summarise Creations
+7406,7002879542,2561,hairdresser, 
+7407,7002879543,2903,drinking_water, 
+7408,7002879546,2561,hairdresser,By His Grace Monica Saloon
+7409,7002879547,2503,kiosk, 
+7410,7002879549,2301,restaurant,Adom Special Chop Bar
+7411,7002879550,2503,kiosk, 
+7412,7002879552,2503,kiosk,Area Mama Enterprise
+7413,7002879553,2082,school,Gracious Academy School
+7414,7002879554,2503,kiosk, 
+7415,7002879555,2561,hairdresser, 
+7416,7002879556,2503,kiosk, 
+7417,7002879557,2503,kiosk, 
+7418,7002879559,2503,kiosk, 
+7419,7002879564,2901,toilet, 
+7420,7002879566,2903,drinking_water, 
+7421,7002879567,2512,clothes,Hajia's Collection
+7422,7002879568,2503,kiosk, 
+7423,7002879569,2901,toilet, 
+7424,7002879570,2082,school,An-Naeem International School
+7425,7002879571,2503,kiosk, 
+7426,7002879573,2503,kiosk, 
+7427,7002879574,2523,stationery,The Lord is My Shepherd
+7428,7002879576,2503,kiosk, 
+7430,7004956042,2950,tower, 
+7432,7007698641,2523,stationery,United Engineering Ent.
+7433,7007698642,2302,fast_food,Tawakaltu
+7434,7007698643,2503,kiosk, 
+7435,7007698645,2518,beverages, 
+7436,7007698646,2529,beauty_shop,Ummilove Beauty Studio
+7437,7007698647,2512,clothes, 
+7438,7007698649,2903,drinking_water, 
+7439,7007698651,2503,kiosk, 
+7440,7007698653,2528,greengrocer,Babs Ventures
+7441,7007698655,2511,convenience,Awurade Ne Ye Dimafo
+7442,7007698656,2511,convenience, 
+7443,7007698657,2906,waste_basket, 
+7444,7007698658,2511,convenience, 
+7445,7007698661,2561,hairdresser, 
+7446,7007698663,2503,kiosk, 
+7447,7007698664,2511,convenience, 
+7448,7007698668,2906,waste_basket, 
+7449,7007698669,2503,kiosk, 
+7450,7007698670,2511,convenience, 
+7451,7007698671,2503,kiosk, 
+7452,7007698672,2503,kiosk, 
+7453,7007698674,2561,hairdresser, 
+7454,7007698676,2906,waste_basket, 
+7455,7007698680,2906,waste_basket, 
+7456,7007698681,2511,convenience, 
+7457,7007698683,2525,mobile_phone_shop, 
+7458,7007698684,2511,convenience, 
+7459,7012077132,2503,kiosk, 
+7460,7012077133,2503,kiosk, 
+7461,7012077135,2503,kiosk, 
+7462,7012077136,2503,kiosk, 
+7463,7012077138,2511,convenience, 
+7464,7012077140,2561,hairdresser, 
+7465,7012077184,2503,kiosk, 
+7466,7012078811,2906,waste_basket, 
+7467,7012078813,2302,fast_food, 
+7468,7012078815,2511,convenience, 
+7469,7012078816,2503,kiosk, 
+7470,7012078817,2906,waste_basket, 
+7471,7012078818,2082,school,Vicken Computer Training Institute
+7472,7012078819,2511,convenience, 
+7473,7012078821,2503,kiosk, 
+7474,7012078822,2302,fast_food,German Base tuo zaafi
+7475,7012078823,2302,fast_food, 
+7476,7012078824,2529,beauty_shop,Akwei Allah Beauty Parlour
+7477,7012078825,2511,convenience, 
+7478,7012078826,2511,convenience, 
+7479,7012078827,2511,convenience,Toboase Trading Enterprise
+7480,7012078828,2503,kiosk, 
+7481,7012078830,2511,convenience, 
+7482,7012078831,2906,waste_basket, 
+7483,7012078834,2520,jeweller,Fleezy Jewellery
+7484,7012078835,2528,greengrocer, 
+7485,7012078838,2511,convenience, 
+7486,7012078841,2302,fast_food, 
+7487,7012078842,2511,convenience, 
+7488,7012078843,2511,convenience, 
+7489,7012078844,2906,waste_basket, 
+7490,7012078846,2511,convenience, 
+7491,7012078847,2529,beauty_shop,Vid Franca Hair and Nail Beauty Palor
+7492,7012078849,2906,waste_basket, 
+7493,7012078850,2514,chemist,Harriet Mirekua Licensed Chemicals
+7494,7012078852,2529,beauty_shop,Ladingo Bridals
+7495,7012078854,2302,fast_food, 
+7496,7012078856,2543,doityourself, 
+7497,7012078857,2511,convenience, 
+7498,7012078858,2529,beauty_shop,Shalty Beauty
+7499,7012078860,2903,drinking_water, 
+7500,7012078861,2512,clothes, 
+7501,7012078862,2503,kiosk,To God Be The Glory
+7502,7012078864,2511,convenience, 
+7503,7012078865,2561,hairdresser,Its all Matter of Time
+7504,7012078867,2302,fast_food,Ideas Fast Food
+7505,7012078868,2906,waste_basket, 
+7506,7012078869,2529,beauty_shop,R and R lounge
+7507,7012078872,2906,waste_basket, 
+7508,7012078873,2511,convenience, 
+7509,7012078876,2511,convenience, 
+7510,7012078878,2511,convenience, 
+7511,7012078879,2512,clothes,Ima Ventures
+7512,7012078880,2511,convenience, 
+7513,7012078881,2906,waste_basket, 
+7514,7012078883,2543,doityourself, 
+7515,7012078885,2906,waste_basket, 
+7516,7012078886,2906,waste_basket, 
+7517,7012078888,2903,drinking_water, 
+7518,7012078890,2514,chemist,Seth Frimpong
+7519,7012078893,2906,waste_basket, 
+7520,7012078894,2511,convenience, 
+7521,7012078898,2503,kiosk, 
+7524,7012341196,2512,clothes,Yram'S Clothing
+7527,7012360276,2305,bar,Taste and See
+7528,7012360281,2302,fast_food,Tuozafi Joint
+7529,7014066709,2503,kiosk, 
+7530,7014066710,2529,beauty_shop,Empress Kadi Decor and Salon
+7531,7014066712,2515,bookshop,Ampa Bethel SDA Bible Akasa
+7532,7014066713,2503,kiosk,Mc Dee Business Center
+7533,7014066714,2503,kiosk,N.Y. Sarfo Ventures
+7534,7014066717,2082,school,Ebenezer Methodist Primary
+7535,7014066718,2305,bar,King Midas Drinking Spot
+7536,7014066720,2101,pharmacy,Evans Chemicals
+7537,7014066721,2512,clothes,NaSmay Collections
+7538,7014066726,2561,hairdresser, 
+7539,7014066741,2503,kiosk,Eye Awurade Adom
+7540,7014066742,2305,bar,Mamewei Spot
+7541,7015145712,2503,kiosk, 
+7542,7015145714,2528,greengrocer, 
+7543,7015145716,2503,kiosk, 
+7544,7015145719,2503,kiosk,Baa Meyi Shei Allah Enterprise
+7545,7015145720,2503,kiosk, 
+7546,7015145725,2503,kiosk, 
+7547,7015145730,2503,kiosk, 
+7548,7015145731,2529,beauty_shop,Meela Beauty Trends
+7549,7015145732,2503,kiosk, 
+7550,7015145733,2561,hairdresser, 
+7551,7015145734,2529,beauty_shop,Mimi Browns Beauty Bank
+7552,7015145737,2512,clothes, 
+7553,7015145738,2503,kiosk, 
+7554,7015145739,2543,doityourself, 
+7555,7015145743,2503,kiosk, 
+7556,7015145744,2503,kiosk, 
+7557,7015145754,2517,shoe_shop, 
+7558,7015145755,2514,chemist,Ebenezer Wiafe Bediako Licensed Over-the-Counter-Medicine Seller
+7559,7015145761,2503,kiosk, 
+7560,7015145762,2503,kiosk, 
+7561,7015145769,2503,kiosk, 
+7567,7015399169,2561,hairdresser,C Choice Unisex Salon
+7569,7015399183,2503,kiosk,No Weapon Formed Against Me Shall Prosper
+7571,7015434485,2529,beauty_shop,Muqhil Beauty Parlor
+7579,7015538712,2111,clinic,Zak-med Clinic
+7580,7015538725,2601,bank,Bank of Africa
+7581,7015538731,2512,clothes, 
+7582,7015538733,2503,kiosk, 
+7583,7015538736,2302,fast_food, 
+7584,7015538738,2903,drinking_water, 
+7585,7015538739,2516,butcher,Volta Catch
+7586,7015538741,2512,clothes, 
+7587,7015538742,2503,kiosk,Maame Anago
+7588,7015538746,2503,kiosk, 
+7589,7015538747,2529,beauty_shop,Unik Image
+7590,7015538749,2503,kiosk, 
+7591,7015538753,2601,bank,First Trust Savings and Loans
+7592,7015538754,2511,convenience,Cilia Ventures
+7593,7015538759,2514,chemist,Nana Boakye Herbal Shop
+7594,7015538763,2503,kiosk, 
+7595,7015538764,2512,clothes, 
+7596,7015538768,2503,kiosk, 
+7597,7015538769,2561,hairdresser,Kadis Beauty Salon
+7598,7015538771,2529,beauty_shop,Shetus Touch
+7599,7015538772,2523,stationery, 
+7600,7015538775,2511,convenience,Dinniset Ventures
+7601,7015538778,2503,kiosk, 
+7602,7015538779,2503,kiosk, 
+7603,7015538780,2561,hairdresser, 
+7604,7015538781,2901,toilet, 
+7605,7015538782,2302,fast_food, 
+7606,7015538784,2302,fast_food, 
+7607,7015544590,2084,college,ICM UK
+7608,7015544598,2503,kiosk, 
+7609,7015544599,2503,kiosk, 
+7610,7015544600,2512,clothes,Baby Diapers & Pants
+7611,7015544602,2901,toilet, 
+7612,7015544606,2503,kiosk,Topgate
+7613,7015544607,2523,stationery, 
+7614,7015544612,2520,jeweller,Adams Jewellery Shop
+7615,7015544613,2503,kiosk, 
+7616,7015544614,2512,clothes, 
+7617,7015571819,2302,fast_food,Companion
+7620,7015571822,2512,clothes, 
+7622,7015571830,2502,bakery,Nyira Bakery
+7626,7016087777,2503,kiosk, 
+7627,7016087778,2503,kiosk, 
+7628,7016087779,2203,cinema,Sarki
+7629,7016154595,2561,hairdresser, 
+7630,7016154596,2503,kiosk, 
+7631,7016154597,2517,shoe_shop, 
+7632,7016154599,2514,chemist,G&D Iceburg Health Care
+7633,7016154600,2305,bar, 
+7634,7016154601,2503,kiosk, 
+7635,7016154602,2503,kiosk, 
+7636,7016154603,2503,kiosk, 
+7637,7016154605,2528,greengrocer, 
+7638,7016154606,2503,kiosk, 
+7639,7016154608,2503,kiosk,Alhamdulila Shop
+7640,7016154609,2512,clothes, 
+7641,7016154611,2561,hairdresser,Ike's Dreadlocks Centre
+7642,7016154612,2525,mobile_phone_shop,Page 4 Enterprise
+7643,7016154614,2503,kiosk, 
+7644,7016154615,2528,greengrocer, 
+7645,7016154616,2561,hairdresser,Imagination Unisex Salon
+7646,7016154617,2503,kiosk, 
+7647,7016154618,2512,clothes, 
+7648,7016154619,2518,beverages, 
+7649,7016154620,2503,kiosk, 
+7650,7016154622,2503,kiosk, 
+7651,7016154624,2561,hairdresser,Cut 2 Fit Business Center
+7652,7016154625,2503,kiosk, 
+7653,7016154626,2503,kiosk, 
+7654,7016154627,2503,kiosk, 
+7655,7016154628,2503,kiosk, 
+7656,7016154629,2503,kiosk, 
+7657,7016154631,2503,kiosk, 
+7658,7016154632,2901,toilet, 
+7659,7016154633,2503,kiosk, 
+7660,7016154636,2503,kiosk, 
+7661,7016154638,2529,beauty_shop,De O Glatias Beauty Salon
+7662,7016154641,2561,hairdresser,Dennice Barbering Salon
+7663,7016154642,2302,fast_food,City Boys Fast Foods
+7664,7016154643,2503,kiosk, 
+7665,7016154644,2503,kiosk, 
+7666,7016154645,2512,clothes, 
+7667,7016154648,2503,kiosk,Naf Girl Ventures
+7668,7016154649,2517,shoe_shop, 
+7669,7016154650,2512,clothes, 
+7670,7016154651,2302,fast_food,God Gift Special Beans & Rice
+7671,7016154652,2503,kiosk, 
+7672,7016154653,2503,kiosk, 
+7675,7016366329,2503,kiosk, 
+7676,7016366333,2503,kiosk, 
+7677,7016366335,2906,waste_basket, 
+7678,7016366336,2503,kiosk, 
+7679,7016366338,2503,kiosk,Home of Diapers
+7680,7016366339,2561,hairdresser,Fuse Home of Styles
+7681,7016366341,2523,stationery,Melon Stationery Ventures
+7682,7016366345,2906,waste_basket, 
+7683,7016366346,2503,kiosk,Nothing But Allah
+7684,7016366347,2503,kiosk, 
+7685,7016366350,2522,sports_shop, 
+7686,7016366352,2561,hairdresser,Dee-Matt Enterprize
+7687,7016366355,2906,waste_basket, 
+7688,7016366356,2561,hairdresser, 
+7689,7016366357,2503,kiosk, 
+7690,7016366359,2503,kiosk, 
+7691,7016366360,2561,hairdresser,M-line Beauty Salon
+7692,7016366362,2503,kiosk, 
+7693,7016366363,2503,kiosk, 
+7694,7016366365,2511,convenience,Unigroup Ghana Limited
+7695,7016366366,2503,kiosk, 
+7696,7016366368,2503,kiosk, 
+7697,7016366370,2503,kiosk, 
+7698,7016366372,2503,kiosk, 
+7699,7016366373,2503,kiosk, 
+7700,7016366376,2544,furniture_shop,S. Nartey Furniture Workshop
+7701,7016366377,2906,waste_basket, 
+7702,7016366378,2503,kiosk, 
+7703,7016366379,2906,waste_basket, 
+7704,7016366382,2544,furniture_shop, 
+7705,7016366384,2514,chemist, 
+7706,7016371087,2544,furniture_shop, 
+7707,7016371088,2906,waste_basket, 
+7708,7016371089,2503,kiosk,Sheick Ibrahim
+7709,7016371091,2503,kiosk, 
+7710,7016371092,2906,waste_basket, 
+7711,7016371093,2906,waste_basket, 
+7712,7016371094,2503,kiosk, 
+7713,7016371095,2503,kiosk, 
+7714,7016371096,2512,clothes,Jayden Collections
+7715,7016371098,2503,kiosk, 
+7716,7016371100,2302,fast_food,Shatu's Special
+7717,7016371101,2305,bar,Chop Bar
+7718,7016371102,2906,waste_basket, 
+7719,7016371105,2503,kiosk, 
+7720,7016371106,2511,convenience,JBM Enterprise
+7721,7016371108,2503,kiosk,Sheeda Ventures and Water Depot
+7723,7017657384,2503,kiosk,His Grace
+7724,7017660085,2503,kiosk, 
+7725,7017660086,2561,hairdresser, 
+7726,7017660088,2503,kiosk, 
+7727,7017660091,2503,kiosk, 
+7728,7017660092,2503,kiosk, 
+7729,7017660095,2906,waste_basket, 
+7730,7017660097,2503,kiosk, 
+7731,7017660099,2503,kiosk, 
+7732,7017660102,2906,waste_basket, 
+7733,7017660103,2503,kiosk,Tabaarakalah Mashaallah
+7734,7017660104,2511,convenience,Arimas Enterprise
+7735,7017660106,2561,hairdresser,Monic's Beauty Salon
+7736,7017660107,2906,waste_basket, 
+7737,7017660108,2529,beauty_shop,Rina House of Beauty
+7738,7017660109,2906,waste_basket, 
+7739,7017660111,2503,kiosk, 
+7740,7017660112,2561,hairdresser,711 Grooming Centre
+7741,7017660115,2503,kiosk, 
+7742,7017660116,2302,fast_food,Nawuni Yiko Special Joint
+7743,7017660120,2601,bank,Infinity Capital Micro Credit Limited
+7744,7017660122,2302,fast_food,TV3 Chop Bar
+7745,7017660123,2503,kiosk, 
+7746,7017660125,2906,waste_basket, 
+7747,7017660126,2503,kiosk, 
+7748,7017660130,2503,kiosk, 
+7749,7017660131,2906,waste_basket, 
+7750,7017660135,2561,hairdresser,Spark Barbering Salon and Boutique
+7752,7017759791,2503,kiosk, 
+7753,7017759792,2503,kiosk, 
+7754,7017759801,2503,kiosk, 
+7755,7017759803,2503,kiosk, 
+7756,7017759805,2302,fast_food, 
+7757,7017759806,2503,kiosk, 
+7758,7017759807,2561,hairdresser, 
+7759,7017759809,2503,kiosk, 
+7760,7017759810,2503,kiosk, 
+7761,7017759814,2503,kiosk, 
+7762,7017759815,2561,hairdresser,Arteta Barber Shop
+7763,7017759817,2518,beverages,Suks Drinks
+7764,7017759819,2906,waste_basket, 
+7765,7017759820,2503,kiosk, 
+7766,7017759823,2503,kiosk, 
+7767,7017759824,2503,kiosk, 
+7768,7017759825,2528,greengrocer, 
+7769,7017759826,2503,kiosk, 
+7770,7017759828,2503,kiosk, 
+7771,7017759829,2512,clothes,Alhaji Enterprise
+7772,7017759830,2503,kiosk, 
+7773,7017759831,2906,waste_basket, 
+7774,7017759832,2901,toilet, 
+7775,7017759833,2561,hairdresser,Hand are Blessed Beauty Palace
+7776,7017759835,2561,hairdresser,God is All I have Beauty Salon
+7777,7017759836,2906,waste_basket, 
+7778,7017759837,2302,fast_food,Oganda Special Food Joint
+7779,7017759838,2561,hairdresser,The Lord is my Light and Salvation
+7780,7017759839,2503,kiosk, 
+7781,7017759840,2503,kiosk, 
+7782,7017759842,2302,fast_food, 
+7783,7017759843,2503,kiosk, 
+7784,7017759845,2305,bar, 
+7785,7017759848,2503,kiosk, 
+7786,7017759850,2503,kiosk, 
+7787,7017759851,2503,kiosk, 
+7788,7017759852,2302,fast_food, 
+7789,7017759853,2503,kiosk, 
+7790,7017759854,2302,fast_food, 
+7791,7017759855,2561,hairdresser,Rash Baby Beauty Salon
+7792,7017759857,2503,kiosk, 
+7793,7017759858,2529,beauty_shop,Klips and Kurls Beautician
+7794,7017759862,2503,kiosk, 
+7795,7017759863,2503,kiosk, 
+7796,7017846067,2503,kiosk,Riverson Boutique
+7797,7017846068,2503,kiosk, 
+7798,7017846069,2529,beauty_shop,Amira Beauty salon
+7799,7017846077,2561,hairdresser, 
+7800,7017846081,2503,kiosk, 
+7801,7017939409,2082,school,Greater care
+7802,7017939413,2906,waste_basket, 
+7803,7017939414,2903,drinking_water, 
+7804,7017939416,2901,toilet, 
+7805,7017939418,2901,toilet, 
+7806,7017939421,2901,toilet, 
+7807,7017939422,2906,waste_basket, 
+7808,7017939427,2906,waste_basket, 
+7809,7018073687,2305,bar,Samapoom
+7810,7018073688,2503,kiosk, 
+7811,7018073690,2512,clothes, 
+7812,7018073693,2503,kiosk, 
+7813,7018073696,2302,fast_food, 
+7814,7018073697,2503,kiosk, 
+7815,7018073698,2561,hairdresser, 
+7816,7018073699,2503,kiosk, 
+7817,7018073701,2561,hairdresser,Eye Adom Beauty
+7818,7018073702,2561,hairdresser, 
+7819,7018073704,2302,fast_food, 
+7820,7018073705,2503,kiosk, 
+7821,7018073706,2302,fast_food, 
+7822,7018073709,2561,hairdresser, 
+7823,7018073711,2520,jeweller, 
+7824,7018073713,2503,kiosk, 
+7825,7018073714,2512,clothes,Wise Land Boutique
+7826,7018073715,2503,kiosk, 
+7827,7018073717,2906,waste_basket, 
+7828,7018073720,2503,kiosk, 
+7829,7018073722,2561,hairdresser, 
+7830,7018073724,2503,kiosk, 
+7831,7018073728,2302,fast_food, 
+7832,7018073729,2503,kiosk, 
+7833,7018073731,2503,kiosk, 
+7834,7018073732,2305,bar, 
+7835,7018073733,2512,clothes, 
+7836,7018073735,2503,kiosk, 
+7837,7018073737,2503,kiosk, 
+7838,7018073739,2561,hairdresser, 
+7839,7018073740,2529,beauty_shop,K and S Makeover
+7840,7018073741,2503,kiosk, 
+7841,7018073744,2083,kindergarten,Early Childhood Development Centre
+7842,7018073745,2543,doityourself,L and J Ventures
+7843,7018080858,2503,kiosk, 
+7844,7018080859,2302,fast_food, 
+7845,7018080860,2903,drinking_water, 
+7846,7018080861,2503,kiosk, 
+7847,7018080862,2503,kiosk, 
+7848,7018080864,2503,kiosk, 
+7849,7018080867,2512,clothes, 
+7850,7018080868,2529,beauty_shop,Peggys
+7851,7018080872,2503,kiosk, 
+7852,7018080876,2503,kiosk, 
+7853,7018080877,2503,kiosk,Flah Market
+7854,7018080878,2906,waste_basket, 
+7855,7018080879,2561,hairdresser, 
+7856,7018080880,2512,clothes, 
+7857,7018080882,2561,hairdresser, 
+7858,7018082785,2503,kiosk, 
+7859,7018082786,2503,kiosk, 
+7860,7018082788,2503,kiosk, 
+7861,7018082792,2503,kiosk, 
+7862,7018082793,2903,drinking_water, 
+7863,7018082794,2305,bar,Clego Spot
+7864,7018082795,2906,waste_basket, 
+7865,7018082796,2903,drinking_water, 
+7866,7018082797,2512,clothes, 
+7867,7018082798,2503,kiosk,My Redeemer Lives
+7868,7018082799,2503,kiosk, 
+7869,7018082801,2503,kiosk, 
+7870,7018082802,2903,drinking_water, 
+7871,7018082805,2903,drinking_water, 
+7872,7018082807,2503,kiosk, 
+7873,7018082811,2514,chemist, 
+7874,7018082812,2503,kiosk, 
+7875,7018082814,2503,kiosk,Rukash Enterprice
+7876,7018082815,2503,kiosk, 
+7877,7018082817,2568,laundry,Borno Laundry Services
+7878,7018082818,2561,hairdresser,Unique Creations
+7879,7018082819,2503,kiosk, 
+7880,7018082820,2302,fast_food, 
+7881,7018082821,2903,drinking_water, 
+7882,7018194977,2514,chemist,O. K. Brown
+7883,7018230607,2082,school,Greater Care School
+7884,7018230616,2503,kiosk,Bile phone
+7885,7018230618,2514,chemist,MHS Nyamekye Chemical Shop
+7886,7018230620,2302,fast_food, 
+7887,7018230622,2525,mobile_phone_shop, 
+7888,7018230623,2511,convenience, 
+7889,7018230626,2503,kiosk, 
+7890,7018230630,2511,convenience, 
+7891,7018230631,2518,beverages, 
+7892,7018230634,2517,shoe_shop, 
+7893,7018230635,2516,butcher, 
+7894,7018230636,2302,fast_food, 
+7895,7018230638,2561,hairdresser, 
+7896,7018230640,2511,convenience, 
+7897,7018230641,2503,kiosk, 
+7898,7018230642,2906,waste_basket, 
+7899,7018230643,2906,waste_basket, 
+7900,7018230645,2511,convenience, 
+7901,7018230647,2906,waste_basket, 
+7902,7018230648,2511,convenience, 
+7903,7018230649,2561,hairdresser, 
+7904,7018230650,2525,mobile_phone_shop,Extreme Phones
+7905,7018230651,2906,waste_basket, 
+7906,7018230652,2906,waste_basket, 
+7907,7018230655,2511,convenience, 
+7908,7018230656,2561,hairdresser,Daran Doka
+7909,7018230659,2906,waste_basket, 
+7910,7018230660,2906,waste_basket, 
+7911,7018230661,2528,greengrocer, 
+7912,7018230666,2511,convenience, 
+7913,7018230667,2511,convenience, 
+7914,7018230668,2525,mobile_phone_shop, 
+7915,7018230669,2305,bar, 
+7916,7018230670,2512,clothes,Praise Unisex Fashion Design
+7917,7018230671,2903,drinking_water, 
+7918,7018230674,2511,convenience, 
+7919,7018230677,2503,kiosk, 
+7920,7018230678,2503,kiosk, 
+7921,7018230679,2512,clothes,Habbakuk
+7922,7018230684,2511,convenience, 
+7923,7018230685,2082,school,An-Najaah Islamic School
+7924,7018230686,2512,clothes, 
+7925,7018230687,2512,clothes, 
+7926,7018230689,2906,waste_basket, 
+7927,7018230690,2511,convenience, 
+7928,7018230691,2906,waste_basket, 
+7929,7018230692,2503,kiosk, 
+7930,7018230693,2503,kiosk, 
+7931,7018230694,2503,kiosk, 
+7932,7018230695,2561,hairdresser, 
+7933,7018299902,2101,pharmacy,Sievako Pharmacy Limited
+7934,7018299904,2302,fast_food,Insha Allahu Food Joint
+7935,7018299906,2512,clothes, 
+7936,7018299912,2561,hairdresser,Natural Hair & Braids
+7937,7018299914,2511,convenience, 
+7938,7018299915,2546,computer_shop,Premax Computers
+7939,7018299916,2512,clothes, 
+7940,7018299921,2503,kiosk, 
+7941,7018299922,2503,kiosk, 
+7942,7018299923,2302,fast_food,Arise and Shine Hot Kenkey Joint
+7943,7018299924,2503,kiosk, 
+7944,7018299927,2503,kiosk,Isha Allahu
+7945,7018299928,2302,fast_food,Fauzia Special Waakye
+7946,7018299930,2503,kiosk, 
+7947,7018299932,2561,hairdresser,God's Favour Hair Salon
+7948,7018299938,2111,clinic,Lifeview Medical Laboratory and Ultra Scan centre
+7949,7018299939,2906,waste_basket, 
+7950,7018299940,2503,kiosk, 
+7951,7018299941,2529,beauty_shop,Mafat Ghana
+7952,7018299943,2084,college,Express Media College
+7953,7018299947,2544,furniture_shop,Alyvon Enterprise
+7954,7018299950,2906,waste_basket, 
+7955,7018299951,2906,waste_basket, 
+7956,7018299954,2503,kiosk, 
+7957,7018299956,2512,clothes,Zuben
+7958,7018299957,2503,kiosk, 
+7959,7018299958,2304,pub,Sunset Pub
+7960,7018299959,2544,furniture_shop,Zion Decor
+7961,7018299961,2546,computer_shop,Sata Solution Laptops Service Centre
+7962,7018299962,2503,kiosk, 
+7963,7018299963,2512,clothes, 
+7964,7018299965,2302,fast_food,Christy's Noodles
+7965,7018299967,2512,clothes,Mamaba Wholesale & Retail
+7966,7018299970,2543,doityourself, 
+7967,7018299971,2503,kiosk, 
+7968,7018299973,2517,shoe_shop, 
+7969,7018299974,2903,drinking_water, 
+7970,7018299975,2561,hairdresser, 
+7971,7018299977,2512,clothes,Nafi's Closet
+7972,7018307148,2511,convenience, 
+7973,7018307151,2305,bar,Happy Corner Chop Bar
+7974,7018307152,2511,convenience, 
+7975,7018307153,2561,hairdresser, 
+7976,7018307154,2302,fast_food, 
+7977,7018307155,2511,convenience, 
+7978,7018307156,2906,waste_basket, 
+7979,7018307158,2517,shoe_shop, 
+7980,7018307159,2901,toilet, 
+7981,7018307160,2906,waste_basket, 
+7982,7018307162,2302,fast_food, 
+7983,7018307163,2906,waste_basket, 
+7984,7018307166,2511,convenience, 
+7985,7018307167,2511,convenience, 
+7986,7018307168,2302,fast_food, 
+7987,7018307171,2561,hairdresser, 
+7988,7018307172,2511,convenience, 
+7989,7018307173,2511,convenience, 
+7990,7018307174,2561,hairdresser,Powerful Haircut
+7991,7018307178,2511,convenience, 
+7992,7018307180,2529,beauty_shop,Basmatic Glitrers
+7993,7018307181,2544,furniture_shop, 
+7994,7018307183,2511,convenience, 
+7995,7018307184,2511,convenience, 
+7996,7018331785,2906,waste_basket, 
+7997,7018331787,2511,convenience, 
+7998,7018331789,2901,toilet, 
+7999,7018339228,2906,waste_basket, 
+8000,7018339231,2561,hairdresser,Rise Up Hair Cut
+8001,7018339237,2528,greengrocer, 
+8002,7018339238,2503,kiosk,Tango And Sons Company Limited
+8003,7018339239,2544,furniture_shop,Kwadan Furniture Works
+8004,7018339242,2305,bar,Auntie Mary's Spot
+8005,7018339243,2301,restaurant,La Bett cakes and food
+8006,7018339244,2503,kiosk, 
+8007,7018339245,2503,kiosk, 
+8008,7018339251,2503,kiosk,With God All Things Are Possible
+8009,7018339253,2503,kiosk, 
+8010,7018339255,2528,greengrocer, 
+8011,7018339257,2906,waste_basket, 
+8012,7018339258,2903,drinking_water, 
+8013,7018339261,2903,drinking_water,no
+8014,7018339262,2503,kiosk, 
+8015,7018339263,2503,kiosk, 
+8016,7018339265,2906,waste_basket, 
+8017,7018339268,2903,drinking_water, 
+8018,7018339269,2503,kiosk, 
+8019,7018339270,2503,kiosk, 
+8020,7018339271,2906,waste_basket, 
+8021,7018339273,2082,school,Gratina Hope of Peace International School
+8022,7018339278,2303,cafe, 
+8023,7018339279,2302,fast_food, 
+8024,7018339281,2906,waste_basket, 
+8025,7018339282,2503,kiosk, 
+8026,7018339283,2903,drinking_water, 
+8027,7018339284,2906,waste_basket, 
+8028,7018353485,2302,fast_food, 
+8029,7018353486,2503,kiosk, 
+8030,7018353488,2503,kiosk,Give Everything To Allah
+8031,7018353489,2503,kiosk,Efo Mawu Lolo Milling
+8032,7018353490,2903,drinking_water, 
+8033,7018353491,2906,waste_basket, 
+8034,7018364089,2082,school,Harlem Bridge
+8035,7018364090,2302,fast_food, 
+8036,7018364092,2082,school,Interco
+8037,7018364093,2906,waste_basket, 
+8038,7018364094,2906,waste_basket, 
+8039,7018364096,2503,kiosk, 
+8040,7018364097,2906,waste_basket, 
+8041,7018364098,2503,kiosk, 
+8042,7018364100,2302,fast_food, 
+8043,7018364102,2906,waste_basket, 
+8044,7018364103,2901,toilet, 
+8045,7018364106,2906,waste_basket, 
+8046,7018364107,2503,kiosk, 
+8047,7018364108,2561,hairdresser, 
+8048,7018364109,2503,kiosk, 
+8049,7018364110,2901,toilet, 
+8050,7018364112,2561,hairdresser, 
+8051,7018364115,2901,toilet, 
+8052,7018364117,2503,kiosk, 
+8053,7018364118,2503,kiosk, 
+8054,7018364119,2302,fast_food, 
+8055,7018364120,2906,waste_basket, 
+8056,7018364121,2503,kiosk, 
+8057,7018364122,2543,doityourself, 
+8058,7018364123,2906,waste_basket, 
+8059,7018364124,2906,waste_basket, 
+8060,7018364125,2503,kiosk, 
+8061,7018364126,2503,kiosk, 
+8062,7018364127,2906,waste_basket, 
+8063,7018743832,2906,waste_basket, 
+8064,7018743835,2903,drinking_water, 
+8065,7018743843,2906,waste_basket, 
+8066,7018743849,2903,drinking_water, 
+8067,7018743853,2906,waste_basket, 
+8069,7019417555,2544,furniture_shop, 
+8070,7019452286,2528,greengrocer, 
+8071,7019452299,2906,waste_basket, 
+8072,7019452300,2512,clothes,Vuwa Italy Collection
+8073,7019452303,2511,convenience, 
+8074,7019452304,2511,convenience,Sharppip Ventures
+8075,7019452305,2514,chemist,Anita Nyame Tobbin
+8076,7019452307,2517,shoe_shop, 
+8077,7019452308,2302,fast_food,Meyi Shei Allah Special Food
+8078,7019452309,2546,computer_shop,Remedy House Concepts
+8079,7019452310,2511,convenience, 
+8080,7019452315,2529,beauty_shop,Majesty Beauty Parlour
+8081,7019452319,2511,convenience, 
+8082,7019452322,2901,toilet, 
+8083,7019452324,2568,laundry,Easy World Laundry and Dry Cleaning
+8084,7019452328,2561,hairdresser,EA Dealers
+8085,7019452330,2512,clothes,Laugh Last
+8086,7019452331,2542,bicycle_shop, 
+8087,7019452332,2561,hairdresser,Adams Hair Cut
+8088,7019452334,2518,beverages, 
+8089,7019452335,2511,convenience, 
+8090,7019452336,2517,shoe_shop,Kiss Beads
+8091,7019452337,2305,bar, 
+8092,7019452343,2302,fast_food,Sakora Tea Bay
+8093,7019452344,2512,clothes, 
+8094,7019452345,2901,toilet, 
+8095,7019452346,2516,butcher,Jil Froz
+8096,7019452347,2903,drinking_water, 
+8097,7019452349,2561,hairdresser,Look Good Barbering & Business Centre
+8098,7019452352,2302,fast_food,Sweet Apple foods
+8099,7019452355,2511,convenience, 
+8100,7019452356,2903,drinking_water, 
+8101,7019452357,2906,waste_basket, 
+8102,7019452362,2561,hairdresser,Haircut Extraordinaire
+8103,7019452363,2503,kiosk, 
+8104,7019452364,2561,hairdresser, 
+8105,7019713049,2503,kiosk, 
+8106,7019713050,2305,bar, 
+8107,7019713051,2503,kiosk, 
+8108,7019713052,2503,kiosk, 
+8109,7019713053,2305,bar,Lovers are few Bar
+8110,7019713056,2903,drinking_water, 
+8111,7019713057,2906,waste_basket, 
+8112,7019713058,2514,chemist,Kwasi Gyane Over The Counter Medicine
+8113,7019713059,2503,kiosk, 
+8114,7019713061,2302,fast_food,Mama G Kitchen
+8115,7019713063,2503,kiosk,E and G Cold Store and Provisions
+8116,7019713065,2305,bar,Down Town Spot
+8117,7019713066,2561,hairdresser,AK Beauty Hair Salon
+8118,7019713067,2906,waste_basket, 
+8119,7019713070,2503,kiosk, 
+8120,7019713072,2503,kiosk, 
+8121,7019713075,2503,kiosk, 
+8122,7019713076,2503,kiosk, 
+8123,7019713077,2561,hairdresser,Good Salon Guide
+8124,7019713080,2503,kiosk, 
+8125,7019713082,2561,hairdresser, 
+8126,7019713084,2503,kiosk, 
+8127,7019754786,2503,kiosk, 
+8128,7019754788,2503,kiosk, 
+8129,7019754789,2503,kiosk, 
+8130,7019754790,2901,toilet, 
+8142,7020608821,2512,clothes,Maa Sha Allah Fashion Trend
+8143,7020608822,2512,clothes, 
+8144,7020608827,2561,hairdresser,Supreme Matter
+8145,7020608828,2503,kiosk, 
+8146,7020608831,2302,fast_food,Beans Boutique
+8147,7020608833,2903,drinking_water, 
+8148,7020608834,2302,fast_food, 
+8149,7020608836,2511,convenience, 
+8150,7020608837,2251,sports_centre, 
+8151,7020608840,2561,hairdresser, 
+8152,7020608842,2903,drinking_water, 
+8153,7020608843,2511,convenience, 
+8154,7020608845,2503,kiosk, 
+8155,7020608846,2511,convenience,By The Grace of God Provision
+8156,7020608849,2302,fast_food, 
+8157,7020608850,2561,hairdresser,Kikas Beauty Salon
+8158,7020673099,2503,kiosk, 
+8159,7020673101,2503,kiosk, 
+8160,7020673102,2302,fast_food, 
+8161,7020673103,2503,kiosk,God is Good
+8162,7020673104,2082,school,Victorious Academy
+8163,7020673106,2082,school,Almighty Genius Preperatory School
+8164,7020673107,2083,kindergarten,Children of God
+8165,7020673109,2529,beauty_shop,Modern Beauty Saloon
+8166,7020673110,2503,kiosk, 
+8167,7020673113,2503,kiosk,Bismillah Vote for Allah Enterprise
+8168,7020673114,2514,chemist, 
+8169,7020673115,2511,convenience, 
+8170,7020673116,2561,hairdresser, 
+8171,7020673118,2512,clothes,Nurullah Fashion Centre
+8172,7020673120,2503,kiosk, 
+8173,7020673121,2528,greengrocer,Obaa Yaa Store
+8174,7020673122,2561,hairdresser, 
+8175,7020673123,2503,kiosk, 
+8176,7020673124,2503,kiosk, 
+8177,7020673126,2503,kiosk, 
+8178,7020673127,2512,clothes, 
+8179,7020673128,2517,shoe_shop, 
+8180,7020673129,2514,chemist, 
+8181,7020673130,2503,kiosk, 
+8182,7020673131,2511,convenience, 
+8183,7020673132,2503,kiosk, 
+8184,7020673133,2503,kiosk, 
+8185,7020673134,2503,kiosk,Allah is Enough for Me
+8186,7020673137,2512,clothes,Psalm 23 Fashion
+8187,7020673139,2725,artwork,Mawuko's Art
+8188,7020673140,2503,kiosk, 
+8189,7020673142,2561,hairdresser,Mr. Manor Barbering Shop
+8190,7020673143,2528,greengrocer, 
+8191,7020673144,2503,kiosk, 
+8192,7020673145,2503,kiosk, 
+8193,7020673147,2503,kiosk, 
+8194,7020673149,2082,school,Becy's Day Care and Primary School
+8195,7020673150,2503,kiosk,Sister Mama Store
+8196,7020673151,2503,kiosk, 
+8197,7020673152,2529,beauty_shop,Samira Professional Hairstyle
+8198,7020673153,2302,fast_food, 
+8199,7020673154,2503,kiosk, 
+8200,7020673156,2302,fast_food, 
+8201,7020739653,2503,kiosk, 
+8202,7020739654,2512,clothes,Brighing Fashion Centre
+8203,7020739656,2561,hairdresser,Obaapa Gifty Beauty Saloon
+8204,7020739657,2906,waste_basket, 
+8205,7020739659,2906,waste_basket, 
+8206,7020739660,2906,waste_basket, 
+8207,7020739661,2302,fast_food, 
+8208,7020739666,2906,waste_basket, 
+8209,7020739668,2302,fast_food, 
+8210,7020739669,2906,waste_basket, 
+8211,7020739673,2906,waste_basket, 
+8212,7020739675,2302,fast_food,Sweet Joint
+8213,7020739676,2906,waste_basket, 
+8214,7020739678,2301,restaurant,Diana Chop Bar
+8215,7020751686,2906,waste_basket, 
+8216,7020751687,2903,drinking_water, 
+8217,7020751691,2503,kiosk, 
+8218,7020751693,2906,waste_basket, 
+8219,7020751695,2561,hairdresser,Salvation Beauty Palace
+8220,7020751697,2906,waste_basket, 
+8221,7020751699,2906,waste_basket, 
+8222,7020751700,2503,kiosk,Al-Kanic
+8223,7020751703,2503,kiosk, 
+8224,7020751704,2503,kiosk, 
+8225,7020751705,2529,beauty_shop,Morning Star Salon
+8229,7025658165,2302,fast_food,Aha Food Services
+8234,7033934885,2501,supermarket,kabfarmgh Achimota
+8244,7039485976,2906,waste_basket, 
+8298,7048666966,2544,furniture_shop,Royal furniture Limited
+8300,7049605275,2517,shoe_shop,Fawaz Salu Leather Works
+8301,7049607540,2401,hotel,Shiva Hotel
+8302,7049673830,2512,clothes,20s Collections
+8303,7049674203,2543,doityourself,Sanyai Investment
+8305,7051293354,2101,pharmacy,Bedita
+8309,7064161645,2529,beauty_shop,Care For Beauty
+8310,7064161646,2503,kiosk, 
+8311,7064161647,2962,water_well, 
+8312,7064161649,2528,greengrocer, 
+8313,7064161651,2503,kiosk, 
+8314,7064161652,2528,greengrocer, 
+8315,7064161653,2962,water_well, 
+8316,7064161654,2561,hairdresser,Dread lock Centre
+8317,7064161655,2503,kiosk, 
+8318,7064161660,2561,hairdresser, 
+8319,7064161665,2503,kiosk, 
+8320,7064161666,2503,kiosk, 
+8321,7064161674,2906,waste_basket, 
+8322,7064161677,2511,convenience, 
+8323,7064161678,2512,clothes,Cut 2 Fit Business Centre
+8324,7064161679,2503,kiosk, 
+8325,7064161680,2561,hairdresser,Ike's Dreadlooks Centre
+8326,7064161684,2903,drinking_water, 
+8327,7064180187,2511,convenience, 
+8328,7064180188,2503,kiosk, 
+8329,7064180192,2511,convenience, 
+8330,7064180193,2511,convenience, 
+8331,7064180194,2903,drinking_water, 
+8332,7064180195,2302,fast_food,Sharmaco Special Food
+8333,7064180201,2906,waste_basket, 
+8334,7064180202,2906,waste_basket, 
+8335,7064180206,2901,toilet, 
+8336,7064180211,2906,waste_basket, 
+8346,7064180257,2906,waste_basket, 
+8348,7064180262,2512,clothes, 
+8349,7064180263,2903,drinking_water, 
+8350,7064180264,2512,clothes, 
+8351,7064180265,2302,fast_food,Iko Shei Allah Hajia Special
+8352,7064180266,2906,waste_basket, 
+8353,7064180267,2517,shoe_shop, 
+8354,7064180269,2511,convenience,God Time Is the best
+8355,7064180270,2901,toilet, 
+8356,7064180271,2511,convenience, 
+8357,7064180273,2561,hairdresser,Glams By Hawat
+8358,7064180274,2903,drinking_water, 
+8359,7064180276,2906,waste_basket, 
+8361,7064180290,2903,drinking_water, 
+8363,7064180295,2901,toilet, 
+8364,7064180297,2906,waste_basket, 
+8366,7064180299,2906,waste_basket, 
+8368,7064180303,2906,waste_basket, 
+8369,7064180308,2903,drinking_water, 
+8370,7064180309,2906,waste_basket, 
+8371,7064180310,2302,fast_food, 
+8372,7064180312,2305,bar, 
+8373,7064180316,2903,drinking_water, 
+8374,7064180325,2906,waste_basket, 
+8375,7064180329,2901,toilet, 
+8376,7064180335,2901,toilet, 
+8377,7064180341,2906,waste_basket, 
+8391,7084942846,2515,bookshop,Step To Christ
+8392,7084953830,2601,bank,Consolidated Bank Ghana
+8397,7089766479,2906,waste_basket, 
+8423,7122836840,2903,drinking_water, 
+8453,7139356520,2401,hotel,Vacation Inn Hotel
+8478,7153972085,2721,attraction,“Deo Gratias” Photography Archive
+8501,7164564613,2101,pharmacy,Pharmatrust Pharmacy
+8526,7171462496,2511,convenience,Bonjour
+8527,7171464501,2302,fast_food,Chicken Inn
+8528,7171465831,2303,cafe,Vida e Caffe
+8529,7171465922,2564,car_wash,Total Wash
+8530,7171466999,2101,pharmacy,Add Pharma
+8531,7171467402,2302,fast_food,Pizza Inn
+8575,7198695553,2304,pub,Lovers Inn
+8585,7209372663,2101,pharmacy, 
+8588,7211393385,2101,pharmacy,M&G Pharmaceuticals
+8589,7211448645,2101,pharmacy,M&G whole sale division
+8596,7213779547,2082,school,Joyce Ababio College of Creative Design
+8599,7215950604,2101,pharmacy,Ami Pharmacy
+8601,7218465627,2302,fast_food,Abotre Taste and See
+8604,7220926588,2302,fast_food,Mr. A. D. Special
+8610,7230284371,2525,mobile_phone_shop,Day Global Phones
+8611,7230284665,2529,beauty_shop,Trinity Parlour
+8618,7238134590,2525,mobile_phone_shop,Franco Trading
+8631,7246793338,2951,comms_tower, 
+8637,7252817952,2951,comms_tower, 
+8643,7261514740,2601,bank,Bond Financial Services
+8644,7261620497,2601,bank,Best Point Savings and Loans
+8662,7277097285,2602,atm, 
+8676,7292619648,2546,computer_shop,Best Buy Computers
+8766,7441174999,2302,fast_food,M and M Catering Services
+8908,7775231760,2544,furniture_shop,Kpogas Furniture Limited
+8911,7775261052,2525,mobile_phone_shop,Tecno
+8919,7775296840,2601,bank,Asa Savings and Loans
+8948,7792518383,2304,pub, 
+8971,7814702658,2101,pharmacy,GAFAT pharmacy
+8973,7814709395,2601,bank,Ghana Commercial Bank
+8974,7814711688,2101,pharmacy, 
+9034,7925378161,2520,jeweller,AB Jewelry
+9054,7962491894,2907,camera_surveillance, 
+9059,7990231852,2907,camera_surveillance, 
+9078,8003263177,2101,pharmacy,Colliers Pharmacy
+9109,8070168590,2110,hospital,Citadel Hospital
+9111,8070174468,2101,pharmacy,Alex Tawiah Chemical Store
+9201,8567013618,2601,bank,Eco Bank
+9203,8567023017,2602,atm, 
+9205,8567046217,2101,pharmacy, 
+9206,8567046317,2512,clothes, 
+9207,8567115618,2511,convenience,Good Morning Ent
+9208,8567129517,2511,convenience, 
+9217,8572190318,2511,convenience,2 Guys Supermarket
+9226,8572607019,2101,pharmacy, 
+9228,8572612118,2304,pub,Lovers Inn
+9229,8572720418,2529,beauty_shop,Abiata
+9231,8577168395,2030,recycling,Coliba Waste Management Limited
+9232,8577168396,2030,recycling,Borla Plus
+9235,8577168399,2961,wastewater_plant,Lavender Hill Faecal Treatment Plant
+9256,8651887564,2529,beauty_shop,Beauty o’clock
+9259,8677787270,2529,beauty_shop,Beauty Essentials
+9315,8916007821,2301,restaurant,Bobby's Pub & Restaurant
+9321,8953954351,2111,clinic,James Town Usher Clinic
+9322,8955155879,2082,school,St Mary's Anglican School
+9323,8955813297,2082,school,Palledium
+9325,8960761560,2082,school,Hansen SDA School
+9326,8963755301,2082,school,Richard Akwei Memorial School
+9449,9469866678,2110,hospital,McHenly's Medical Centre
+9452,9490792872,2731,castle,Gbese Mantse Palace
+9483,9593664435,2907,camera_surveillance, 
+9525,9602395871,2101,pharmacy,Tobinco
